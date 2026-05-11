@@ -1,0 +1,3 @@
+Username: api_user_87815738
+Chat ID: 8781573812
+profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/clients/8781573812/8781573812_profile.jpg
