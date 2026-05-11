@@ -1,0 +1,550 @@
+[
+  {
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdeoTlaZ3Ju9ztBKr3NAOBzRoeHYxdqo3Vhg_4adm2zpg-yHuZsMBga2fbJx9BKHkbDcmwlorlRa8rifb0EJgJJWERaEucq1TYIwf2v1885ade11iu8xRlNUjYSt_H8AJ8LmgraJypoCDJCPb-g7FrN1iDCX-sagK9QUij0wUqlip82IUDBY0ahXrvi8/s4509/craxrat.png",
+    "dec": "CraxRat - The Ultimate Hacking Tool",
+    "price": 6.0,
+    "badge": "only for 6$ and safe!!",
+    "category": "Tools",
+    "link": "",
+    "about": "CraxRAT is a Remote Access Trojan (RAT) designed to target Android devices. It is a type of surveillance-oriented software that enables remote interaction with a compromised smartphone through a command-and-control interface.\r\n\r\nAt its core, CraxRAT functions as a bridge between an operator and a mobile device, allowing remote visibility and control over various device activities. Once active on a device, it establishes persistent communication with an external control panel, typically hosted on a remote server. Through this connection, the operator can issue commands and receive real-time data from the device.\r\n\r\nCraxRAT is commonly associated with scenarios involving device monitoring, behavioral observation, and remote administration of Android environments. It operates within the system layer of the device and interacts with hardware and software components such as storage, sensors, communication modules, and user interface elements.\r\n\r\nThe software is generally deployed in mobile environments where continuous access to device-level information is required. This includes interaction with files, messages, call logs, installed applications, location data, and live system status. Its architecture usually includes:\r\n\r\n* A client component installed on the Android device\r\n* A command-and-control dashboard accessed remotely\r\n* A communication channel that maintains synchronization between both sides\r\n\r\nCraxRAT is used in contexts where remote device management, activity tracking, or behavioral insight into mobile usage is desired. It operates specifically within Android ecosystems and is designed to integrate into the background processes of the operating system while maintaining ongoing connectivity with its remote interface."
+  },
+  {
+    "img": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/12/Medusa-Stealer-1.png?ssl=1",
+    "dec": "Medusa Rat - Advanced Remote Access Tool",
+    "price": 3.0,
+    "badge": "",
+    "category": "Tools",
+    "about": "",
+    "link": ""
+  },
+  {
+    "img": "https://th.bing.com/th/id/OIP.S_4k8CP5LLqpb9UVn0Vd8AHaF8?rs=1&pid=ImgDetMain&cb=idpwebpc2",
+    "dec": "VenomRat - Powerful Remote Access Tool for Pc",
+    "price": 12.0,
+    "badge": "",
+    "category": "Tools",
+    "about": "VenomRAT is a Windows-based Remote Access Tool designed to provide deep remote interaction with a computer system through a centralized control interface.\r\n\r\nIt operates by establishing a persistent connection between a target machine and a remote command panel, enabling continuous two-way communication. Once active, VenomRAT allows the operator to remotely interact with the operating system environment as if they were physically present at the machine.\r\n\r\nThe software functions by integrating into the system processes and maintaining background execution while awaiting instructions from its command-and-control interface. Through this connection, the operator can access and manage various components of the system including files, applications, system configuration, and user activity.\r\n\r\nVenomRAT is commonly utilized in desktop computing environments where remote visibility or system-level interaction is required. It is specifically designed for Windows operating systems and integrates with core system functions to monitor and interact with the device state.\r\n\r\nIts structure typically consists of:\r\n\r\nA client module that runs on the Windows machine\r\n\r\nA remote management panel used by the operator\r\n\r\nA communication layer that enables real-time command execution and data exchange\r\n\r\nVenomRAT is used in contexts involving remote system interaction, environment monitoring, and administrative-style control over Windows-based devices. It operates within traditional PC infrastructures and maintains ongoing connectivity with its remote interface for continuous system engagement.",
+    "link": ""
+  },
+  {
+    "img": "https://th.bing.com/th/id/OIP.TAKMQoBw8V2T8_NpWG_ZBgHaEK?rs=1&pid=ImgDetMain&cb=idpwebpc2",
+    "dec": "Black Hat Comprehensive Hacking Course",
+    "price": 20.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://th.bing.com/th/id/OIP.CYHVI0k5r-pwZ7kIYIOCRQHaEL?rs=1&pid=ImgDetMain&cb=idpwebpc2",
+    "dec": "Combating cyber extortion on the Internet",
+    "price": 34.0,
+    "badge": "",
+    "category": "Services"
+  },
+  {
+    "img": "https://th.bing.com/th/id/OIP.-mj3dRrHh9RLziqNFReSZAHaEe?rs=1&pid=ImgDetMain&cb=idpwebpc2",
+    "dec": "Phone number WhatsApp",
+    "price": 0.3,
+    "badge": "",
+    "category": "Services"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzT_21fwUhWFaYVNDkz6oPPBm3tlA7XYqFgX83tdaxl374WxvNJFkQYfDvPapTuLfb8oc&usqp=CAU",
+    "dec": "Phone number Telegram",
+    "price": 0.3,
+    "badge": "",
+    "category": "Services"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-v--hyhQ88_1zAkcsEC7dfA_HabQoRGN0zlNOSH0OeEGlk4zZ-Kkw-QAAoR0_PShJ08&usqp=CAU",
+    "dec": "IOS REMOTE CONTROL",
+    "price": 60.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3amtIYwGRf_BMPtpBUfvz3EUXQxrNTgRs-l8bhIdpGpN80sfzsFvMD50EmaTBKisHqIE&usqp=CAU",
+    "dec": "Burpsuite pro",
+    "price": 30.0,
+    "badge": "",
+    "category": "Tools",
+    "about": "✅ What Burp Suite Professional is (legitimately)\r\n\r\nBurp Suite Professional is a commercial web-app security testing tool, used widely by penetration-testers and security professionals. \r\n\r\nThere is a free version — Burp Suite Community Edition — which offers basic functionality.",
+    "link": ""
+  },
+  {
+    "img": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/g/tailing-big-head-ransomwares-variants-tactics-and-impact/figure6-tailing-big-head-ransomware-variants-tactics-impact.png",
+    "dec": "World Wind Stealer 2024",
+    "price": 10.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.cobaltstrike.com/app/uploads/2023/01/cobaltstrike_ssh2.png",
+    "dec": "Cobalt Strike",
+    "price": 12.0,
+    "badge": "",
+    "category": "Tools",
+    "about": "✅ What Cobalt Strike Is\r\n\r\nCobalt Strike is a commercial adversary-simulation and red-team platform used to test security controls and simulate real-world attacker behaviors.\r\nIt supports post-exploitation actions, command execution, lateral movement, and team-based operations.\r\n",
+    "link": ""
+  },
+  {
+    "img": "https://b3549173.smushcdn.com/3549173/wp-content/uploads/2024/02/hacking-history.jpg?lossy=2&strip=1&avif=1",
+    "dec": "Wifi Microtik Crack Tool",
+    "price": 7.0,
+    "badge": "",
+    "category": "Tools",
+    "about": "Overview\r\n\r\n“WiFi Mikrotek Utility” is an item displayed within a fully virtual store environment.\r\n\r\nIt is presented as a tool for interacting with Mikrotek networks within this fictional world, where communication systems based on simple, testable protocols are prevalent.\r\n\r\nThe item is often marketed as a tool for analyzing network behavior, studying vulnerabilities in legacy protocols, or simulating unfamiliar access scenarios in training environments within the story.\r\n\r\nIntended Use (Fictional Context)\r\n\r\nWithin this fictional world, the tool is seen as an option for those who wish to:\r\n\r\nTest the responsiveness of virtual Mikrotek networks\r\n\r\nAnalyze how nodes handle unexpected attempts\r\n\r\nEvaluate the robustness of the security of legacy communication devices prevalent in this virtual universe\r\n\r\nUse the tool within training labs simulating legacy networks\r\n\r\nThere is no clear guidance on its intended use; the hypothetical user is left to interpret its purpose based on the scenario within the story.\r\n\r\nBehavior & Characteristics\r\n\r\nThe tool exhibits the following characteristics within the framework:\r\n\r\nA simple, command-based interface\r\n\r\nCompatibility with legacy network emulators\r\n\r\nProduces results typically used for network load analysis\r\n\r\nMay interact with default Mikrotik protocols in a non-standard manner, making it interesting for curious users",
+    "link": ""
+  },
+  {
+    "img": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2024/08/28073049/telegram-privacy-security-backup-aug2024-featured.jpg",
+    "dec": "Reporter-Telegram",
+    "price": 7.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://dso8.raed.net:455/files/ChatGPT-Image-23-%D9%8A%D9%88%D9%84%D9%8A%D9%88-2025%D8%8C-02-27-02-%D9%85.png",
+    "dec": "BlueBot",
+    "price": 40.0,
+    "badge": "Dark Ai-Agent with tools!",
+    "category": "Tools",
+    "about": "Bluebot is an artificial intelligence model capable of executing commands, scanning systems, and controlling a group of smaller bots. It can smoothly and accurately control targets without requiring user intervention. It can build, run, and distribute viruses to targets already connected to the C2Panel (\"BlueVenom\").\r\n\r\nSource Code: $40\r\nSource code price (FULL MOUDELS): $120\r\nMonthly subscription price: $5\r\nAnnual subscription price: $10",
+    "link": ""
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/800px-Flag_of_Iraq.svg.png",
+    "dec": "Iraq Data Base",
+    "price": 20.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://russiancultureschool.com/wp-content/uploads/2021/07/russian-flag-1168870_1280.jpg",
+    "dec": "Russia Data Base",
+    "price": 30.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://t4.ftcdn.net/jpg/02/80/15/99/360_F_280159935_D9z3lIDeqntZcuQC2H9QkiIkLJFmAM1D.jpg",
+    "dec": "Morocco stuident's Data Base",
+    "price": 20.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjk0Ni1uLTE0OS1hLmpwZw.jpg",
+    "dec": "instagram Cookies",
+    "price": 2.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://cdn.pixabay.com/photo/2016/01/20/09/05/iran-1151139_1280.jpg",
+    "dec": "Iran Data Base",
+    "price": 30.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://www.sangfor.com/sites/default/files/inline-images/What%20is%20Doxing.jpg",
+    "dec": "Doxing Pack",
+    "price": 50.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474993uev/cach-lay-cookies-va-token-facebook-don-gian_093826900.jpg",
+    "dec": "FaceBook Cookies",
+    "price": 2.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://www.cnet.com/a/img/resize/ba9d7e0f466e9d5278efe9dbaf6c27a93f8c9acf/hub/2024/04/18/636ee61f-c3c9-4cf9-ad83-be605c4a00db/tmobile-16x9.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "dec": "USA T-MOBILE Database",
+    "price": 30.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://cdn.britannica.com/33/4833-050-F6E415FE/Flag-United-States-of-America.jpg",
+    "dec": "USA School Data Bases",
+    "price": 20.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://flagfactoryshop.com/image/cache/catalog/products/flags/national/mockups/albania-1200x720.jpg",
+    "dec": "Albanian Data Base",
+    "price": 20.0,
+    "badge": "",
+    "category": "DataBase"
+  },
+  {
+    "img": "https://caddcentre.com/blog/wp-content/uploads/2021/11/RE-Banner.jpg",
+    "dec": "Reverse Engineering Essentials",
+    "price": 40.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://www.pusr.com/d/file/20191203/6cbcc46c1fda56a98547c153523ede3a.png",
+    "dec": "interet IOT",
+    "price": 30.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://i0.wp.com/lemmymorgan.com/wp-content/uploads/2021/12/Types-of-hat-hackers-and-how-they-operate.jpeg",
+    "dec": "BlueHat Hacking + Python BlackHat",
+    "price": 50.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://cyberscoop.com/wp-content/uploads/sites/3/2017/11/Stingray.png",
+    "dec": "SS7 Hacking",
+    "price": 70.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://australiancybersecuritymagazine.com.au/wp-content/uploads/2018/12/CCSP-Logo-800x480.jpeg",
+    "dec": "CCSP",
+    "price": 40.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://img-c.udemycdn.com/course/240x135/4085866_feca_9.jpg",
+    "dec": "SDR for Hacking",
+    "price": 70.0,
+    "badge": "",
+    "category": "Courses"
+  },
+  {
+    "img": "https://miro.medium.com/v2/resize:fit:1400/1*ZtWgnkA5DD0sd7lgOh5mig.png",
+    "dec": "Bug Bounty Hunting - Ethical Hacking",
+    "price": 30.0,
+    "badge": "New!!",
+    "category": "Courses"
+  },
+  {
+    "img": "https://cdn.dribbble.com/userupload/13955769/file/original-31260e939b7738205b72bcd08ebce773.png?resize=400x0",
+    "dec": "Fighter Rat",
+    "price": 20,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://repository-images.githubusercontent.com/940345031/bffd11bc-8f39-44ac-bd6a-ffcb35e76b09",
+    "dec": "Raton Rat",
+    "price": 20.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6edb60356e76ab7c/64f17dfa71df629e5482ac85/android_rafapress_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "dec": "Edge Stealer",
+    "price": 20.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.launch-marketing.com/wp-content/uploads/2020/08/iStock-1219137556-scaled.jpg",
+    "dec": "SilverBullet",
+    "price": 20.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAoYNNAWsWVNW6AICZvYArf6koJK4EzA3FMP4HzskeMeX0C_WOSYwgJHWu0NeJq1lknw&usqp=CAU",
+    "dec": "Stealrium",
+    "price": 20.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi5pQMIS_2sj01gw_DyVM2rorhFDXpxuXyvgy4s_bq-ry6hllr4rr0ZaLPziTDQVgZhI&usqp=CAU",
+    "dec": "Eagle Rat src",
+    "price": 300.0,
+    "badge": "safe with source code!!",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/09/photodune-8965163-computer-files-s.jpg",
+    "dec": "ExtensionSpoofer",
+    "price": 20.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.cyfirma.com/media/2024/11/Picture2-1.png",
+    "dec": "G700 Rat",
+    "price": 9.0,
+    "badge": "work with android 13!!",
+    "category": "Tools",
+    "about": "",
+    "link": ""
+  },
+  {
+    "img": "https://pbs.twimg.com/media/DMpyrumW4AEIgYv.jpg",
+    "dec": "AhMyth",
+    "price": 30.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.theflagshop.co.uk/media/catalog/product/cache/c2fa30bfcfb937c19a4b2b38aef6c453/p/i/pink-smile-flag-std.jpg",
+    "dec": "Onimai",
+    "price": 9.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://socradar.io/wp-content/uploads/2024/02/campaign-alert-the-year-long-shadow-of-asyncrat-in-u-s-infrastructure.png.webp",
+    "dec": "AsyncRAT",
+    "price": 10.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.group-ib.com/wp-content/uploads/craxs-rat-blog-min.jpg",
+    "dec": "ZM RAT",
+    "price": 10.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://pbs.twimg.com/media/GNcU7bIaYAAXXJO.jpg",
+    "dec": "Spyroid-VIP",
+    "price": 40.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdEwU3jueN2wZtGxZH9Vv2m29g2iajDDynt_YluFX9kc4sC-fXA7_4Oew3GehkgSk_OvM&usqp=CAU",
+    "dec": "WinAppLock",
+    "price": 2.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://news-cdn.softpedia.com/images/news2/PDF-Exploit-Generator-Available-for-Responsible-Usage-446558-2.jpg",
+    "dec": "PDF_exploit",
+    "price": 10.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://cheq.ai/wp-content/uploads/2023/12/OTP-Bots_-The-Achilles-Heel-of-Your-Digital-Defense.png",
+    "dec": "OTP BOTS Pack",
+    "price": 99,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.avanan.com/hubfs/website/img/blog/featured/doc%20exploit.png",
+    "dec": "Doc Exploit",
+    "price": 10.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://intellicomp.net/wp-content/uploads/2022/10/Common-Hacking-Methods-image1.jpg",
+    "dec": "ZeroTrace Stealer ",
+    "price": 3.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.lmgsecurity.com/wp-content/uploads/2023/01/shutterstock_1488026510-1024x652.jpg",
+    "dec": "Tianxian Rat",
+    "price": 6.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://pbs.twimg.com/media/GAfevhVaUAA18xJ.jpg",
+    "dec": "Spydroid Rat",
+    "price": 125.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://img3.teletype.in/files/2f/d4/2fd476b4-d3c5-4ea5-a2ad-8e45a28a23e8.png",
+    "dec": "EVERSPY",
+    "price": 120.0,
+    "badge": "",
+    "category": "Tools"
+  },
+  {
+    "img": "https://www.cyfirma.com/media/2024/12/hacking4-1.jpg",
+    "dec": "PARANO STEALER",
+    "price": 7.0,
+    "category": "Tools",
+    "badge": "Tested on Windows 10 / 11 Defender, Avast, Kaspersky, and AVG",
+    "link": "",
+    "about": "🏷 Here are some notable Features of the Stealer:\r\n\r\nDiscord Information:\r\n➡️ Nitro\r\n➡️ Badges\r\n➡️ Billing\r\n➡️ Email\r\n➡️ Phone\r\n ➡️HQ Friends\r\n\r\nBrowser Data:\r\n➡️ Cookies\r\n➡️Passwords\r\n➡️ Roblox Information\r\n➡️ Compatible with Chrome, Edge, Brave, Opera GX, and many more...\r\n➡️ Crypto Data\r\n\r\nExtensions:\r\n➡️ MetaMask\r\n➡️ Phantom\r\n➡️ Trust Wallet\r\n➡️ Coinbase Wallet\r\n➡️ Binance Wallet\r\n\r\nSoftware:\r\n➡️ Exodus Wallet\r\n➡️ Atomic Wallet\r\n➡️ Seedphrases\r\n\r\nApplication Data:\r\n➡️ Steam\r\n➡️ Riot Games\r\n➡️ Telegram\r\n➡️ Discord Injection\r\n\r\nSystem Information:\r\n➡️ User\r\n➡️System\r\n➡️ Disk\r\n➡️ Network\r\n➡️ Anti-debut"
+  },
+  {
+    "img": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/12/14093349/how-to-delete-instagram-featured.jpg",
+    "dec": "instagram database",
+    "price": 6.0,
+    "category": "DataBase",
+    "badge": "",
+    "link": ""
+  },
+  {
+    "img": "https://i.insider.com/6398e0ecf0c5330018dc2167?width=1300&format=jpeg&auto=webp",
+    "dec": "Telegram DataBase",
+    "price": 12.0,
+    "category": "DataBase",
+    "badge": "Last leaked 2023 ! ",
+    "link": ""
+  },
+  {
+    "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Tn9d0_cbuaBDL-8FFrAW4A.png",
+    "dec": "Cyper_Rat all version",
+    "price": 24.0,
+    "category": "Tools",
+    "badge": "",
+    "link": ""
+  },
+  {
+    "img": "https://i.ibb.co/d0v5fp2n/Screenshot-48.png",
+    "dec": "BlueVenom",
+    "price": 12.0,
+    "category": "Tools",
+    "badge": "by @blue24bluer",
+    "link": "",
+    "about": "### **BlueVenom: Advanced Automation Framework**\r\n\r\n**Overview**\r\nBlueVenom is a comprehensive, Python-based framework designed to function as both a **Command and Control (C2) dashboard** and an **automated injection engine**. Built on top of the Flask web framework, it provides a centralized interface for managing remote connections and orchestrating complex file modifications on the fly.\r\n\r\n**1. The Injection Engine (BlueDroid)**\r\nThe core feature of this tool is its sophisticated automation pipeline for Android applications (`.apk`). The script completely automates the complex process of code injection, handling everything from decompilation to signing without requiring manual user intervention.\r\n\r\n*   **Smart Hooking:** The script parses the `AndroidManifest.xml` of a target application to identify the \"Main Activity\" (the entry point). It then programmatically searches the Smali code for the `onCreate` method and injects a custom hook.\r\n*   **Java-to-Smali Compiler:** Users can provide payloads written in standard Java. BlueVenom automates the toolchain: it compiles the Java to `.class`, converts it to DEX (Dalvik Executable) using `d8`, and finally disassembles it into Smali code to be merged seamlessly with the target application.\r\n*   **Permission Management:** It automatically modifies the app manifest to inject high-level permissions (e.g., Internet access, Storage access) required for the payload to function.\r\n*   **Rebuilding & Signing:** Once the code is injected, the tool automatically rebuilds the APK using `apktool`, signs it with a custom keystore using `apksigner`, and optimizes the alignment using `zipalign`.\r\n\r\n**2. The C2 Command Center**\r\nBlueVenom sets up a local web server (defaulting to port 5000) that acts as the operational headquarters.\r\n\r\n*   **Admin Interface:** It features a web-based GUI (`/bluevenom_panel`) where operators can view logs, track successful injections, and manage available payloads.\r\n*   **Authentication:** The system generates a secure, one-time token upon startup (or accepts a hardcoded one), ensuring that only the authorized operator can access the control panel.\r\n*   **Live Logging:** The system provides real-time feedback on injection status, compilation errors, or server requests directly to the console and the web interface.\r\n\r\n**3. API & Script Management**\r\nThe framework is designed for extensibility and remote management through a structured API:\r\n\r\n*   **Dynamic Script Execution:** The tool allows the operator to upload Python or Bash scripts to the server. These scripts can then be queued for execution on connected devices (bots) via the `/api/c2/execute_python_script` endpoint.\r\n*   **File Distribution:** It includes a dedicated file server (`/files_upload/`) to host payloads or updates, making it easy for remote agents to retrieve necessary files.\r\n*   **JSON Configuration:** Commands and tool configurations are managed via a `commands_config.json` file, allowing the operator to customize the interface and available actions dynamically.\r\n\r\n**4. Standalone Portability**\r\nThe script is engineered to be a \"standalone\" solution.\r\n*   **Dependency Management:** It attempts to detect its environment and can even install its own Python dependencies (like Flask) if they are missing.\r\n*   **Embedded Resources:** It contains logic to generate necessary HTML templates and config files if they aren't found, ensuring the tool runs smoothly even in a minimal environment.\r\n\r\n**Summary**\r\nBlueVenom acts as a bridge between high-level command operations and low-level bytecode manipulation. It abstracts away the difficult, manual work of modifying Android bytecode, turning a complex multi-step process into a single-click operation via a web API."
+  },
+  {
+    "img": "https://i0.wp.com/www.d3lab.net/wp-content/uploads/2025/12/BTMob_Inside.png?w=800&ssl=1",
+    "dec": "BTMOB",
+    "price": 20.0,
+    "category": "Tools",
+    "badge": "",
+    "link": "",
+    "about": "BTMOB RAT\r\n(Remote Access Trojan) is an advanced, commercial-grade Android malware that has emerged as a significant threat, particularly targeting mobile users in emerging markets. Often sold as a \"Malware-as-a-Service\" (MaaS) for approximately $5,000, it enables threat actors to take full control of infected devices for financial fraud and data theft"
+  },
+  {
+    "dec": "TikTok DataBase",
+    "price": 20.0,
+    "category": "DataBase",
+    "badge": "",
+    "img": "https://images.axios.com/181f6z6RjsxHXqLKErnjpOpBSfw=/0x0:1920x1080/1920x1080/2022/09/05/1662386875557.jpg?w=1920",
+    "about": "TikTok DataBase 2025",
+    "link": ""
+  },
+  {
+    "dec": "combo list",
+    "price": 3.0,
+    "category": "DataBase",
+    "badge": "only 3$ for 10 Files !",
+    "img": "https://www.strategicrevenue.com/wp-content/uploads/2025/09/Dark-Web_1904951575.jpg",
+    "about": "2020 - 2026",
+    "link": ""
+  },
+  {
+    "dec": "CyberSudo-Advanced OSINT🔥🔥",
+    "price": 26.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhifG3FoC2yoAToDqTVKCkxBwkahTxkUpWedPwF67Q2elT6FXjBa9nnU63_Vw7xcUYu4tO7D9R9HECD749AE3iOs3xMwkye6gne-iie31nhzcYFF4yz4mETXNFSUoV9UQnxSS6uc8ZSl8DvEOD8reRPw8bVUMA_RSeAE4ZdBJDBV8UthcUZzafGguUChkYG/s16000/OSINT%20.webp",
+    "about": "❗️Just unzip the file and run start.bat your course player launches automatically.❗️",
+    "link": ""
+  },
+  {
+    "dec": "Certified Cloud Security Engineer (CCSE)2025",
+    "price": 29.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://iclass.eccouncil.org/wp-content/uploads/2023/12/CCSE-2023-Cover-Image-1536x922.png",
+    "about": "",
+    "link": ""
+  },
+  {
+    "dec": "Active Directory Pentesting With Kali Linux - Red Team",
+    "price": 32.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://www.csoonline.com/wp-content/uploads/2023/06/cso_red_team_of_hackers_coordinated_attack_gorodenkoff_gettyimages_817486174_1200x800-100817133-orig.jpg?resize=1024%2C683&quality=50&strip=all",
+    "about": "This is the best course you can watch after understanding the basics of networks, specifically the MCSA course , where you will understand how protocols such as SMBA and SMB can be hacked and what is the difference between them and how the Corpus protocol works, etc",
+    "link": ""
+  },
+  {
+    "dec": "Linkedin Leaked Database",
+    "price": 12.0,
+    "category": "DataBase",
+    "badge": "187.6 GB",
+    "img": "https://blog.snappa.com/wp-content/uploads/2024/11/linkedin-banner-size-1536x804.jpg",
+    "about": "The dataset (approximately 187.6 GB) is largely based on data associated with LinkedIn, originally collected during the major 2021 scraping incident.\r\n\r\nA clearer and more accurate way to describe its timeline is:\r\n\r\nThe initial bulk of the data was collected in 2021 through large-scale scraping of publicly available LinkedIn profiles.\r\nBetween 2021 and 2025, the dataset appears to have been redistributed, reorganized, and in some cases slightly expanded with additional scraped data.\r\nAs a result, some versions circulating later may give the impression of a multi-year dataset, even though they are primarily built on the original 2021 data.\r\nData Contents\r\nNames\r\nEmail addresses (in some versions)\r\nPhone numbers\r\nProfessional and profile information\r\nBottom Line\r\nTotal size: ~187.6 GB\r\nOrigin: Primarily 2021 data collection\r\n2021–2025: Period of resharing, repackaging, and limited updates, not a single continuous breach",
+    "link": ""
+  },
+  {
+    "dec": "Qatar Database laked ",
+    "price": 19.0,
+    "category": "DataBase",
+    "badge": "",
+    "img": "https://d12eu00glpdtk2.cloudfront.net/public/images/qatar-flag-shutterstock_221010895.jpg",
+    "about": "",
+    "link": ""
+  },
+  {
+    "dec": "Certified CyberDefender (CCD) Blue Team Training 2026",
+    "price": 8.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://img.evetech.co.za/repository/ez/amd-zen-6-architecture-12-core-ccds-explained-2026-banner.webp",
+    "about": "",
+    "link": ""
+  },
+  {
+    "dec": "Hacker Arise - Python Basics for Hackers v3",
+    "price": 12.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://hackers-arise.com/wp-content/uploads/2023/11/AdobeStock_3848329721-3.jpg",
+    "about": "",
+    "link": ""
+  },
+  {
+    "dec": "Hacker Arise - Radio Basics for Hackers",
+    "price": 9.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://www.kb6nu.com/wp-content/uploads/2024/07/ham-radio-for-hackers-20240712-17.jpg",
+    "about": "",
+    "link": ""
+  },
+  {
+    "dec": "XWorm 6.4",
+    "price": 19.0,
+    "category": "Tools",
+    "badge": "",
+    "img": "https://threatlabsnews.xcitium.com/wp-content/uploads/2025/11/xworm_malwaree.png",
+    "about": "XWorm is a dangerous remote access trojan (RAT) with ransomware capabilities and over 35 plugins. Learn how XWorm works, real-world campaigns, and how Xcitium’s ZeroDwell isolation defends against this evolving threat.\r\nIntroduction\r\n\r\nXWorm is a versatile malware first seen in 2022. It works as a remote access trojan with many modules. Attackers use it to steal data, record keystrokes, access webcams, and deploy ransomware. It also supports DDoS attacks and cryptocurrency theft. XWorm includes a core backdoor and over 35 plugins. Its flexible design made it popular among threat actors. Usage spiked again after a major 2025 update. This post reviews XWorm’s evolution, capabilities, key campaigns, and defense strategies.\r\nXWorm V6: The Unexpected Resurrection of a Notorious RAT\r\n\r\nXWorm’s development and distribution have had a turbulent history. The malware was originally sold by a developer known as “XCoder” via underground forums and Telegram channels. Throughout 2022 and 2023, XCoder released multiple versions (v2, v3, up to v5.6), with the RAT gaining a reputation as a highly effective threat due to its capabilities and frequent updates. However, in late 2024 XCoder unexpectedly abandoned the project – deleting their online accounts and leaving XWorm at version 5.6 as the final official release.\r\n\r\nThis sudden absence led to chaos in the cybercriminal community. Other hackers began sharing cracked versions of XWorm 5.6 (often bundled with hidden malware that infected those would-be users). To make matters worse, a critical remote code execution (RCE) vulnerability was discovered in XWorm v5.6, allowing anyone with the malware’s command-and-control key to run arbitrary code on servers using that version. Many assumed XWorm’s story was over.\r\n\r\nHowever, XWorm made a dramatic resurgence in mid-2025. On June 4, 2025, a new user “XCoderTools” appeared on hacking forums to announce XWorm RAT V6.0 – advertised as a fully re-coded version with the RCE flaw fixed and numerous enhancements. Access to XWorm V6 was offered for a one-time lifetime subscription of $500. It’s unclear if “XCoderTools” was the original developer returning or a new actor, but the impact was immediate.\r\n\r\nSecurity researchers observed rapid adoption of XWorm V6 in the wild, with a surge of new malware samples appearing on VirusTotal after June 2025. The latest variants (v6.0 through v6.5) have been embraced by multiple threat actors and boast an array of updated plugins supporting data theft, system control, and file encryption. In short, XWorm is back – more potent than before – and actively being deployed in cyber attacks around the world.\r\nHow XWorm Malware Works\r\n\r\nXWorm employs a sophisticated, multi-stage infection process and an array of stealth techniques to compromise systems. Once it infects a machine, the malware grants attackers extensive control over the device. Here’s an overview of how XWorm typically works:\r\n\r\n    Initial Access & Delivery: XWorm spreads via phishing emails with malicious attachments or links, often using business-themed documents like invoices. Early campaigns used PDFs or DOCX with malicious URLs. Recent campaigns use Office macros, .LNK, or .xlam files. These social engineering tricks entice victims to click, starting the infection chain.\r\n    Execution & Stealth Evasion: XWorm executes in multiple stages to evade detection. Malicious scripts or macros launch PowerShell, which disables AMSI and loads the payload. It injects into legitimate processes like RegSvcs.exe for fileless execution. Heavy obfuscation and API misuse hide its activity, making detection by traditional defenses difficult.\r\n    Remote Control & Malicious Capabilities: Once active, XWorm connects to its C2 server for instructions. It can steal passwords, browser data, cryptocurrency keys, and clipboard contents. Keylogging and webcam/microphone access allow real-time surveillance. Plugins enable remote shell, remote desktop, DDoS, and malware deployment. The ransomware module encrypts files and drops “How To Decrypt My Files.html,” sometimes changing the desktop wallpaper.\r\n    Persistence & Defense Evasion: XWorm persists via Registry Run keys, startup items, or scheduled tasks. Version 6 abuses Windows Reset using install.cmd and ResetConfig.xml. It disables security tools, adds Defender exclusions, and may uninstall antivirus services. New admin accounts like “system32” support RDP access. These techniques let XWorm survive reboots and remain hidden until manually removed.\r\n\r\nNotable XWorm Malware Campaigns\r\nBusiness Email Lures (2023)\r\n\r\nIn March-April 2023, a phishing campaign was noticed spreading emails with business-related subjects (e.g., quotes, invoices, and purchase orders) to spread the XWorm malware. Malware attachments in PDF, DOCX, and RTF format held links to the attackers’ Blogspot pages, which, when triggered, led to obfuscated scripts that downloaded and executed XWorm malware versions 2.1 and 3.1. It was interesting to note that a malware sample in this campaign contained hard-coded Bitcoin addresses and clipboard-hijacking logic aimed at stealing Bitcoin, and the same wallet ID was found in the 2021 Agent Tesla malware campaign, suggesting the same bad actor had repurposed the malware family with new nicknames.\r\n\r\nAlso, the campaign demonstrated XWorm malware’s evasion mechanisms in dealing with security defenses—a PowerShell-loader in XWorm cleaned up any evidence (e.g., removal of bait documents), bypassed AMSI, turned off Defender, and injected the XWorm malware into other process tokens to run stealthily. These functionalities helped attackers compromise several organizations, although security software such as Trellix Email Security intercepted most of the phishing emails.\r\nMalware for Script Kiddies (2024)\r\n\r\nXWorm garnered extreme popularity, becoming bait for less skilled attackers. In an operation detected in 2024, a suspect disseminated “cracked” XWorm malware builder tools that turned out to be backdoors in disguise, targeting those who ran the tools. Ironically, XWorm was itself deployed as bait in this campaign, leading to 18,459 infections in the global operation where the most numerous cases appeared in Russia, the United States, India, Ukraine, and Turkey. Evidently, thousands of would-be cyber attackers using XWorm malware found themselves carrying the Trojan instead. The event demonstrated how popular XWorm was as well as how the cyber crime landscape functioned in terms of opportunity.\r\nResurgence with New Techniques (2025)\r\n\r\nAfter XWorm reemerged in mid-2025, several campaigns made use of its upgraded arsenal. In the summer of 2025, there was a phishing campaign using lure topics about AI in addition to a repurposed remote administration tool (ScreenConnect) to distribute XWorm malware.\r\n\r\nIn September 2025, there was a malware campaign showcasing a complete fileless distribution channel, where the lure was in the form of an October tax payment notice through an Excel add-in file (.xlam) that held an OLE object that in turn camouflaged shellcode carrying the execution of a XWorm loader assembly written in ‘.NET’ to load XWorm in memory; there were no malcode or malware files written to disk. XWorm was further found to distribute through other means such as email attachments, cloud storage URL downloads, LNK shortcuts, and legitimate services such as Cloudflare Tunnels.",
+    "link": ""
+  },
+  {
+    "dec": "KrypXen ",
+    "price": 32.0,
+    "category": "Tools",
+    "badge": "",
+    "img": "data:image/jpeg;base64,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",
+    "about": "Report: KrypXen RAT (Remote Access Trojan)\r\n1. Overview\r\n\r\nKrypXen RAT is a type of Remote Access Trojan (RAT) that is designed to secretly gain control over a victim’s device. Based on its interface and descriptions, it presents itself as an “advanced remote control software” with stealth and automation features, but in reality it functions as a malicious surveillance and control tool.\r\n\r\nRATs like KrypXen are typically used by attackers to remotely monitor, manipulate, and extract data from compromised systems without the user’s knowledge.\r\n\r\n2. Claimed Features (as presented in its interface)\r\n\r\nThe software advertises capabilities such as:\r\n\r\nRemote device control and command execution\r\nHidden background operation (“silent mode”)\r\nMonitoring of system activity and apps\r\nAccess to device functions (camera, microphone, keyboard inputs)\r\nLocation tracking and system information collection\r\nApp manipulation and settings modification\r\nContinuous background connectivity (“always in control” behavior)\r\n\r\nThese features resemble legitimate remote administration tools, but in malicious RATs they are used without consent.\r\n\r\n3. Actual Behavior and Threat Level\r\n\r\nKrypXen RAT belongs to a category of malware that is considered high-risk because it can:\r\n\r\nSteal sensitive personal data (passwords, messages, files)\r\nEnable full remote surveillance of victims\r\nRecord audio/video without permission\r\nLog keystrokes (keylogging)\r\nDownload or execute additional malicious payloads\r\nMaintain persistent access even after reboots\r\n\r\nIts “stealth” design makes detection difficult for average users.\r\n\r\n4. Potential Use Cases in Cybercrime\r\n\r\nThreat actors typically deploy RATs like KrypXen for:\r\n\r\nIdentity theft\r\nFinancial fraud (banking credential theft)\r\nCorporate espionage\r\nSurveillance of individuals\r\nBuilding botnets for further attacks\r\nRansomware deployment as a secondary payload\r\n5. Infection Methods\r\n\r\nRATs are commonly spread through:\r\n\r\nPhishing emails with malicious attachments\r\nFake software downloads or cracked applications\r\nMalicious links or websites\r\nSocial engineering attacks\r\nTrojanized installers disguised as legitimate tools\r\n6. Detection Indicators\r\n\r\nPossible signs of infection include:\r\n\r\nUnexpected system slowdowns\r\nUnknown background processes\r\nExcessive network activity\r\nCamera/microphone activation without reason\r\nUnauthorized remote sessions\r\nSecurity software being disabled\r\n7. Prevention and Mitigation\r\n\r\nTo reduce risk:\r\n\r\nAvoid downloading software from untrusted sources\r\nKeep operating systems and antivirus software updated\r\nUse real-time malware protection\r\nDo not open suspicious attachments or links\r\nMonitor network and system activity regularly\r\nUse strong authentication (MFA) on all accounts\r\n\r\nIf infection is suspected:\r\n\r\nDisconnect from the internet immediately\r\nRun a full system scan with reputable security tools\r\nRemove suspicious programs\r\nConsider system restore or full OS reinstallation for severe cases\r\n8. Conclusion\r\n\r\nKrypXen RAT is presented as advanced “remote control software,” but in practice it aligns with the behavior of a malicious Remote Access Trojan. It represents a serious cybersecurity threat due to its ability to silently monitor, control, and extract data from infected systems.",
+    "link": ""
+  },
+  {
+    "dec": "Red Team Operator Windows Persistence",
+    "price": 28.0,
+    "category": "Courses",
+    "badge": "",
+    "img": "https://strikecyber.au/wp-content/uploads/2025/01/Red-Team-Assessment.jpg",
+    "about": "",
+    "link": ""
+  }
+]
