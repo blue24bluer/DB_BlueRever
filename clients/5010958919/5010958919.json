@@ -25,5 +25,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: ar-EG\n    - Screen: 385x854\n    - Color Depth: 24\n    - Pixel Ratio: 1.875\n    - Timezone: Asia/Aden\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 410x771\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G57 MC3\n    - Network Type: 3g\n    - Network Downlink: 0.4 Mbps\n    - Network RTT: 350 ms\n    - IP Address: 145.224.125.148\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-05-11 21:07:08"
+  },
+  {
+    "id": "bffe8c938cab4fd290bed530415d822a",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\n    - Platform: Win32\n    - Language: en-US\n    - Screen: 1440x900\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Africa/Cairo\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 2\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Microsoft Edge PDF Viewer, Web com.adobe.pdf Renderer, Chromium PDF Viewer, 6d1iRvAn, WebKit built-in PDF, y4k5cWL\n    - Viewport: 1280x861\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) HD Graphics 530 (0x00001912) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 197.59.22.113\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-05-12 12:55:32"
   }
 ]
