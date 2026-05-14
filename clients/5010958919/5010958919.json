@@ -133,5 +133,14 @@
       "5010958919 is Admin 👑"
     ],
     "timestamp": "2026-05-14 16:12:29"
+  },
+  {
+    "id": "82ce56134c884e38ae6a4a39bbfc3678",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/show"
+    ],
+    "timestamp": "2026-05-14 16:12:47"
   }
 ]
