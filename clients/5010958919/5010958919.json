@@ -124,5 +124,14 @@
       "/show me"
     ],
     "timestamp": "2026-05-14 16:12:26"
+  },
+  {
+    "id": "d9b71e437bf849fd9845ba8b5502e311",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "5010958919 is Admin 👑"
+    ],
+    "timestamp": "2026-05-14 16:12:29"
   }
 ]
