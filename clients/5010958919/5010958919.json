@@ -160,5 +160,14 @@
       "/show me"
     ],
     "timestamp": "2026-05-14 16:13:27"
+  },
+  {
+    "id": "61b0af5fa66b47f993e2ff23d562b6a0",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "5010958919 is Admin 👑"
+    ],
+    "timestamp": "2026-05-14 16:13:29"
   }
 ]
