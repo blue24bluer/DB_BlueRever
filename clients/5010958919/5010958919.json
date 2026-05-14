@@ -142,5 +142,14 @@
       "/show"
     ],
     "timestamp": "2026-05-14 16:12:47"
+  },
+  {
+    "id": "36efcd234f684878a6e63f59578e17f7",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "❌ Invalid command. Use  /show with 'admin_list', 'cookies', 'history <id>', 'telechat', 'bots', or 'info [id]'"
+    ],
+    "timestamp": "2026-05-14 16:12:49"
   }
 ]
