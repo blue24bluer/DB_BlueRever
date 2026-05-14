@@ -64,5 +64,11 @@
     "username": "E.H.D",
     "text": "📛 BTMOB V4 is now available in my store\n\n📛  اصبح btmob الاصدار ال4 والأخير متوفر على متجري\n\n==> https://c2bluevenom.netlify.app/bluestore",
     "timestamp": "2026-05-12T12:51:18.211071"
+  },
+  {
+    "user_id": -1001615733999,
+    "username": "E.H.D",
+    "text": "⚡ يمكن لثغرة عمرها 18 عامًا في NGINX أن تسمح للمهاجمين غير المصادق عليهم بتشغيل أكواد أو إسقاط الخوادم باستخدام طلبات HTTP مصممة خصيصًا.\n\nيتم تتبع الثغرة تحت رقم CVE-2026-42945 وتُعرف باسم NGINX Rift، وتؤثر على NGINX Plus والنسخة مفتوحة المصدر.\n\nتفاصيل التصحيح وخطوات التخفيف: https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+    "timestamp": "2026-05-14T11:51:36.805785"
   }
 ]
