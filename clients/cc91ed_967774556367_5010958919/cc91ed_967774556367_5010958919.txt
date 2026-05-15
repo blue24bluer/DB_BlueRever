@@ -1,0 +1,3 @@
+Username: api_user_cc91ed_9
+Chat ID: cc91ed_967774556367_5010958919
+profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/clients/cc91ed_967774556367_5010958919/cc91ed_967774556367_5010958919_profile.jpg
