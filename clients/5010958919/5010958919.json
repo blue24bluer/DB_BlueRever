@@ -367,5 +367,14 @@
       "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `131.117.165.8`\n🔍 **Fingerprint:** `cc91ed_967774556367_5010958919`\n✅ **Verified identity data:**\n📱 Phone number: `967774556367`\n🆔 Telegram ID: `5010958919`\n👤 Registered name: `api_user_50109589`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
     "timestamp": "2026-05-16 05:45:00"
+  },
+  {
+    "id": "68924d4e15024a78867dd9726b6227f0",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.120 Mobile Safari/537.36\n    - Platform: Linux aarch64\n    - Language: ar\n    - Screen: 421x911\n    - Color Depth: 24\n    - Pixel Ratio: 2.5687501430511475\n    - Timezone: Africa/Tunis\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 444x845\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G57 MC2\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: N/A ms\n    - IP Address: 102.104.34.36\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-05-16 12:15:31"
   }
 ]
