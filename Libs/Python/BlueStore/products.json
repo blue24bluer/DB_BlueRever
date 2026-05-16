@@ -424,9 +424,9 @@
   {
     "img": "https://i0.wp.com/www.d3lab.net/wp-content/uploads/2025/12/BTMob_Inside.png?w=800&ssl=1",
     "dec": "BTMOB",
-    "price": 20.0,
+    "price": 10.0,
     "category": "Tools",
-    "badge": "",
+    "badge": "only 10$ for one month",
     "link": "",
     "about": "BTMOB RAT\r\n(Remote Access Trojan) is an advanced, commercial-grade Android malware that has emerged as a significant threat, particularly targeting mobile users in emerging markets. Often sold as a \"Malware-as-a-Service\" (MaaS) for approximately $5,000, it enables threat actors to take full control of infected devices for financial fraud and data theft"
   },
