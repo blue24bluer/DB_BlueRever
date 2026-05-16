@@ -358,5 +358,14 @@
       "5010958919 is Admin 👑"
     ],
     "timestamp": "2026-05-16 05:28:14"
+  },
+  {
+    "id": "d8fafcf38ed842cdbae34be490c9c2a1",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `131.117.165.8`\n🔍 **Fingerprint:** `cc91ed_967774556367_5010958919`\n✅ **Verified identity data:**\n📱 Phone number: `967774556367`\n🆔 Telegram ID: `5010958919`\n👤 Registered name: `api_user_50109589`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+    ],
+    "timestamp": "2026-05-16 05:45:00"
   }
 ]
