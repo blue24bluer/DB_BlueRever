@@ -52,5 +52,14 @@
       "✅ Your phone number has been registered in the database."
     ],
     "timestamp": "2026-05-16 02:30:07"
+  },
+  {
+    "id": "b473335096364499957c2ea4668d51e7",
+    "role": "bluebot",
+    "chat_id": "7536244930",
+    "parts": [
+      "✅ Your phone number has been registered in the database."
+    ],
+    "timestamp": "2026-05-16 02:30:17"
   }
 ]
