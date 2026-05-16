@@ -340,5 +340,14 @@
       "❌ Invalid command. Use  /show with 'admin_list', 'cookies', 'history <id>', 'telechat', 'bots', or 'info [id]'."
     ],
     "timestamp": "2026-05-16 05:28:11"
+  },
+  {
+    "id": "f094723c2ace4bbc9c7d07101dd37b2c",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/show me"
+    ],
+    "timestamp": "2026-05-16 05:28:13"
   }
 ]
