@@ -16,5 +16,14 @@
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
     "timestamp": "2026-05-17 14:10:58"
+  },
+  {
+    "id": "1555b1455a9548b8ab6802b3c89343f7",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+    ],
+    "timestamp": "2026-05-17 14:11:25"
   }
 ]
