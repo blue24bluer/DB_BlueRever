@@ -475,5 +475,14 @@
       "أهلاً بك سيدي `blue24bluer`. تحت أمرك."
     ],
     "timestamp": "2026-05-17 13:39:58"
+  },
+  {
+    "id": "f008038c8470415aa8e681daa03ab7e3",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/sv_business_on"
+    ],
+    "timestamp": "2026-05-17 14:12:46"
   }
 ]
