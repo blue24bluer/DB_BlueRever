@@ -619,5 +619,14 @@
       "[ERR_TG]: No module named 'time.time'; 'time' is not a package\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 26029, in process_telegram_message_async\n    import time.time\nModuleNotFoundError: No module named 'time.time'; 'time' is not a package\n"
     ],
     "timestamp": "2026-05-18 17:16:17"
+  },
+  {
+    "id": "475723ec5a2c43acaf1e143bc36821c0",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+    ],
+    "timestamp": "2026-05-18 17:19:05"
   }
 ]
