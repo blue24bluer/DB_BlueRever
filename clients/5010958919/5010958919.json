@@ -664,5 +664,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-YE\n    - Screen: 360x780\n    - Color Depth: 24\n    - Pixel Ratio: 3\n    - Timezone: Asia/Aden\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 390x711\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G51\n    - Network Type: 3g\n    - Network Downlink: 0.65 Mbps\n    - Network RTT: 500 ms\n    - IP Address: 145.224.125.130\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-05-18 17:34:10"
+  },
+  {
+    "id": "6014c8966b80405d9813d6118430d2bb",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `54e57e4a652d8a42001e53a67a851d77c4b873468b353142473004dd89132c74`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-05-18 17:35:20"
   }
 ]
