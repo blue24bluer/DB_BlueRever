@@ -1,3 +1,4 @@
-Username: api_user_50109589
+Username: User
 Chat ID: 5010958919
 profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/Users_Members/5010958919/profile.jpg
+welcome_viewed: True
