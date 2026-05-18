@@ -178,5 +178,14 @@
       "/clear"
     ],
     "timestamp": "2026-05-18 18:11:16"
+  },
+  {
+    "id": "bfc8c71f2776405bb35564400f7121e4",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/delete all chart"
+    ],
+    "timestamp": "2026-05-18 18:11:24"
   }
 ]
