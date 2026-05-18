@@ -646,5 +646,14 @@
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 26035, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
     "timestamp": "2026-05-18 17:22:56"
+  },
+  {
+    "id": "272989b665954c2ab24f7db9fb7ff6fd",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-YE\n    - Screen: 360x780\n    - Color Depth: 24\n    - Pixel Ratio: 3\n    - Timezone: Asia/Aden\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 390x711\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G51\n    - Network Type: 3g\n    - Network Downlink: 0.4 Mbps\n    - Network RTT: 450 ms\n    - IP Address: 145.224.125.130\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-05-18 17:34:08"
   }
 ]
