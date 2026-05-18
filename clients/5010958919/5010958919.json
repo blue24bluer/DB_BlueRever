@@ -610,5 +610,14 @@
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 26029, in process_telegram_message_async\n    OWNER_LAST_ACTIVE_TIME = time.time()\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
     "timestamp": "2026-05-18 17:10:21"
+  },
+  {
+    "id": "ac335010c1724fd3890c11534325f9b1",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "[ERR_TG]: No module named 'time.time'; 'time' is not a package\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 26029, in process_telegram_message_async\n    import time.time\nModuleNotFoundError: No module named 'time.time'; 'time' is not a package\n"
+    ],
+    "timestamp": "2026-05-18 17:16:17"
   }
 ]
