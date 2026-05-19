@@ -461,7 +461,7 @@
   },
   "a8d168e8c1c0d78ac0aca9fa5bf7393a": {
     "full_fp": "a8d168e8c1c0d78ac0aca9fa5bf7393a2e547d0636e8477d4c6a108b33bb0a08",
-    "timestamp": 1779118738.9824388
+    "timestamp": 1779217653.6463501
   },
   "8037164518": {
     "full_fp": "8037164518",
@@ -1190,9 +1190,5 @@
   "1b3e0e88949ef4402d9a352bcf586d81": {
     "full_fp": "1b3e0e88949ef4402d9a352bcf586d8134b137b88a4aa41aaa7d39a17db36a17",
     "timestamp": 1779116631.0793045
-  },
-  "bcac6220c2e33833be8d8a746468b785": {
-    "full_fp": "bcac6220c2e33833be8d8a746468b785d4e04a567e3abdf5d09dcebc5ce7411a",
-    "timestamp": 1779217338.2984593
   }
 }
