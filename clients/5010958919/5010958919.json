@@ -808,5 +808,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `Kabw87707@gmail.com`\n🌐 **IP:** `185.80.143.100`\n🔍 **البصمة:** `19cc1176ccda3a512b77e86072f531ebe4fd90d85daea299cc0f11cea66020a4`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.120 Mobile Safari/537.36 Telegram-Android/12.6.4 (Samsung SM-G996U; Android 14; SDK 34; HIGH)...`"
     ],
     "timestamp": "2026-05-19 08:04:36"
+  },
+  {
+    "id": "0609a9fd529244068e4c5ecb7edefab5",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `Kabw87707@gmail.com`\n🌐 **IP:** `185.80.143.100`\n🔍 **البصمة:** `19cc1176ccda3a512b77e86072f531ebe4fd90d85daea299cc0f11cea66020a4`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.120 Mobile Safari/537.36 Telegram-Android/12.6.4 (Samsung SM-G996U; Android 14; SDK 34; HIGH)...`"
+    ],
+    "timestamp": "2026-05-19 08:05:13"
   }
 ]
