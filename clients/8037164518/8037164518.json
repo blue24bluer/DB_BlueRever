@@ -205,5 +205,14 @@
       "وتفاك"
     ],
     "timestamp": "2026-05-20 16:39:05"
+  },
+  {
+    "id": "5ceee695be9f437480ebe75a51a2cf4d",
+    "role": "bluebot",
+    "chat_id": "8037164518",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-05-20 16:39:31"
   }
 ]
