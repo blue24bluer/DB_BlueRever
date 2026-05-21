@@ -25,5 +25,14 @@
       ""
     ],
     "timestamp": "2026-05-21 19:40:36"
+  },
+  {
+    "id": "e97f57f7468e4fadb4e5b6b08577c3ec",
+    "role": "bluebot",
+    "chat_id": "8174385247",
+    "parts": [
+      "The file type 'Tali Users Preview Tool (1)' is not currently supported for text processing."
+    ],
+    "timestamp": "2026-05-21 19:40:38"
   }
 ]
