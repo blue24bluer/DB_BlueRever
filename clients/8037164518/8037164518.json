@@ -133,5 +133,14 @@
       "/start verify_fp_87ebc5e8aaaf5f32d96f1b8bd670242a"
     ],
     "timestamp": "2026-05-22 07:20:04"
+  },
+  {
+    "id": "b903c55370224a46b806a392c2ee5fe1",
+    "role": "bluebot",
+    "chat_id": "8037164518",
+    "parts": [
+      "Sorry, this invitation link appears to be invalid or already used."
+    ],
+    "timestamp": "2026-05-22 07:20:05"
   }
 ]
