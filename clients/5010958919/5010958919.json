@@ -52,5 +52,14 @@
       "/start add_user_240755490d52abb7af257831ef300ec9"
     ],
     "timestamp": "2026-05-22 22:32:35"
+  },
+  {
+    "id": "a94b9141e13c4d6e8a729f2a34f46a85",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ <b>Your account has been confirmed and your browser has been successfully authenticated!</b>\n\n🚀 Restrictions have been lifted, the temporary browser fingerprint has been erased, and replaced with the central fingerprint of your account.\n🔗 You can return to the site now and continue safely."
+    ],
+    "timestamp": "2026-05-22 22:32:38"
   }
 ]
