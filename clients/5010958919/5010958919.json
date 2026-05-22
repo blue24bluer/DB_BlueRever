@@ -43,5 +43,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `209.198.151.144`\n🔍 **البصمة:** `240755490d52abb7af257831ef300ec96f7958438807303cd33ee408aeacf933`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36...`"
     ],
     "timestamp": "2026-05-22 22:22:38"
+  },
+  {
+    "id": "d693fe6e77d44c6c90c785f3439353b7",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/start add_user_240755490d52abb7af257831ef300ec9"
+    ],
+    "timestamp": "2026-05-22 22:32:35"
   }
 ]
