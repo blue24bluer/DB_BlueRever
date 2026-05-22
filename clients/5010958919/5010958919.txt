@@ -1,4 +1,5 @@
-Username: User
+Username: Blue24Bluer
 Chat ID: 5010958919
 profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/Users_Members/5010958919/profile.jpg
 welcome_viewed: True
+master_fingerprint: 59d7d5606e391b4c334ea3b06aa2f5d57ce1a902488abebae4ccc609d6cae980
