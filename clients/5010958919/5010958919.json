@@ -34,5 +34,23 @@
       "سيدي `blue24bluer`، الوقت الآن هو 19:35 بتوقيت UTC. 😈"
     ],
     "timestamp": "2026-05-23 14:40:22"
+  },
+  {
+    "id": "4de608630bd34a97b0cd6412eda5c85a",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "سيدي `blue24bluer`، الوقت الآن هو 19:35 بتوقيت UTC. 😈"
+    ],
+    "timestamp": "2026-05-23 14:40:23"
+  },
+  {
+    "id": "35b646d26b9c4909b79e73a19761f1cb",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.142`\n🔍 **البصمة:** `240755490d52abb7af257831ef300ec96f7958438807303cd33ee408aeacf933`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-05-23 17:31:44"
   }
 ]
