@@ -79,5 +79,14 @@
       "https://m.ok.ru/video/2692003793586.mp4"
     ],
     "timestamp": "2026-05-23 19:26:21"
+  },
+  {
+    "id": "dd2b6065874b45f5a5bc3f3c9a5aee93",
+    "role": "bluebot",
+    "chat_id": "8676277954",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-05-23 19:26:36"
   }
 ]
