@@ -259,5 +259,14 @@
       "/clear loga"
     ],
     "timestamp": "2026-05-23 14:39:08"
+  },
+  {
+    "id": "304c056a34e041f582df29c1c6652c14",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "❌ Unknown matter. Correct usage:\n• `/clear history` (to delete your current record)\n• `/clear history <id>` (to delete a specific user record)\n• `/clear logs` (to clean log file)\n• `/clear temp` (to delete temporary files)"
+    ],
+    "timestamp": "2026-05-23 14:39:10"
   }
 ]
