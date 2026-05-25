@@ -7,5 +7,14 @@
       "/help"
     ],
     "timestamp": "2026-05-25 02:20:16"
+  },
+  {
+    "id": "7ebd66a3ccfb4304832ca00af995bff3",
+    "role": "bluebot",
+    "chat_id": "8561230425",
+    "parts": [
+      "Your command `/help` is unknown. You seem lost. Available commands are:\n• `/clear history` (to delete your current record)\n• `/clear history <id>` (to delete a specific user record)\n• `/clear logs` (to clean log file)\n• `/clear temp` (to delete temporary files)\nUse it correctly, or you will regret your ignorance. 😈"
+    ],
+    "timestamp": "2026-05-25 02:20:28"
   }
 ]
