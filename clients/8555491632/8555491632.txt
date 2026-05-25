@@ -1,0 +1,3 @@
+Username: User
+Chat ID: 8555491632
+welcome_viewed: True
