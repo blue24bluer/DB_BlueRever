@@ -1,3 +1,4 @@
-Username: Webmaster_blue24bluer
+Username: Webmaster
 Chat ID: wm_8be30bcac5e0
 verified: True
+welcome_viewed: True
