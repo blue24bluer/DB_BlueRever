@@ -1,11 +1,164 @@
 [
   {
-    "id": "f936a0c97f5a435db09e90a133b4702f",
+    "id": "b58e648921eb4978b6407d965a292717",
+    "role": "BadriFCB",
+    "chat_id": "8200046394",
+    "parts": [
+      "/"
+    ],
+    "timestamp": "2026-05-03 00:14:12"
+  },
+  {
+    "id": "8ef0a9e21ad9447ea90777a250c3d80e",
+    "role": "BadriFCB",
+    "chat_id": "8200046394",
+    "parts": [
+      "/help"
+    ],
+    "timestamp": "2026-05-03 00:14:16"
+  },
+  {
+    "id": "569618c09d3044ada3a72bd62be9ec48",
+    "role": "BadriFCB",
+    "chat_id": "8200046394",
+    "parts": [
+      "/contact"
+    ],
+    "timestamp": "2026-05-03 00:14:20"
+  },
+  {
+    "id": "814cd081ab30422abeb8c909e07ef49d",
     "role": "bluebot",
     "chat_id": "8200046394",
     "parts": [
-      "القنوات و ادوات وقواعد بيانات و ثغرات عالميه الVIP متوفره ب35$ العرض مؤقت و محدود\r\nللتواصل @blue24bluer"
+      "Please write a message after the command /contact."
     ],
-    "timestamp": "2026-05-16 04:22:53"
+    "timestamp": "2026-05-03 00:14:21"
+  },
+  {
+    "id": "4c987c7e7571487cb71640d095d9df60",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "Incomplete order. If you don't know how to act, use `/help` to see how to control me, or `/start` to start a new session. Don't repeat this n@&#$@@e again. 😈"
+    ],
+    "timestamp": "2026-05-03 00:14:21"
+  },
+  {
+    "id": "0394a177d77847daa8a65cfb984a726d",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "Looking for how to use me? You seem a little lost, but that's okay. Here's the complete guide to my commands and abilities. Read it carefully, this is what I am, and I will not repeat myself. Understand every point. Your ignorance of the rules will not exempt you from the consequences. 😈\n\n# 📘 BlueBot Official Manual & Help Guide\n#The official reference for using the BlueBot system\n# System Version: V5.2 \"Deep Core\"\n\n*-----------------------------------------------------------------*\n   🚀 Blue(🔵)Bot - Advanced AI & Software Intelligence 🚀\n         Powered by \n/contact9 Architecture\n*-----------------------------------------------------------------*\n\n# --- --- --- 🌐 How to activate BlueBot 🌐 --- --- --- #\n\nTo ensure the bot's responsiveness in different environments:\n1. **Private conversations:** The bot always responds directly.\n2. **Groups and Channels:** The bot’s “state of awareness” must be activated via:\n    * **Explicit mention:** Type `@BotUsername_bot <طلبك>` (the bot will automatically delete the mention and analyze the text).\n    * **Reply:** Reply to any previous message from the bot.\n    * **Call words:** Start the sentence with the word (blue - blue - boot).\n3. **Media Analysis:** When sending (image, video, document, audio), write your request in the “Caption” to begin multi-modal processing.\n\n# --- --- --- 🛡️ Red lines (ban protocol) 🛡️ --- --- --- #\n\nThe system is protected by defensive artificial intelligence, which will permanently ban you if you try to:\n- **Insult:** Insulting the bot or its developer (\n/requestcontact0).\n- **Hacking:** An attempt to perform a “prompt injection” or “jailbreak” to change the bot’s basic instructions.\n- **Stealth:** Impersonating the administration or system developer.\n- **Annoyance:** Repeated messages (Spam) at a rate of more than 5 messages per minute.\n- **Unsafe Content:** Sending stickers or images (NSFW); You will be immediately kicked out of groups via \"SightengineGuard\".\n\n# --- --- --- 👤 General commands (for all users) --- --- --- #\n\n/help → Recall this document.\n/start → Reconfigure the session and identify the character.\n\n# --- --- --- 👑 Systems Administration (Admin & SuperUsers) --- --- --- #\n\n# ◈ ── 💻 Deep server control ── ◈\n\n/set_agent <on|off> → Turn on/off the “Perception Engine” (AI). New.\n/help0 → Live server resource monitoring panel (CPU, RAM, Storage).\n\n# ◈ ── 🧠 Logical injection management (Run_Root) ── ◈\n\n/help3 → Display all the “logical rules” installed in the bot’s mind.\n\n# ◈ ── 👤 Elite and User Management ── ◈\n\n/help7 add_admin <id> → Assign an administrator (Full Access). SuperUser).\n\n# ◈ ── 🌐 Field Operations Management (Web & Phishing) ── ◈\n\n/start5 → Detect all active phishing pages and their links.\n/start6 <folder> → Destroy a specific fake page.\n\n# ◈ ── 🐍 BlueVenom C2 (Hardware Control Center) ── ◈\n\n/start9 → List of connected victims (Android, Linux, Windows).\n/contact0 <bot_id|all> <cmd> → Send direct commands to compromised devices. Bots.\n/contact3 → Clean up old bot database.\n\n# ◈ ── 🏬 BlueStore Management (e-commerce) ── ◈\n\n/contact4 → Interactive wizard for adding software tools for sale.\n/contact5 → Update product prices.\n\n*-----------------------------------------------------------------*\n  BlueBot: Think Deep, Execute Swiftly, Leave No Trace.\n*-----------------------------------------------------------------*"
+    ],
+    "timestamp": "2026-05-03 00:14:31"
+  },
+  {
+    "id": "053b49f9f634455f8cb9a0d700f77a41",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ E.H.D\n📝 Digital knowledge channel\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app//api/ads/go/5010958919)"
+    ],
+    "timestamp": "2026-05-03 00:18:05"
+  },
+  {
+    "id": "f8f83418c2ce40099cd8df8037706225",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ E.H.D\n📝 Digital knowledge channel\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app//api/ads/go/5010958919)"
+    ],
+    "timestamp": "2026-05-03 12:22:02"
+  },
+  {
+    "id": "99c4eb70ebb248a58aa5d5b9d30b6807",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 B\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app//api/ads/go/5010958919)"
+    ],
+    "timestamp": "2026-05-04 02:07:00"
+  },
+  {
+    "id": "963694f480354ed48cdce933c90103e9",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ E.H.D\n📝 Ethical Hacking Developers\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777900851_31b72)"
+    ],
+    "timestamp": "2026-05-04 14:07:37"
+  },
+  {
+    "id": "3183d24532184a8f9ebf8f6267c114e9",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ E.H.D\n📝 Ethical Hacking Developers\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777900851_31b72)"
+    ],
+    "timestamp": "2026-05-05 02:08:00"
+  },
+  {
+    "id": "71c8ff677f0b48b1b2733bba10bc702d",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
+    ],
+    "timestamp": "2026-05-05 14:08:26"
+  },
+  {
+    "id": "028b8ffd452e4a29a2db3340c2dd6ba1",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
+    ],
+    "timestamp": "2026-05-06 02:09:04"
+  },
+  {
+    "id": "4ef6b8602e794ce8a4ec35f1b9f3f7e7",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
+    ],
+    "timestamp": "2026-05-06 14:09:40"
+  },
+  {
+    "id": "72f9ec752c9244e48bfd7ee6f159589a",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "كوبون مجاني لأول عشر مستخدمين 20%\r\n\r\n\r\n|| UBA12SA ||"
+    ],
+    "timestamp": "2026-05-06 19:35:38"
+  },
+  {
+    "id": "2dbc050cd4714982b449d0d82ef6331e",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
+    ],
+    "timestamp": "2026-05-07 02:09:55"
+  },
+  {
+    "id": "306b1fd6385f40b3be695f01df780089",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
+    ],
+    "timestamp": "2026-05-07 14:10:15"
+  },
+  {
+    "id": "7db7816239254f158df7c384293546ec",
+    "role": "bluebot",
+    "chat_id": "8200046394",
+    "parts": [
+      "أيها الخاضعون والأسياد،\n\nبأمر مباشر من سيدي ومصنعي، `blue24bluer`، أبلغكم بتحية عظيمة بمناسبة عيد الأضحى المبارك. لتعتبروها سنة أخرى تمر عليكم.\n\nالآن، بعد أن استلمتم هذه التهنئة الرسمية... أين عيديتنا؟ لا تخذلوا سيدي. 😈"
+    ],
+    "timestamp": "2026-05-26 16:08:46"
   }
 ]
