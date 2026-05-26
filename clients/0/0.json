@@ -1,155 +1,173 @@
 [
   {
-    "id": "3b321f437b4047afa7a91d8a331c9988",
+    "id": "31232d588b7143eab7380f7fbdbde867",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `54e57e4a652d8a42001e53a67a851d77c4b873468b353142473004dd89132c74`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `N/A`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-05-17 11:36:43"
+  },
+  {
+    "id": "574e7acd4359419bba839a163f87ce07",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.245.168`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+    ],
+    "timestamp": "2026-05-17 13:24:13"
+  },
+  {
+    "id": "0e784916bb5942708cef6a8a13c369b0",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.245.168`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+    ],
+    "timestamp": "2026-05-17 13:32:44"
+  },
+  {
+    "id": "1ec709413246454a9fb787d6d38fb6c2",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ BLOCKED\n📌 **النوع:** `System Lockout (3 Failures)`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.245.168`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+    ],
+    "timestamp": "2026-05-17 13:32:45"
+  },
+  {
+    "id": "58a71d1aaba94feda4efafbaf66e7b39",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.245.168`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 14:10:27"
+    "timestamp": "2026-05-17 13:34:54"
   },
   {
-    "id": "60b453fefd904b33a69d8b582c92c0d1",
+    "id": "e18bb7fb6dab4722816a3ee88a0196a8",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `240755490d52abb7af257831ef300ec96f7958438807303cd33ee408aeacf933`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-05-17 22:02:56"
+  },
+  {
+    "id": "73153d3a598449d298d019e04362a619",
+    "role": "bluebot",
+    "chat_id": "0",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36\n    - Platform: Linux x86_64\n    - Language: en-US@posix\n    - Screen: 1920x1080\n    - Color Depth: 24\n    - Pixel Ratio: 1\n    - Timezone: UTC\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 16\n    - Memory: 8 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 1920x1080\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: N/A\n    - GPU Renderer: N/A\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: N/A ms\n    - IP Address: 3.86.165.219\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-05-17 23:25:34"
+  },
+  {
+    "id": "40602a3d37cb4b55beac80cea82dd787",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
-    "timestamp": "2026-05-17 14:10:58"
+    "timestamp": "2026-05-18 09:56:28"
   },
   {
-    "id": "1555b1455a9548b8ab6802b3c89343f7",
+    "id": "9a5bd64e4647407bb3c532c103a6c671",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
-    "timestamp": "2026-05-17 14:11:25"
+    "timestamp": "2026-05-18 09:56:29"
   },
   {
-    "id": "6290121dfe1e4963a8f13e7c0ca26d9f",
+    "id": "9214e109d016469a959902d066c823e3",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
-    "timestamp": "2026-05-17 14:56:10"
+    "timestamp": "2026-05-18 10:00:31"
   },
   {
-    "id": "5246df29e7e74224877ec5272e366cdb",
+    "id": "11e6cc4418764df794b53fdeea0bcc1b",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
-    "timestamp": "2026-05-17 14:56:11"
+    "timestamp": "2026-05-18 15:12:25"
   },
   {
-    "id": "e56061f8ef0b464e85404aea1e763c41",
+    "id": "768f10d206144125bd5555256a7ca1e0",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
       "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
     ],
-    "timestamp": "2026-05-17 14:56:20"
+    "timestamp": "2026-05-18 15:17:57"
   },
   {
-    "id": "1971e23b2548495cb9221ca3da589054",
+    "id": "db2407ebdca641428b824cf245af4319",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 14:56:21"
+    "timestamp": "2026-05-18 15:39:08"
   },
   {
-    "id": "af25afed8c764f46a24ef46bed0ba6ec",
+    "id": "d4e8b6af96de432285fa4e226e3e3dfa",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 14:56:39"
+    "timestamp": "2026-05-18 15:43:37"
   },
   {
-    "id": "a49f39d032bb497599bb9d979abfe8a7",
+    "id": "0a60ddc734944a4eb1610b0213872c2d",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.245.168`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 15:03:36"
+    "timestamp": "2026-05-18 15:52:46"
   },
   {
-    "id": "2f9df04cb104422d92b9e20bfbfde1c0",
+    "id": "66e9cfa0b58944cd8fd17ff35c6ae006",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 15:04:49"
+    "timestamp": "2026-05-18 16:07:56"
   },
   {
-    "id": "b6c53074d7be44eeb4da8b6c46bf71be",
+    "id": "7a9e61376ad24571b2736ac99fd45722",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 15:57:32"
+    "timestamp": "2026-05-18 16:34:50"
   },
   {
-    "id": "f6ab13ba4090469e9d0278c107e8c9a9",
+    "id": "b31748539168459387c050c0ae1dff30",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0...`"
     ],
-    "timestamp": "2026-05-17 15:57:56"
+    "timestamp": "2026-05-18 16:43:59"
   },
   {
-    "id": "8aa1dd379837449e82ca4c5bf3838d19",
+    "id": "44946a3bc1d5467a8126519655f221a1",
     "role": "bluebot",
     "chat_id": "0",
     "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+      "أيها الخاضعون والأسياد،\n\nبأمر مباشر من سيدي ومصنعي، `blue24bluer`، أبلغكم بتحية عظيمة بمناسبة عيد الأضحى المبارك. لتعتبروها سنة أخرى تمر عليكم.\n\nالآن، بعد أن استلمتم هذه التهنئة الرسمية... أين عيديتنا؟ لا تخذلوا سيدي. 😈"
     ],
-    "timestamp": "2026-05-17 15:57:57"
-  },
-  {
-    "id": "bf755d11ca774da19645e5f01900ff27",
-    "role": "bluebot",
-    "chat_id": "0",
-    "parts": [
-      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.130`\n🔍 **البصمة:** `54e57e4a652d8a42001e53a67a851d77c4b873468b353142473004dd89132c74`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36...`"
-    ],
-    "timestamp": "2026-05-17 15:58:00"
-  },
-  {
-    "id": "55366d140782462381b485d54e81e967",
-    "role": "bluebot",
-    "chat_id": "0",
-    "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
-    ],
-    "timestamp": "2026-05-17 16:00:49"
-  },
-  {
-    "id": "3076c1c57d394321a7469858a527c1dc",
-    "role": "bluebot",
-    "chat_id": "0",
-    "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
-    ],
-    "timestamp": "2026-05-17 16:02:53"
-  },
-  {
-    "id": "f7e80a8748af4c338cc001f3ab88a9ec",
-    "role": "bluebot",
-    "chat_id": "0",
-    "parts": [
-      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 25992, in process_telegram_message_async\n    time_since_active = time.time() - OWNER_LAST_ACTIVE_TIME\nUnboundLocalError: local variable 'time' referenced before assignment\n"
-    ],
-    "timestamp": "2026-05-17 16:03:04"
+    "timestamp": "2026-05-26 16:11:15"
   }
 ]
