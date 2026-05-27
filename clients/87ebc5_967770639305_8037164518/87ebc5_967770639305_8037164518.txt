@@ -1,5 +1,6 @@
-Username: User
+Username: api_user_87ebc5_9
 Chat ID: 87ebc5_967770639305_8037164518
 phone: 967770639305
 verified: True
 welcome_viewed: True
+profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/clients/87ebc5_967770639305_8037164518/87ebc5_967770639305_8037164518_profile.png
