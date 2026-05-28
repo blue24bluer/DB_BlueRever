@@ -142,5 +142,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\n    - Platform: Win32\n    - Language: en-US\n    - Screen: 1440x900\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Africa/Cairo\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 2\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: WebKit built-in PDF, PDF Viewer, Chromium PDF Viewer, t1DozZrd, Web Portable Document Format Renderer, Microsoft Edge PDF Viewer, MOPuXTw\n    - Viewport: 1280x861\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) HD Graphics 530 (0x00001912) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 197.59.28.18\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-05-28 16:57:04"
+  },
+  {
+    "id": "4a2cd4dcb6004b3597ee0055fdd0df55",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `87.251.25.145`\n🔍 **البصمة:** `240755490d52abb7af257831ef300ec96f7958438807303cd33ee408aeacf933`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-05-28 17:35:08"
   }
 ]
