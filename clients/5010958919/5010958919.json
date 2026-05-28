@@ -106,5 +106,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\n    - Platform: Win32\n    - Language: en-US\n    - Screen: 1440x900\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Africa/Cairo\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 3\n    - Memory: 8 GB\n    - Referrer: https://bluewebtest.pythonanywhere.com/BlueStore\n    - Plugins: Microsoft Edge PDF Viewer, Chromium com.adobe.pdf extension, Chromium PDF Viewer, LFh3EpUK, PDF Viewer, Up7GLkS, WebKit built-in PDF\n    - Viewport: 1280x861\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) HD Graphics 530 (0x00001912) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 197.59.28.18\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-05-28 16:45:45"
+  },
+  {
+    "id": "8d40d639ff6d44d2a68d7f92c0028479",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1\n    - Platform: Win32\n    - Language: en-US\n    - Screen: 1440x900\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Africa/Cairo\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 3\n    - Memory: 8 GB\n    - Referrer: N/A\n    - Plugins: Microsoft Edge PDF Viewer, Chromium com.adobe.pdf extension, Chromium PDF Viewer, LFh3EpUK, PDF Viewer, Up7GLkS, WebKit built-in PDF\n    - Viewport: 807x861\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) HD Graphics 530 (0x00001912) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 197.59.28.18\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-05-28 16:52:11"
   }
 ]
