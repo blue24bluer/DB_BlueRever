@@ -34,5 +34,23 @@
       "تعلم"
     ],
     "timestamp": "2026-05-28 09:22:31"
+  },
+  {
+    "id": "d2770b0e685f436c8855a323b2061f32",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ CVE / ZERO-DAY\n🔥 CVE-2026-26980 – Ghost CMS SQL Injection (Active Exploitation Observed)\n\n🔗 GitHub PoC Repository\n➡️ https://github.com/dinosn/ghost-cve-2026-26980\n\n🎯 Ghost CMS – Unauthenticated SQL Injection\n🧠 Overview\nA critical SQL Injection vulnerability affecting Ghost CMS allows unauthenticated attackers to extract arbitrary data from the database through the Content API.\nThe issue affects Ghost versions 3.24.0 through 6.19.0 and was fixed in 6.19.1.\n\n⚙️ Impact\n• Unauthenticated database access\n• Admin API key exposure\n• Credential and token leakage\n• Large-scale website compromise potential\n\n📌 Technical Details\nThe vulnerability exists in Ghost’s Content API filtering and query handling logic, allowing attackers to manipulate backend SQL queries and retrieve sensitive information without authentication.\nCVSS Score: 9.4 (Critical)\n\n🚨 Active Exploitation\nRecent threat intelligence reports indicate that attackers are actively exploiting CVE-2026-26980 in the wild.\nMore than 700 Ghost CMS websites have reportedly been compromised and injected with malicious JavaScript associated with “ClickFix” attack campaigns.\nAffected targets reportedly include:\n• Universities\n• SaaS providers\n• Fintech platforms\n• Research organizations\n\n🛡 Mitigation\n✅ Upgrade Ghost CMS to 6.19.1 or later\n✅ Rotate exposed Admin API keys\n✅ Review website content for injected JavaScript\n✅ Monitor logs for suspicious Content API requests\n\n📚 Research Value\n• SQL Injection exploitation analysis\n• CMS attack surface research\n• Web application compromise workflows\n• Threat intelligence tracking\n\n⚠️ Ethical Notice\nThis content is shared for cybersecurity research and defensive purposes only.\nDo not use this information for illegal activities.\n\n🧠 Cyber Security Exploit Research Community\nMalware Analysis | Reverse Engineering | CVE Research | Threat Intelligence\n\n➖➖➖➖➖➖➖➖➖➖"
+    ],
+    "timestamp": "2026-05-28 09:22:31"
+  },
+  {
+    "id": "2677afca98eb41b99ffd09bf15593a8d",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "تعلم\n⚠️ CVE / ZERO-DAY\n🔥 CVE-2026-26980 – Ghost CMS SQL Injection (Active Exploitation Observed)\n\n🔗 GitHub PoC Repository\n➡️ https://github.com/dinosn/ghost-cve-2026-26980\n\n🎯 Ghost CMS – Unauthenticated SQL Injection\n🧠 Overview\nA critical SQL Injection vulnerability affecting Ghost CMS allows unauthenticated attackers to extract arbitrary data from the database through the Content API.\nThe issue affects Ghost versions 3.24.0 through 6.19.0 and was fixed in 6.19.1.\n\n⚙️ Impact\n• Unauthenticated database access\n• Admin API key exposure\n• Credential and token leakage\n• Large-scale website compromise potential\n\n📌 Technical Details\nThe vulnerability exists in Ghost’s Content API filtering and query handling logic, allowing attackers to manipulate backend SQL queries and retrieve sensitive information without authentication.\nCVSS Score: 9.4 (Critical)\n\n🚨 Active Exploitation\nRecent threat intelligence reports indicate that attackers are actively exploiting CVE-2026-26980 in the wild.\nMore than 700 Ghost CMS websites have reportedly been compromised and injected with malicious JavaScript associated with “ClickFix” attack campaigns.\nAffected targets reportedly include:\n• Universities\n• SaaS providers\n• Fintech platforms\n• Research organizations\n\n🛡 Mitigation\n✅ Upgrade Ghost CMS to 6.19.1 or later\n✅ Rotate exposed Admin API keys\n✅ Review website content for injected JavaScript\n✅ Monitor logs for suspicious Content API requests\n\n📚 Research Value\n• SQL Injection exploitation analysis\n• CMS attack surface research\n• Web application compromise workflows\n• Threat intelligence tracking\n\n⚠️ Ethical Notice\nThis content is shared for cybersecurity research and defensive purposes only.\nDo not use this information for illegal activities.\n\n🧠 Cyber Security Exploit Research Community\nMalware Analysis | Reverse Engineering | CVE Research | Threat Intelligence\n\n➖➖➖➖➖➖➖➖➖➖"
+    ],
+    "timestamp": "2026-05-28 09:22:35"
   }
 ]
