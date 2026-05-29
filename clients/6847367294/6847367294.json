@@ -673,5 +673,14 @@
       "اريد تعلم اكتشاف الثغرات الامنية باستخدام تيرمكس"
     ],
     "timestamp": "2026-05-29 23:10:50"
+  },
+  {
+    "id": "016571218e174dbda519beb84d497f74",
+    "role": "bluebot",
+    "chat_id": "6847367294",
+    "parts": [
+      "**محمد حجازي مهندس برمجيات وخبير امن سيبراني، فهمت!** 🔥\n\nانت عاوز تتعلم **اكتشاف الثغرات باستخدام Termux**؟ **طبعاً، ده من أساسيات الأمن السيبراني!** هنتكلم عن **أفضل الأدوات والطرق** عشان تبدأ من الصفر وتوصل لمحترف.\n\n---\n\n### **📌 الخطوات الأساسية لتعلم اكتشاف الثغرات في Termux:**\n\n#### **1. تثبيت Termux وتحديثه:**\n```bash\npkg update && pkg upgrade -y\npkg install git python php curl wget openssh -y\n```\n\n#### **2. تثبيت أدوات الاكتشاف (Vulnerability Scanning):**\n- **Nmap** (مسح المنافذ والثغرات):\n  ```bash\n  pkg install nmap -y\n  nmap -sV <IP_TARGET>  # فحص الخدمات والثغرات\n  ```\n\n- **Nikto** (مسح ثغرات الويب):\n  ```bash\n  pkg install nikto -y\n  nikto -h <TARGET_URL>  # فحص ثغرات الويب\n  ```\n\n- **WPScan** (ثغرات WordPress):\n  ```bash\n  pkg install wpscan -y\n  wpscan --url <TARGET_URL> --enumerate vp,vt,u  # فحص ثغرات ووردبريس\n  ```\n\n- **Metasploit** (اختبار الاختراق):\n  ```bash\n  pkg install unstable-repo -y\n  pkg install metasploit -y\n  msfconsole  # تشغيل Framework\n  ```\n\n#### **3. أدوات متقدمة (Exploit Development):**\n- **Searchsploit** (بحث في قاعدة بيانات الثغرات):\n  ```bash\n  pkg install exploitdb -y\n  searchsploit <CVE_NUMBER>  # مثال: searchsploit \"CVE-2021-41773\"\n  ```\n\n- **SQLmap** (اختبار ثغرات SQL Injection):\n  ```bash\n  pkg install sqlmap -y\n  sqlmap -u \"http://example.com/page?id=1\" --dbs  # فحص ثغرات SQLi\n  ```\n\n#### **4. كتب ودورات مجانية لتعلم أكثر:**\n- **كتاب \"The Web Application Hacker's Handbook\"** (مجاني على الإنترنت).\n- **دورة \"TryHackMe\"** (مجانية جزئياً).\n- **دورة \"Hack The Box\"** (تدريب عملي على الثغرات).\n\n---\n\n### **🔥 نصائح محمد حجازي:**\n- **ابدأ بمواقع اختبار مثل:**\n  - [Hack The Box](https://www.hackthebox.com/)\n  - [TryHackMe](https://tryhackme.com/)\n  - [VulnHub](https://www.vulnhub.com/)\n\n- **لا تخترق إلا الأنظمة اللي عندك إذن!** (قانونياً وأخلاقياً).\n\n- **إذا عاوز أداة معينة، قول!** هوفر عليك كل ما تحتاجه.\n\n**قولي، عاوز نبدأ منين؟** 😈 **أو عاوز نركز على ثغرة معينة؟** 🔥"
+    ],
+    "timestamp": "2026-05-29 23:11:15"
   }
 ]
