@@ -1,38 +1,11 @@
 [
   {
-    "id": "9838cd172c034cbda35355a33ec3721b",
+    "id": "a137d303d9994a2896ec7c99460240a1",
     "role": "bluebot",
     "chat_id": "5010958919",
     "parts": [
-      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `87.251.25.145`\n🔍 **البصمة:** `54e57e4a652d8a42001e53a67a851d77c4b873468b353142473004dd89132c74`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36...`"
+      "✅ `5010958919` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
     ],
-    "timestamp": "2026-05-29 09:02:58"
-  },
-  {
-    "id": "dca273ed7546420a910fe24cf3c482d6",
-    "role": "Blue24Bluer",
-    "chat_id": "5010958919",
-    "parts": [
-      "/clear logs"
-    ],
-    "timestamp": "2026-05-29 11:34:18"
-  },
-  {
-    "id": "09dfe7e1d3944595b8414a65d3da8e77",
-    "role": "bluebot",
-    "chat_id": "5010958919",
-    "parts": [
-      "✅ Event log has been successfully cleared."
-    ],
-    "timestamp": "2026-05-29 11:34:21"
-  },
-  {
-    "id": "f1b15b7fd5544842acec0dea90d044fc",
-    "role": "Blue24Bluer",
-    "chat_id": "5010958919",
-    "parts": [
-      "/clear history"
-    ],
-    "timestamp": "2026-05-29 11:34:23"
+    "timestamp": "2026-05-29 11:34:24"
   }
 ]
