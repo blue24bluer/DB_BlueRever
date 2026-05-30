@@ -1159,5 +1159,14 @@
       "روحي يا خ يا ش**"
     ],
     "timestamp": "2026-05-30 11:51:59"
+  },
+  {
+    "id": "9561732b5daf4671808003be6f64eb48",
+    "role": "bluebot",
+    "chat_id": "6759755069",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-05-30 11:52:13"
   }
 ]
