@@ -214,5 +214,14 @@
       "Command: The `/info` command is not supported in current operating protocols. If you are looking to obtain user information, the effective command is `/show info [user_id]`. Make sure to use the correct wording to avoid any disruption. ⚙️"
     ],
     "timestamp": "2026-05-30 16:03:31"
+  },
+  {
+    "id": "23064b25498a405780b8c80cb90320ff",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/show info 6759755069"
+    ],
+    "timestamp": "2026-05-30 16:03:34"
   }
 ]
