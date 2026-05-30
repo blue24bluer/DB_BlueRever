@@ -151,5 +151,14 @@
       "/show history 6759755069"
     ],
     "timestamp": "2026-05-30 13:46:56"
+  },
+  {
+    "id": "9c1bcac0e7354cbfa3a876472ddfcd91",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "📜 **Conversation history:**"
+    ],
+    "timestamp": "2026-05-30 13:46:58"
   }
 ]
