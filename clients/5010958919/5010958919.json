@@ -160,5 +160,14 @@
       "📜 **Conversation history:**"
     ],
     "timestamp": "2026-05-30 13:46:58"
+  },
+  {
+    "id": "5e242eb3f1ab434f9dc761ed636db9a6",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-05-30 11:53:46`\n\n🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
+    ],
+    "timestamp": "2026-05-30 13:46:59"
   }
 ]
