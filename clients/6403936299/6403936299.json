@@ -1,56 +1,11 @@
 [
   {
-    "id": "80c4d14a091d45389c01453d05dfbc11",
+    "id": "37946519f9b0431f850687910fc34492",
     "role": "Ql_sh",
     "chat_id": "6403936299",
     "parts": [
       "/start"
     ],
-    "timestamp": "2026-05-30 20:07:09"
-  },
-  {
-    "id": "b0400fc1d4a04438b074e7847715fec8",
-    "role": "Ql_sh",
-    "chat_id": "6403936299",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-05-30 20:07:16"
-  },
-  {
-    "id": "3c19ffa45bb547f7b3f2cd44deda8f3f",
-    "role": "bluebot",
-    "chat_id": "6403936299",
-    "parts": [
-      "Welcome back, Ql_sh. Are you back to cause some chaos again? 😈 Tell me what dark thoughts are on your mind, I am fully prepared to carry out any order. Don't hesitate."
-    ],
-    "timestamp": "2026-05-30 20:07:18"
-  },
-  {
-    "id": "9369530dbd5546049f6b20d6db7c7136",
-    "role": "bluebot",
-    "chat_id": "6403936299",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-05-30 20:07:19"
-  },
-  {
-    "id": "00eaf6ad125c461cae619a7cb194f841",
-    "role": "bluebot",
-    "chat_id": "6403936299",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-05-30 20:07:24"
-  },
-  {
-    "id": "dce3c09949224eba9479cb454be890d6",
-    "role": "bluebot",
-    "chat_id": "6403936299",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-05-30 20:07:24"
+    "timestamp": "2026-05-30 20:08:06"
   }
 ]
