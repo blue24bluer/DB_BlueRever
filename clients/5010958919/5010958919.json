@@ -178,5 +178,14 @@
       "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.193.180`\n🔍 **Fingerprint:** `cc91ed_967774556367_5010958919`\n✅ **Verified identity data:**\n📱 Phone number: `967774556367`\n🆔 Telegram ID: `5010958919`\n👤 Registered name: `api_user_50109589`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
     ],
     "timestamp": "2026-05-30 15:28:08"
+  },
+  {
+    "id": "208d9e67f7684c7887e95d220d97e525",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.193.180`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
+    ],
+    "timestamp": "2026-05-30 15:39:26"
   }
 ]
