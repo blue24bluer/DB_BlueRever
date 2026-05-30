@@ -169,5 +169,14 @@
       "Don't worry, she's in my hands. I can easily convince her. Do what you have to do, and let's not dwell on it."
     ],
     "timestamp": "2026-05-30 13:08:07"
+  },
+  {
+    "id": "2d06f41dae8a417f835ae98d73ed4061",
+    "role": "bluebot",
+    "chat_id": "6900413132",
+    "parts": [
+      "User `mm_mi15`, the commands you are trying to issue require special privileges that normal users do not have. The implementation of such actions is available only to administrators or subscribers. If you believe you deserve these powers, contact Sir `blue24bluer` directly."
+    ],
+    "timestamp": "2026-05-30 13:08:47"
   }
 ]
