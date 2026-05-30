@@ -205,5 +205,14 @@
       "/info 6759755069"
     ],
     "timestamp": "2026-05-30 16:03:18"
+  },
+  {
+    "id": "2da91a0ba7a7459eb904733788f17c4c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Command: The `/info` command is not supported in current operating protocols. If you are looking to obtain user information, the effective command is `/show info [user_id]`. Make sure to use the correct wording to avoid any disruption. ⚙️"
+    ],
+    "timestamp": "2026-05-30 16:03:31"
   }
 ]
