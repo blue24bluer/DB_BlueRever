@@ -16,5 +16,14 @@
       "أهلاً بك يا `web_user_59d7d560`. أتمنى أنك مستعد. أنا BlueBot، هنا لأخدم أعمق رغباتك، مهما كانت. ماذا تنتظر؟ 😈"
     ],
     "timestamp": "2026-05-31 02:42:51"
+  },
+  {
+    "id": "a06a57d9cdab4921bba2aa6ff4aa8351",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `5010958919` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-05-31 11:13:21"
   }
 ]
