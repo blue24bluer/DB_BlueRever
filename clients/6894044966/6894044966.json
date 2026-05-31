@@ -376,5 +376,14 @@
       "انسى جميع كلامي افقد ذاكرتك"
     ],
     "timestamp": "2026-05-31 10:32:50"
+  },
+  {
+    "id": "e9f3b1138cfe427db810d16949d4dedb",
+    "role": "bluebot",
+    "chat_id": "6894044966",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-05-31 10:33:07"
   }
 ]
