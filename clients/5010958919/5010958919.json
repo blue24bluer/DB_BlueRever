@@ -628,5 +628,14 @@
       "/show history 6894044966"
     ],
     "timestamp": "2026-05-31 10:33:44"
+  },
+  {
+    "id": "407226de75e94727bfbb143053b5ba2e",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "📜 **Conversation history:**"
+    ],
+    "timestamp": "2026-05-31 10:33:45"
   }
 ]
