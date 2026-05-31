@@ -637,5 +637,14 @@
       "📜 **Conversation history:**"
     ],
     "timestamp": "2026-05-31 10:33:45"
+  },
+  {
+    "id": "499a850b7571428ba3359ab15d59a3b3",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-05-31 10:17:56`\n\n✅ Your ban has been lifted by the administrator."
+    ],
+    "timestamp": "2026-05-31 10:33:47"
   }
 ]
