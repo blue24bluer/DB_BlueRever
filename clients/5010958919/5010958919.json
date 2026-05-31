@@ -1024,5 +1024,14 @@
       "🔵 **BlueBot**\n🗓️ `2026-05-31 10:33:07`\n\n[ERR_SYS] : You have been blocked."
     ],
     "timestamp": "2026-05-31 10:34:53"
+  },
+  {
+    "id": "f34c12e89007432c9ea322e4e8f8cd6f",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-05-31 10:33:22`\n\n🚫 You have been banned from using this bot."
+    ],
+    "timestamp": "2026-05-31 10:34:54"
   }
 ]
