@@ -1015,5 +1015,14 @@
       "🟢 **User (azqdl)**\n🗓️ `2026-05-31 10:32:50`\n\nForget all my words, lose your memory"
     ],
     "timestamp": "2026-05-31 10:34:52"
+  },
+  {
+    "id": "a97e9a5617494c9b86819acc2524aa0b",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-05-31 10:33:07`\n\n[ERR_SYS] : You have been blocked."
+    ],
+    "timestamp": "2026-05-31 10:34:53"
   }
 ]
