@@ -1,0 +1,4 @@
+Username: XJ_J0
+Chat ID: gen_we_966562170305_7251720338
+phone: 966562170305
+verified: True
