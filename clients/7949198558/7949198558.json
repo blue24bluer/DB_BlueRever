@@ -43,5 +43,32 @@
       "ززززززز"
     ],
     "timestamp": "2026-06-01 12:09:08"
+  },
+  {
+    "id": "a112adf8764b438ab39dd67900dddc39",
+    "role": "Unknown",
+    "chat_id": "7949198558",
+    "parts": [
+      "/contact"
+    ],
+    "timestamp": "2026-06-01 12:09:08"
+  },
+  {
+    "id": "f97eb5e06e294292b2c48a19cc5d8bac",
+    "role": "bluebot",
+    "chat_id": "7949198558",
+    "parts": [
+      "Please write a message after the command /contact."
+    ],
+    "timestamp": "2026-06-01 12:09:10"
+  },
+  {
+    "id": "987e3a76ca2d425886e6399cb8e92d77",
+    "role": "Unknown",
+    "chat_id": "7949198558",
+    "parts": [
+      "https://t.me/XenyxNet/369\n....\nززززززز"
+    ],
+    "timestamp": "2026-06-01 12:09:12"
   }
 ]
