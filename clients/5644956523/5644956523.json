@@ -1,0 +1,29 @@
+[
+  {
+    "id": "30c64b67ab304b798c465fe67e9ad0b4",
+    "role": "Unknown",
+    "chat_id": "5644956523",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-02 19:48:56"
+  },
+  {
+    "id": "404cd60f72d24358a2676a4b3b9cfcac",
+    "role": "Unknown",
+    "chat_id": "5644956523",
+    "parts": [
+      "Beginnings of Civilisation 04 : Mesopotaminan Civilisation | By Aditya Sir \n\nLECTURE - 04\n—————————————————\nDATE : 26/05/2026\n————————————————"
+    ],
+    "timestamp": "2026-06-02 19:48:57"
+  },
+  {
+    "id": "de4300d53cf34fd087e1ed70c1843a81",
+    "role": "bluebot",
+    "chat_id": "5644956523",
+    "parts": [
+      "Failed to save video from Telegram."
+    ],
+    "timestamp": "2026-06-02 19:48:58"
+  }
+]
