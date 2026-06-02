@@ -1177,5 +1177,14 @@
       "يلا يا احمق امزح معك يا صديقي"
     ],
     "timestamp": "2026-06-02 23:28:04"
+  },
+  {
+    "id": "3beb08824f9e4515ae1ca40bea25811a",
+    "role": "bluebot",
+    "chat_id": "6759755069",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-02 23:28:25"
   }
 ]
