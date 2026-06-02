@@ -268,5 +268,14 @@
       "بقولك اي انت هتتعبني معاك"
     ],
     "timestamp": "2026-06-02 10:05:39"
+  },
+  {
+    "id": "02df5d817bc946e48a0e7ce2859f4d99",
+    "role": "bluebot",
+    "chat_id": "7810194623",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-02 10:05:59"
   }
 ]
