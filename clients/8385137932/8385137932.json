@@ -34,5 +34,14 @@
       "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz"
     ],
     "timestamp": "2026-06-02 20:37:18"
+  },
+  {
+    "id": "bf4d5f660b9b4802a5e7b9ceb217240a",
+    "role": "bluebot",
+    "chat_id": "8385137932",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\nPGh0bWw+DQo8aGVhZD48dGl0bGU+NDA0IE5vdCBGb3VuZDwvdGl0bGU+PC9oZWFkPg0KPGJvZHk+DQo8Y2VudGVyPjxoMT40MDQgTm90IEZvdW5kPC9oMT48L2NlbnRlcj4NCjxocj48Y2VudGVyPm5naW54PC9jZW50ZXI+DQo8L2JvZHk+DQo8L2h0bWw+DQo="
+    ],
+    "timestamp": "2026-06-02 20:37:29"
   }
 ]
