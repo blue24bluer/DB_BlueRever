@@ -25,5 +25,14 @@
       "✅ `5010958919` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
     ],
     "timestamp": "2026-05-31 11:13:21"
+  },
+  {
+    "id": "ead193d06e144c408fe9af1dc5332ce0",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ Event log has been successfully cleared."
+    ],
+    "timestamp": "2026-06-02 19:48:58"
   }
 ]
