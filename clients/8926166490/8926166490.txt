@@ -1,0 +1,3 @@
+Username: Phantom
+Chat ID: 8926166490
+Blocked: True
