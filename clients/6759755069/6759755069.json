@@ -1186,5 +1186,14 @@
       " [ERR_SYS] : You have been blocked. "
     ],
     "timestamp": "2026-06-02 23:28:25"
+  },
+  {
+    "id": "f7a464d038b448c6af1c49f2a17c80e6",
+    "role": "bluebot",
+    "chat_id": "6759755069",
+    "parts": [
+      "🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
+    ],
+    "timestamp": "2026-06-02 23:28:34"
   }
 ]
