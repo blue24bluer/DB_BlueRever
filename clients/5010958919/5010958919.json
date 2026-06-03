@@ -1,38 +1,11 @@
 [
   {
-    "id": "c4f403b137fd46c49057e1dc2a9a5a65",
-    "role": "Blue24Bluer",
-    "chat_id": "5010958919",
-    "parts": [
-      "بلو اريد منك تحادث المستخدم PSXXW@\nارسل له \"مرحبا\" كختبار"
-    ],
-    "timestamp": "2026-06-03 10:52:01"
-  },
-  {
-    "id": "0ce3f3d822c648b08054ed1336483655",
-    "role": "Blue24Bluer",
-    "chat_id": "5010958919",
-    "parts": [
-      "بلو اريد منك تحادث المستخدم PSXXW@\nارسل له \"مرحبا\" كختبار"
-    ],
-    "timestamp": "2026-06-03 10:52:04"
-  },
-  {
-    "id": "b71564de7c2842c9a1cc0d04cb25375f",
+    "id": "fc4ce52c970d41ee8ecb9c91e13c70a3",
     "role": "Blue24Bluer",
     "chat_id": "5010958919",
     "parts": [
       "/clear logs"
     ],
-    "timestamp": "2026-06-03 11:33:42"
-  },
-  {
-    "id": "d848cd94c3814d4cba74d8651a6f0d4f",
-    "role": "Blue24Bluer",
-    "chat_id": "5010958919",
-    "parts": [
-      "/clear logs"
-    ],
-    "timestamp": "2026-06-03 21:14:26"
+    "timestamp": "2026-06-03 21:15:58"
   }
 ]
