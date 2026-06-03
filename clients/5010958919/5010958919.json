@@ -70,5 +70,14 @@
       "/tg"
     ],
     "timestamp": "2026-06-03 22:38:34"
+  },
+  {
+    "id": "edd00d29460f471ca1b1d2bdac73eb84",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "📡 Telegram ARMY COMMANDER (Updated)\n━━━━━━━━━━━━━━━━━━━━━\n🔐 Status: AUTHENTICATED\n🎯 Target: 🟢 Default (Main Account)\n━━━━━━━━━━━━━━━━━━━━━\n\n🎮 **Targeting:**\n* /tg use all | /tg use default\n* /tg use +123 +456` (Multi select)\n* /tg show` (List Sessions)\n\n⚡ **Actions:**\n* /tg join <link> | /tg leave <id>\n* /tg msg <user> <txt> | /tg broadcast <txt>\n* /tg info <user> | /tg history <user> [limit]\n\n🛠️ **Management (New):**\n* /tg0 contact add <phone> <name>\n* /tg1 contact del <username/id>\n* /tg2 delmsg <chat> <id1,id2>\n* /tg3 editmsg <chat> <id> <new_text>\n* /tg4 profile <photo_url>\n\n🔍 **Tools:**\n* /tg5 login <phone> | /tg6 auth <phone> <code>\n* /tg7 search <query> | /tg8 download <url>\n━━━━━━━━━━━━━━━━━━━━━"
+    ],
+    "timestamp": "2026-06-03 22:38:35"
   }
 ]
