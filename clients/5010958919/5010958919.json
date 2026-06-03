@@ -88,5 +88,14 @@
       "/tg meg @PSXXW Hii"
     ],
     "timestamp": "2026-06-03 22:39:15"
+  },
+  {
+    "id": "a17998c3480b4e4b98f9205935acba2c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "❌ **Unknown Command.** Type `/tg` for help."
+    ],
+    "timestamp": "2026-06-03 22:39:16"
   }
 ]
