@@ -1,0 +1,3 @@
+Username: Ghost
+Chat ID: 5359152045
+Blocked: True
