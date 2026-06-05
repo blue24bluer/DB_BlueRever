@@ -385,5 +385,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv8l\n    - Language: ar-SA\n    - Screen: 320x480\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Asia/Riyadh\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 8 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 354x531\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-T720\n    - Network Type: 3g\n    - Network Downlink: 1.5 Mbps\n    - Network RTT: 400 ms\n    - IP Address: 62.149.110.133\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-05 02:12:26"
+  },
+  {
+    "id": "52a62b91150c437fa85818df258f2376",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.56.41`\n🔍 **البصمة:** `cc91ed_967774556367_5010958919`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `967774556367`\n🆔 معرف تيليجرام: `5010958919`\n👤 الاسم المسجل: `api_user_50109589`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
+    ],
+    "timestamp": "2026-06-05 10:15:42"
   }
 ]
