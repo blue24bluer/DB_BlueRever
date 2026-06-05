@@ -43,5 +43,14 @@
       "/clear logs"
     ],
     "timestamp": "2026-06-05 20:21:47"
+  },
+  {
+    "id": "21b9bcd41fd049ea91c46bc94f278023",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ Event log has been successfully cleared."
+    ],
+    "timestamp": "2026-06-05 20:21:48"
   }
 ]
