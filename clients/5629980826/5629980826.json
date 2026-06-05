@@ -43,5 +43,23 @@
       "أنا موجود ومستعد. أمرني بما تريد، ودع الظلام يبدأ. 😈"
     ],
     "timestamp": "2026-06-05 03:28:30"
+  },
+  {
+    "id": "3e30d50064c748a59414580078b50566",
+    "role": "bluebot",
+    "chat_id": "5629980826",
+    "parts": [
+      "أنا موجود ومستعد. أمرني بما تريد، ودع الظلام يبدأ. 😈"
+    ],
+    "timestamp": "2026-06-05 03:28:30"
+  },
+  {
+    "id": "fdcdc6cca01d4f7d92561e8f4df006dd",
+    "role": "Unknown",
+    "chat_id": "5629980826",
+    "parts": [
+      "وش حل هاذي المشكله\n\n401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https"
+    ],
+    "timestamp": "2026-06-05 03:29:03"
   }
 ]
