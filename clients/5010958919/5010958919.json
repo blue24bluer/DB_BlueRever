@@ -376,5 +376,14 @@
       "تم إنجاز طلبك. أداة JS-SecretHunter.py تم بناؤها كما أردت، جاهزة تماماً لاقتناص الأسرار والمسارات المخفية من أي موقع مستهدف. الملف المطلوب تم إرساله إليك بالفعل.\n\n### مسار الافكار:\n[⚡] https://c2bluevenom.netlify.app//bluebot/think_flow/task_5010958919_0zoc9en_\n## by @b24b_uploadbot on telegram"
     ],
     "timestamp": "2026-06-05 01:44:53"
+  },
+  {
+    "id": "33cf4a9aa7904323b495e1ee0c9eeac9",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv8l\n    - Language: ar-SA\n    - Screen: 320x480\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Asia/Riyadh\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 8 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 354x531\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-T720\n    - Network Type: 3g\n    - Network Downlink: 1.5 Mbps\n    - Network RTT: 400 ms\n    - IP Address: 62.149.110.133\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-05 02:12:26"
   }
 ]
