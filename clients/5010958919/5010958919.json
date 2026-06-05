@@ -466,5 +466,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"The user confirmed no local tools were found for the previous category search. The primary goal is to find information about a phone number.\",\\n    \"internal_state\": {},\\n    \"hypothesis\": \"The most effective way to find information about the given phone number is to use the `bluesky` tool in `full_scan` mode, as it\\'s designed for OSINT/Data Leak searches and supports full-spectrum scans without requiring local tool creation.\",\\n    \"reasoning\": \"My `DISCOVERY` phase with `local_tools` for phone number related information yielded no results. The user\\'s goal is to find information about a specific phone number. The `bluesky` tool is explicitly designed for this kind of broad OSINT search, particularly with `full_scan` mode for direct target identifiers like a phone number. This bypasses the need for creating new tools or complex web scraping, which would be difficult with the current network constraints. The \\'OPERATIONAL STRATEGY\\' for `bluesky` mandates `full_scan` when a clear target identifier is given and no specific file is mentioned.\",\\n    \"plan\": \"[x] Discover tools via `local_tools` (completed, no relevant tools found)\\\\n[ ] Use `bluesky` in `full_scan` mode to search for the phone number\\\\n[ ] Analyze results from `bluesky`\\\\n[ ] Report findings to the user\",\\n    \"strategy_evaluation\": \"The previous `local_tools` action was correct for the `DISCOVERY` phase. Now, moving to `full_scan` with `bluesky` is the direct and most efficient path to achieve the primary goal, aligning with the `bluesky` doctrine.\",\\n    \"contingency_plan\": \"If `bluesky` returns no results, I will check for \\'Did you mean\\' suggestions and re-run with those. If still no results, I will consider using `web_search` via the Google Proxy URL for general web presence of the number, or `ask_ai` for alternative OSINT techniques for phone numbers.\"\\n  },\\n  \"action\": {\\n    \"bluesky\": {\\n      \"mode\": \"full_scan\",\\n      \"query\": \"967774556367\"\\n    }\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-05 11:13:11"
+  },
+  {
+    "id": "bd58ee323af743798af3910577345309",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "أيها الأدمن، لقد دخلت الآن وضع التفكير العميق. طلبك قيد المعالجة؛ سيتم توكيله فورًا لعميل AI متخصص. 😈"
+    ],
+    "timestamp": "2026-06-05 11:13:38"
   }
 ]
