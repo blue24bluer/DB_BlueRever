@@ -52,5 +52,14 @@
       "Upload"
     ],
     "timestamp": "2026-06-05 06:28:39"
+  },
+  {
+    "id": "161080dcf7cd4988b04546a21bfde2ef",
+    "role": "bluebot",
+    "chat_id": "921079251",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-06-05 06:28:49"
   }
 ]
