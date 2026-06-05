@@ -610,5 +610,23 @@
       "I cannot search for phone number 967774556367 effectively from here. To complete this task, I need to run a secure helper script on your machine. Do you allow that? This is necessary to continue."
     ],
     "timestamp": "2026-06-05 13:47:57"
+  },
+  {
+    "id": "ad954b0cb609406eb01787e613bc6fd9",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🚨 **Security alert (automatic ban):**\nUser Ghost (`5359152045`) has been blocked due to repeating the message 6 times in private."
+    ],
+    "timestamp": "2026-06-05 15:13:27"
+  },
+  {
+    "id": "a5a869b4a3d241f48b70cf92a17f7762",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/clear history"
+    ],
+    "timestamp": "2026-06-05 19:53:27"
   }
 ]
