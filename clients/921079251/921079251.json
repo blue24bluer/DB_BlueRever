@@ -16,5 +16,14 @@
       "https://n1.kemono.cr/data/1a/48/1a48b3ad966692c3ab5eada7e725f20dd98b042eeddbf8aa6e61ca261ebe289f.mp4?f=GG+hj+12-31.mp4"
     ],
     "timestamp": "2026-06-05 06:40:43"
+  },
+  {
+    "id": "6e95ab90fcae4c028290840576065e17",
+    "role": "bluebot",
+    "chat_id": "921079251",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-06-05 06:40:54"
   }
 ]
