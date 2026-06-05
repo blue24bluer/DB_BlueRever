@@ -421,5 +421,14 @@
       "🚫 تم حظرك من استخدام هذا البوت.\nيرجى التواصل مع الدعم إذا كان هذا خطأ.\n@blue24bluer"
     ],
     "timestamp": "2026-06-05 15:14:39"
+  },
+  {
+    "id": "609800c58d044bdfa3fd8516b731c551",
+    "role": "bluebot",
+    "chat_id": "5359152045",
+    "parts": [
+      "🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
+    ],
+    "timestamp": "2026-06-05 15:46:20"
   }
 ]
