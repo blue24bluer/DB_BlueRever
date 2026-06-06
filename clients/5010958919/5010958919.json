@@ -358,5 +358,14 @@
       "/clear history 5359152045"
     ],
     "timestamp": "2026-06-06 14:30:43"
+  },
+  {
+    "id": "83d0cf6d38e9489180b98d863cadb380",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `5359152045` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-06-06 14:30:44"
   }
 ]
