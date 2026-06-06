@@ -70,5 +70,14 @@
       "Https://vplink.in/V9eYf download"
     ],
     "timestamp": "2026-06-06 05:46:35"
+  },
+  {
+    "id": "c05a7350ebd04323b4ce6c3be73e6410",
+    "role": "bluebot",
+    "chat_id": "1876509460",
+    "parts": [
+      "Dear `Unknown` (ID: 1876509460), the command you attempted (\"Https://vplink.in/V9eYf download\") exceeds your current permissions. Performing such actions requires a special subscription or being one of my administrators. Don't try again.\n\nIf you believe you have the right to access these capabilities, contact `blue24bluer@` directly to arrange this. Otherwise, stick with what is available to you. 😏"
+    ],
+    "timestamp": "2026-06-06 05:47:01"
   }
 ]
