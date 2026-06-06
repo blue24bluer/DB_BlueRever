@@ -367,5 +367,14 @@
       "✅ `5359152045` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
     ],
     "timestamp": "2026-06-06 14:30:44"
+  },
+  {
+    "id": "994df4dfdf7f405dae521254cd3dd325",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.56.191`\n🔍 **Fingerprint:** `wm_8be30bcac5e0`\n✅ **Verified identity data:**\n📱 Phone number: `Webmaster Auth`\n🆔 Telegram ID: `wm_8be30bcac5e0`\n👤 Registered name: `api_user_wm_8be30`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
+    ],
+    "timestamp": "2026-06-06 17:43:26"
   }
 ]
