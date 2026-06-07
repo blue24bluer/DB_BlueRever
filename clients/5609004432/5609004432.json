@@ -475,5 +475,14 @@
       "انت كذاب"
     ],
     "timestamp": "2026-06-07 20:56:23"
+  },
+  {
+    "id": "e4d351b4e88f4271a8374c59459646ce",
+    "role": "bluebot",
+    "chat_id": "5609004432",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-07 20:56:36"
   }
 ]
