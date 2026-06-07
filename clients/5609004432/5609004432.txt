@@ -1,0 +1,3 @@
+Username: a_Lightning
+Chat ID: 5609004432
+Blocked: True
