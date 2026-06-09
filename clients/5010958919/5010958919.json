@@ -637,5 +637,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)\n    - Platform: Linux x86_64\n    - Language: en-US\n    - Screen: 400x400\n    - Color Depth: 24\n    - Pixel Ratio: 1\n    - Timezone: America/Los_Angeles\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 10\n    - Memory: 32 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 400x400\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Google)\n    - GPU Renderer: ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)\n    - Network Type: 4g\n    - Network Downlink: 9 Mbps\n    - Network RTT: N/A ms\n    - IP Address: 149.154.161.231\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-08 17:12:10"
+  },
+  {
+    "id": "cc8efab506084d569df31917507af8a8",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.184.162`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
+    ],
+    "timestamp": "2026-06-09 01:53:07"
   }
 ]
