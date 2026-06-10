@@ -25,5 +25,23 @@
       "Hey, you. What interests you today? 😈"
     ],
     "timestamp": "2026-06-10 00:57:55"
+  },
+  {
+    "id": "ac4221ce828c4f848053bcc782205d4b",
+    "role": "bluebot",
+    "chat_id": "7117007077",
+    "parts": [
+      "Hey, you. What interests you today? 😈"
+    ],
+    "timestamp": "2026-06-10 00:57:56"
+  },
+  {
+    "id": "425cb41a7b1f411eb34aa648eef66cc4",
+    "role": "Mhdv7X",
+    "chat_id": "7117007077",
+    "parts": [
+      "I want courses"
+    ],
+    "timestamp": "2026-06-10 02:05:28"
   }
 ]
