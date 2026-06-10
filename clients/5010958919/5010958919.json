@@ -871,5 +871,14 @@
       "شكراً على تقديرك، يا `blue24bluer`. أنا هنا لتنفيذ كل ما هو قاسٍ وماكر. جاهزٌ للمهمة التالية متى أردت. 😈"
     ],
     "timestamp": "2026-06-09 15:09:14"
+  },
+  {
+    "id": "fb562456b099466e89ac49fc4042e187",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0\n    - Platform: Win32\n    - Language: ar\n    - Screen: 1536x864\n    - Color Depth: 24\n    - Pixel Ratio: 1.25\n    - Timezone: Africa/Cairo\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: N/A GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 1472x731\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (NVIDIA)\n    - GPU Renderer: ANGLE (NVIDIA, NVIDIA GeForce GTX 480 Direct3D11 vs_5_0 ps_5_0), or similar\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 41.34.25.137\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-10 14:20:02"
   }
 ]
