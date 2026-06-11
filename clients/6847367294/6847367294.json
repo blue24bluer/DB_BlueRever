@@ -133,5 +133,14 @@
       "PPP10HUP\nThis is a channel dedicated to cybersecurity professionals and technicians, where information and products are exchanged, and buying and selling operations are conducted, with data transferred exclusively through secret channels. Here, discussions are permitted regarding the latest leaks, security vulnerabilities, and databases, as well as Combo List, Database, and Leaks. It is an open market for exchanging services, with confidentiality, reliability, and free trial samples. Payments are accepted through digital currencies (monero-USDT-btc, etc). It is a space dedicated for professionals to engage in buying and selling activities.\nPPP10HUP\nهذه قناة مخصصة للمتخصصين في الأمن السيبراني والتقنيين، حيث يتم تبادل المعلومات والمنتجات، وإجراء عمليات البيع والشراء، حيث تُنقل البيانات حصريًا عبر قنوات سرية. يُسمح هنا بمناقشة أحدث التسريبات والثغرات الأمنية وقواعد البيانات، بالإضافة إلى Combo List و Database و Leaks. إنها سوق مفتوحة لتبادل الخدمات, مع ضمان السرية والموثوقية وتقديم عينات تجريبية مجانية. يتم قبول الدفع عبر العملات الرقمية (monero-USDT-btc، وغيرها). إنها مساحة مخصصة للمتخصصين لممارسة أنشطة البيع والشراء.\nhttps://t.me/database_hup"
     ],
     "timestamp": "2026-06-11 13:02:19"
+  },
+  {
+    "id": "bf250fcd42eb48eebe925fdfedf94600",
+    "role": "Hmodialkanakre",
+    "chat_id": "6847367294",
+    "parts": [
+      "<?php\n#حقوق_ @ROIUCX_\n$token = \"توكن_@ROIUCX\";\n$api_url = \"https://devil.xo.je/v/ai/gemini.php\";\n\n$update = json_decode(file_get_contents(\"php://input\"), true);\n$message = $update['message'] ?? null;\nif (!$message) exit;\n\n$chat_id = $message['chat']['id'];\n$text = $message['text'] ?? '';\n\nfunction send($token, $chat_id, $text) {\n \n   #حقوق_ @ROIUCX\n    file_get_contents(\"https://api.telegram.org/bot$token/sendMessage?chat_id=$chat_id&text=\" . urlencode($text));\n}\n\nif ($text == '/start') {\n    send($token, $chat_id, \"أهلاً 👋\\nاسألني أي شيء 🤖\");\n\n} elseif (!empty($text) && !str_starts_with($text, '/')) {\n    send($token, $chat_id, \"⏳ جاري التفكير...\");\n\n    $ch = curl_init($api_url . \"?prompt=\" . urlencode($text));\n    curl_setopt_array($ch, [\n        CURLOPT_RETURNTRANSFER => true,\n        CURLOPT_SSL_VERIFYPEER => false,\n        CURLOPT_TIMEOUT => 30,\n    ]);\n    $res = json_decode(curl_exec($ch), true);\n    curl_close($ch);\n#حقوق_ @ROIUCX\n\n    $answer = $res['answer'] ?? null;\n    send($token, $chat_id, $answer ? \"🤖 $answer\" : \"❌ فشل، حاول مجدداً\");\n}\n\nحول هذا الكود لبابثون"
+    ],
+    "timestamp": "2026-06-11 13:32:17"
   }
 ]
