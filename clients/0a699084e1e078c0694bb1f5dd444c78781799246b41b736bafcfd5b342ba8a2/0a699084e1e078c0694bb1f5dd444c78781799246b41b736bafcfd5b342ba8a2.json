@@ -25,5 +25,14 @@
       "قم بتحليل هذه الصورة واستخراج ما بها من نصوص وشرح محتواها."
     ],
     "timestamp": "2026-06-11 14:48:33"
+  },
+  {
+    "id": "995094d384904c998e5710ee2e20d1d6",
+    "role": "bluebot",
+    "chat_id": "0a699084e1e078c0694bb1f5dd444c78781799246b41b736bafcfd5b342ba8a2",
+    "parts": [
+      "**[تقرير تحليل الصورة المرفقة]**:\n👁️ **الوصف البصري:** A full-body, front-facing studio shot of a man wearing a white t-shirt with a diagonal yellow plaid pattern on the right side and yellow shorts. He is also wearing white sneakers. The background is plain white. To the right of the man, vertically oriented Arabic text is present. The top right corner features a yellow square with black Arabic text inside, and below it, a code '780022' is visible. The text appears to be product information, including pricing, ordering details, and a description of the outfit (Turkish cotton shorts set, size S to XXL).\n"
+    ],
+    "timestamp": "2026-06-11 14:48:34"
   }
 ]
