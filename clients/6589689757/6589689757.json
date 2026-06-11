@@ -124,5 +124,14 @@
       "🎨 جاري تحضير اللوحة الفنية..."
     ],
     "timestamp": "2026-06-11 14:44:21"
+  },
+  {
+    "id": "a0229963fe5c4d4cb72d74a7deff754a",
+    "role": "bluebot",
+    "chat_id": "6589689757",
+    "parts": [
+      "[SYSTEM: Generated Image] Visual Content: **[A detailed, descriptive subject or scene], [performing an action or situated in a specific context], [in a particular environment or setting]. [Specific artistic style or medium, e.g., 'photorealistic,' 'oil painting,' 'cyberpunk art']. [Desired mood or atmosphere, e.g., 'serene,' 'dramatic,' 'futuristic']. [Lighting conditions, e.g., 'golden hour,' 'neon glow,' 'soft studio light']. [Camera perspective, e.g., 'wide shot,' 'close-up,' 'dramatic low angle']. Highly detailed, ultra quality, 8k, professional photography.**"
+    ],
+    "timestamp": "2026-06-11 14:44:31"
   }
 ]
