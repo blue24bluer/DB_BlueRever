@@ -1051,5 +1051,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-AU\n    - Screen: 412x892\n    - Color Depth: 24\n    - Pixel Ratio: 2.625\n    - Timezone: Africa/Casablanca\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 436x809\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G72\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: N/A ms\n    - IP Address: 102.102.128.36\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-11 20:27:07"
+  },
+  {
+    "id": "840820a74c4543d3bba759cd2b91060b",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-AU\n    - Screen: 412x892\n    - Color Depth: 24\n    - Pixel Ratio: 2.625\n    - Timezone: Africa/Casablanca\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 436x758\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G72\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: N/A ms\n    - IP Address: 102.102.128.36\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-11 20:27:28"
   }
 ]
