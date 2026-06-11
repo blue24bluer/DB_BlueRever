@@ -259,5 +259,14 @@
       "اي معلومات"
     ],
     "timestamp": "2026-06-11 14:57:28"
+  },
+  {
+    "id": "49b855784d024474a5513a95b1ad0f7f",
+    "role": "bluebot",
+    "chat_id": "6589689757",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-11 14:57:58"
   }
 ]
