@@ -151,5 +151,14 @@
       "<?php\n#حقوق_ @ROIUCX_\n$token = \"توكن_@ROIUCX\";\n$api_url = \"https://devil.xo.je/v/ai/gemini.php\";\n\n$update = json_decode(file_get_contents(\"php://input\"), true);\n$message = $update['message'] ?? null;\nif (!$message) exit;\n\n$chat_id = $message['chat']['id'];\n$text = $message['text'] ?? '';\n\nfunction send($token, $chat_id, $text) {\n \n   #حقوق_ @ROIUCX\n    file_get_contents(\"https://api.telegram.org/bot$token/sendMessage?chat_id=$chat_id&text=\" . urlencode($text));\n}\n\nif ($text == '/start') {\n    send($token, $chat_id, \"أهلاً 👋\\nاسألني أي شيء 🤖\");\n\n} elseif (!empty($text) && !str_starts_with($text, '/')) {\n    send($token, $chat_id, \"⏳ جاري التفكير...\");\n\n    $ch = curl_init($api_url . \"?prompt=\" . urlencode($text));\n    curl_setopt_array($ch, [\n        CURLOPT_RETURNTRANSFER => true,\n        CURLOPT_SSL_VERIFYPEER => false,\n        CURLOPT_TIMEOUT => 30,\n    ]);\n    $res = json_decode(curl_exec($ch), true);\n    curl_close($ch);\n#حقوق_ @ROIUCX\n\n    $answer = $res['answer'] ?? null;\n    send($token, $chat_id, $answer ? \"🤖 $answer\" : \"❌ فشل، حاول مجدداً\");\n}\n\nحول هذا الكود لبابثون"
     ],
     "timestamp": "2026-06-11 13:32:21"
+  },
+  {
+    "id": "c36d64241ab84d6198ab8f30424e1ec2",
+    "role": "bluebot",
+    "chat_id": "6847367294",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\neyJzdWNjZXNzIjpmYWxzZSwiZXJyb3IiOiLYo9ix2LPZhCDYp9mE2LPYpNin2YQg2YHZiiDYrdmC2YQgcHJvbXB0In0="
+    ],
+    "timestamp": "2026-06-11 13:32:32"
   }
 ]
