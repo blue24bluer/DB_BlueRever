@@ -88,5 +88,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"action\": {\\n    \"send_file\": \"server_status_report.zip\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-12 07:44:06"
+  },
+  {
+    "id": "6b758bc1d3014b97985b7c15adf1e979",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "[FILE_WEB_v2]:/web_public/res_1781250247_server_status_report.zip:server_status_report.zip"
+    ],
+    "timestamp": "2026-06-12 07:44:07"
   }
 ]
