@@ -7,5 +7,14 @@
       "/clear history 8007731055"
     ],
     "timestamp": "2026-06-12 21:53:45"
+  },
+  {
+    "id": "51e29882b0834b299763c114011a45e3",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `8007731055` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-06-12 21:53:46"
   }
 ]
