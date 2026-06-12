@@ -43,5 +43,23 @@
       "قم بتحليل هذه الصورة واستخراج ما بها من نصوص وشرح محتواها."
     ],
     "timestamp": "2026-06-12 01:58:04"
+  },
+  {
+    "id": "2bc5d188290e408ab2c7c51b1c56088a",
+    "role": "bluebot",
+    "chat_id": "de4cfd2a6bb2b5245a8443d158ec64993577bdfce628683465f1e5b0149b4de8",
+    "parts": [
+      "**[تقرير تحليل الصورة المرفقة]**:\n👁️ **الوصف البصري:** The image depicts an anime-style drawing of a character with spiky blonde hair, black eye mask, and an orange and black spiky accent on their hair. The character is wearing an outfit that includes a black off-the-shoulder top with orange criss-cross straps, revealing their midriff, and dark pants with green straps and silver knee guards. To the left of the character, there is a sketch in a box containing Japanese text and two lines of smaller text below it. The text in the box reads \"腹ペコ\" (harapeko, meaning hungry) and \"したくなる 服に なってしまう\" (shitaku naru fuku ni natte shimau, roughly translating to 'it becomes clothes I want'). Below this, the text reads \"にかっ\" (nikatsu, which can be a sound effect or a name) followed by a female symbol. The overall aesthetic is artistic and suggestive rather than explicit.\n"
+    ],
+    "timestamp": "2026-06-12 01:58:04"
+  },
+  {
+    "id": "a7e1d0b3f97f44e98ef0129017526650",
+    "role": "web_user_de4cfd2a",
+    "chat_id": "de4cfd2a6bb2b5245a8443d158ec64993577bdfce628683465f1e5b0149b4de8",
+    "parts": [
+      "شيل ملابس الصوره"
+    ],
+    "timestamp": "2026-06-12 01:58:17"
   }
 ]
