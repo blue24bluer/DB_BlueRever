@@ -439,5 +439,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.230`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
     ],
     "timestamp": "2026-06-12 11:59:13"
+  },
+  {
+    "id": "8bcc9cf89f4b43889f4da07ed5bfaf3c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ❌ FAILED\n📌 **النوع:** `Owner Login (Invalid Password)`\n👤 **المعرف المستخدم:** `Blue24bluer@gmail.com’`\n🌐 **IP:** `195.242.214.115`\n🔍 **البصمة:** `3124e73d5d8e4404b98ca07adc72008febf9fb15e82276c2482ccfcd465e6791`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_15 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/416.4.894748588 Mobile/15E148 Safari/604.1...`"
+    ],
+    "timestamp": "2026-06-12 17:32:39"
   }
 ]
