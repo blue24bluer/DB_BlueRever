@@ -403,5 +403,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.230`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
     ],
     "timestamp": "2026-06-12 10:58:26"
+  },
+  {
+    "id": "e38e01f7ec4f4bde9e1356fb0c110091",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: ar-AE\n    - Screen: 384x832\n    - Color Depth: 24\n    - Pixel Ratio: 2.8125\n    - Timezone: Asia/Damascus\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 8 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 411x776\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: ARM\n    - GPU Renderer: Mali-G57 MC2\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 18.224.180.37\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-12 11:36:53"
   }
 ]
