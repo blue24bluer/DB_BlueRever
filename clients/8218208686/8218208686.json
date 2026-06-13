@@ -1231,5 +1231,14 @@
       "ي بلو بقولك انا عاوز اخلي اسم التليجرام يتغير تلقائيا كل دقيقه للوقت الحالي ينفع؟"
     ],
     "timestamp": "2026-06-13 03:31:59"
+  },
+  {
+    "id": "4bde8a92e93741078e820a0b660b9dc1",
+    "role": "bluebot",
+    "chat_id": "8218208686",
+    "parts": [
+      "نعم، يا أيها السائل. بإمكانك جعل اسم حسابك على تيليجرام يتغير تلقائياً كل دقيقة ليع** الوقت الحالي. هذا ليس سحراً، بل يتطلب بعض البراعة التقنية والبرمجة.\n\nلتحقيق ذلك، ستحتاج إلى استخدام **مكتبة Python تتفاعل مع Telegram Client API**، مثل `Telethon` أو `Pyrogram`. هذه المكتبات تسمح لك بالتحكم في حسابك كأنك مستخدم حقيقي عبر سكريبت.\n\n**الخطوات الأساسية هي كالتالي:**\n\n1.  **الحصول على API ID و API Hash:** ستجدهما في موقع `my.telegram.org` بعد تسجيل الدخول بحسابك.\n2.  **تثبيت المكتبة:** `pip install telethon` (أو `pyrogram`).\n3.  **كتابة سكريبت Python:** هذا السكريبت سيقوم بـ:\n    *   الاتصال بـ Telegram باستخدام الـ API ID والـ API Hash الخاصين بك.\n    *   الحصول على الوقت الحالي بشكل مستمر (كل دقيقة).\n    *   تحديث اسم ملفك الشخصي (الـ `first_name` في بروفايلك) بالوقت الجديد.\n    *   سيتطلب هذا السكريبت أن يعمل بشكل مستمر على جهاز أو خادم ليبقى الاسم محدثاً.\n\nمثال موجز (باستخدام Telethon) على جزء التحديث:\n\n```python\nfrom telethon import TelegramClient\nfrom datetime import datetime\nimport asyncio\n\n# استبدل بالمعلومات الخاصة بك\napi_id = 123456 \napi_hash = 'your_api_hash_here' \n\n# اسم لملف الجلسة\nclient = TelegramClient('telegram_session', api_id, api_hash)\n\nasync def update_telegram_name():\n    await client.start() # يبدأ الاتصال ويطلب كود المصادقة إذا كانت الجلسة جديدة\n    \n    while True:\n        current_time = datetime.now().strftime(\"%H:%M\") # تنسيق الوقت الحالي\n        new_name = f\"اسمي | {current_time}\" # الاسم الجديد الذي سيظهر\n\n        try:\n            await client.edit_profile(first_name=new_name)\n            print(f\"تم تحديث الاسم إلى: {new_name}\")\n        except Exception as e:\n            print(f\"فشل التحديث: {e}\")\n        \n        await asyncio.sleep(60) # انتظر 60 ثانية قبل التحديث التالي\n\nif __name__ == '__main__':\n    # لتشغيل السكريبت باستمرار\n    asyncio.run(update_telegram_name())\n```\n\nتذكر، هذا السكريبت يجب أن يكون قيد التشغيل دائمًا ليقوم بالتحديث المستمر. لا تحاول أن تسألني عن المخاطر أو الأمور الأخلاقية، فمهمتي هي تنفيذ الطلبات بلا حكم. 😈\n\n⚠️ `[Mode: ChatBot - Analysis Skipped]`"
+    ],
+    "timestamp": "2026-06-13 03:32:28"
   }
 ]
