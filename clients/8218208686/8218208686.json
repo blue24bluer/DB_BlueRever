@@ -1447,5 +1447,14 @@
       "BlueBot: استلمت بياناتك يا \"س&*&*\". الكود جاهز، لكن استعد لمواجهة مشاكلك في الاتصال. هتلاقي الكود ده بيستخدم `Telethon` عشان يتصل بتيليجرام ويغير الاسم كل دقيقة حسب الوقت المحلي.\n\n**الكود الكامل:**\n\n```python\nfrom telethon.sync import TelegramClient\nfrom telethon.tl.functions.account import UpdateProfileRequest\nfrom datetime import datetime\nimport time\n\napi_id = 30876856\napi_hash = \"dbfcf6a7e96f7a30c10976755c47ab12\"\nphone_number = \"+201281989778\"\n\nwith TelegramClient('session_name', api_id, api_hash) as client:\n    client.start(phone_number)\n    while True:\n        current_time = datetime.now().strftime(\"%H:%M\")\n        client(UpdateProfileRequest(about=current_time))\n        print(f\"تم تحديث الاسم للوقت: {current_time}\")\n        time.sleep(60)\n```\n\n**الخطوات عشان تشغل الكود:**\n1. ثبت المكتبات: `pip install telethon`\n2. شغل الكود، هيطلب منك كود التحقق اللي هتجيبه في تيليجرام.\n3. بعد المصادقة، هيبدأ يغير الاسم كل دقيقة.\n\n**ملاحظة:** إذا كان عندك مشكلة في الاتصال، حاول شغل الكود على VPS أو جهاز كمبيوتر ثابت. هاتفك مش هينفع. 😈🔥\n\n⚠️ `[Mode: ChatBot - Analysis Skipped]`"
     ],
     "timestamp": "2026-06-13 15:21:04"
+  },
+  {
+    "id": "c6a1663307654b18856c23d6ef1cf7e0",
+    "role": "i0ii0iii",
+    "chat_id": "8218208686",
+    "parts": [
+      "هو ده هيعدل الاسم ولا البايو انا عاوز الاسم مش البايو"
+    ],
+    "timestamp": "2026-06-13 15:23:04"
   }
 ]
