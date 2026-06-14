@@ -34,5 +34,14 @@
       "Что на хуй"
     ],
     "timestamp": "2026-06-14 05:18:29"
+  },
+  {
+    "id": "d5347b99a4814f21bffdf9a1eaf82693",
+    "role": "bluebot",
+    "chat_id": "8012111312",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-14 05:18:32"
   }
 ]
