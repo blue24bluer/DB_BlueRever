@@ -169,5 +169,14 @@
       "https://files.catbox.moe/39jwgp.mp4"
     ],
     "timestamp": "2026-06-14 16:35:20"
+  },
+  {
+    "id": "14cb2af129534235b7af0d2ae252a809",
+    "role": "bluebot",
+    "chat_id": "5145668342",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-06-14 16:35:28"
   }
 ]
