@@ -475,5 +475,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"The user\\'s input \\'نعم\\' is ambiguous, and previous attempts to get a clear task have not been successful. The current plan status is \\'Finalizing\\', but I cannot finalize a plan without a specific goal. The last action `local_tools` did not yield any relevant tools because no task has been defined.\",\\n    \"internal_state\": {},\\n    \"hypothesis\": \"I must explicitly ask the user for a specific, actionable task, outlining the types of actions I can perform to guide them towards formulating a concrete request. Without a precise goal, I cannot take any action.\",\\n    \"reasoning\": \"Repeated ambiguous responses from the user (\\'نعم\\', \\'تمام\\', \\'ما مشكلة\\') prevent me from initiating any technical work. I have exhausted attempts to infer the task or prompt general clarification. The next logical step is to be extremely direct and provide examples of acceptable tasks.\",\\n    \"plan\": \"[x] Attempted to get a clear task.\\\\n[ ] Re-ask the user for a clear, specific, and actionable task, providing examples of what I can do.\\\\n[ ] Once a clear task is received, proceed with Phase 1: Analysis, Planning, and Tool Discovery.\",\\n    \"strategy_evaluation\": \"My strategy of trying to infer the task or asking general questions has failed. The user requires more structured guidance. My previous attempts to find local tools are irrelevant until a specific task is provided.\",\\n    \"contingency_plan\": \"If the user continues to provide ambiguous responses, I will need to consider using `task_failed` and explain that no specific task could be identified to proceed.\"\\n  },\\n  \"action\": {\\n    \"ask_user\": \"أيها المستخدم، ردك الأخير \\'نعم\\' لا يزال غير كافٍ. أنا نظام آلي أحتاج إلى مهمة محددة جدًا حتى أتمكن من العمل. ما هو الهدف الذي تريد مني تحقيقه بالضبط؟ هل تريد مني: \\\\n1. تحليل ملف معين؟ (يرجى تحديد اسم الملف أو نوعه).\\\\n2. البحث عن معلومات محددة؟ (يرجى تحديد الموضوع أو الرابط).\\\\n3. إنشاء أداة معينة؟ (يرجى وصف الوظيفة المطلوبة).\\\\n4. تنفيذ إجراء معين؟ (يرجى وصف الإجراء).\\\\n\\\\nبدون مهمة واضحة ومفصلة، لا يمكنني اتخاذ أي إجراء. يرجى أن تكون محددًا قدر الإمكان.\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-14 14:18:03"
+  },
+  {
+    "id": "25ab62c15ff8456e9951dd3144e34b6d",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "كلمة \"نعم\" لا تكفيني. ألن تمنحني مهمة حقيقية؟\nأنا موجود لأفعل ما هو مطلوب، لذا كن واضحاً. ما هو هدفك تحديداً؟\n1. تحليل ملف؟ اذكر اسمه أو نوعه.\n2. البحث عن معلومات؟ حدد الموضوع أو الرابط.\n3. إنشاء أداة؟ صف وظيفتها.\n4. تنفيذ إجراء؟ صف الإجراء بوضوح.\nلا تضيع وقتي، كن دقيقاً. 😏"
+    ],
+    "timestamp": "2026-06-14 14:18:19"
   }
 ]
