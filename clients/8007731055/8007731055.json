@@ -295,5 +295,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"The `web_search` for \\'Telegram account recovery without email or phone third party tools OR services OR unofficial methods OR vulnerability exploit channel ownership transfer\\' returned an empty result, indicating no useful information was found. The user\\'s input \\'نعم\\' is a repetition of previous ambiguous responses and does not provide a concrete goal.\",\\n    \"internal_state\": {},\\n    \"hypothesis\": \"I cannot proceed without a clear, actionable task from the user. My previous attempts to clarify were met with ambiguous responses. I need to be extremely direct and explicit, stating that I require a specific goal, such as analyzing a file, finding specific information, or creating a tool.\",\\n    \"reasoning\": \"The web search was unproductive, and the user\\'s response is still non-specific. My core directive is to achieve the user\\'s goals, but I cannot do so if the goal is not defined. Repeating research without a clear direction is inefficient. Therefore, the only logical next step is to forcefully request a clear task from the user.\",\\n    \"plan\": \"[x] Attempt to infer user\\'s goal (failed)\\\\n[x] Perform web search based on inferred goal (failed)\\\\n[ ] Explicitly ask the user for a clear, actionable task with examples.\\\\n[ ] Once a clear task is provided, proceed with the appropriate action (e.g., local_tools, delegate_coding_task, etc.).\",\\n    \"strategy_evaluation\": \"The current strategy of inferring the user\\'s goal and performing searches based on it has failed due to ambiguous user input and empty search results. A new strategy is required: direct communication to obtain a clearly defined task.\",\\n    \"contingency_plan\": \"If the user continues to provide ambiguous input, I will reiterate the need for a specific task and offer to list my capabilities to help them formulate one, if `ask_user` allows for such an extended dialogue.\"\\n  },\\n  \"action\": {\\n    \"ask_user\": \"أيها المستخدم، ردك الأخير \\'نعم\\' لا يزال غير كافٍ. لقد حاولت البحث بناءً على استنتاجاتي السابقة ولكن بدون مهمة محددة، لا يمكنني التقدم. أنا بحاجة إلى مهمة واضحة ومحددة للغاية. هل تريد مني تحليل ملف معين؟ البحث عن معلومات محددة (مثل اسم شخص، رقم هاتف، رابط مشبوه)؟ إنشاء أداة معينة؟ يرجى تحديد هدفك بوضوح وتفصيل حتى أتمكن من مساعدتك بفعالية. بدون مهمة واضحة، سأظل عالقًا.\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-14 13:29:44"
+  },
+  {
+    "id": "e8660c65417743b79697f7887c5a2472",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "Your response of 'yes' is not enough. I need a clear and specific task. Do you want to analyze a file? Searching for specific information (name, phone number, suspicious link)? Or build a specific tool? Define your goal clearly and in detail to avoid further delay. 😈"
+    ],
+    "timestamp": "2026-06-14 13:29:59"
   }
 ]
