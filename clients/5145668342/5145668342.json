@@ -61,5 +61,14 @@
       "https://files.catbox.moe/zmhv5k.mp4"
     ],
     "timestamp": "2026-06-14 16:34:31"
+  },
+  {
+    "id": "197467cde5614159a24a580778daeccc",
+    "role": "bluebot",
+    "chat_id": "5145668342",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-06-14 16:34:41"
   }
 ]
