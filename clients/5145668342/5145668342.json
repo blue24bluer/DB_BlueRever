@@ -34,5 +34,14 @@
       "https://files.catbox.moe/snlqc3.mp4"
     ],
     "timestamp": "2026-06-14 16:34:13"
+  },
+  {
+    "id": "4ee0d5c89ceb4c57bb3ce77a6c0593c0",
+    "role": "bluebot",
+    "chat_id": "5145668342",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-06-14 16:34:24"
   }
 ]
