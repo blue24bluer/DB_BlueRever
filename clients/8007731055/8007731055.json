@@ -241,5 +241,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"The previous `web_search` action\\'s output was empty, meaning I still lack concrete information regarding Telegram account recovery policies. More critically, the user\\'s input of \\'نعم\\' (yes) followed by \\'تمام\\' (okay) does not provide a clear, actionable goal. My primary directive is to achieve the user\\'s goals, but I cannot do so without a defined task. I have attempted to clarify the task multiple times. I must be direct and explicit in asking the user to provide a specific goal.\",\\n    \"internal_state\": {},\\n    \"hypothesis\": \"I need to ask the user for a clear, specific, and actionable task, as I cannot proceed with ambiguous input. I will emphasize the need for a precise goal, file, link, or objective.\",\\n    \"reasoning\": \"The conversation history shows repeated attempts to get a clear task. The last actions were research into a potential issue (Telegram recovery), but without a confirmed task from the user, this research is premature and potentially irrelevant. I must return to the initial phase of understanding the user\\'s explicit request. The empty output from `web_search` reinforces the need to clarify the fundamental goal before attempting further actions.\",\\n    \"plan\": \"[x] Discover tools via `local_tools` (implicitly done by the system at start)\\\\n[ ] Define a clear user task (current focus)\\\\n[ ] Proceed with task execution (once defined)\\\\n[ ] Report results\",\\n    \"strategy_evaluation\": \"My strategy to research Telegram recovery was based on an assumption from fragmented user input. This was an error in not re-confirming the primary goal. I need to revert to a \\'Discovery\\' phase for the user\\'s goal itself, by asking for explicit clarification, before any technical action can be justified.\",\\n    \"contingency_plan\": \"If the user provides another ambiguous answer, I will explicitly state that I am an execution agent and cannot infer tasks. I will then use `task_failed` if no clear objective is provided after two more attempts.\"\\n  },\\n  \"action\": {\\n    \"ask_user\": \"أيها المستخدم، ردك \\'نعم\\' ثم \\'تمام\\' لا يزال غير كافٍ. ما هي المهمة المحددة التي تريد مني إنجازها الآن؟ هل هو تحليل ملف معين؟ البحث عن معلومات محددة؟ إنشاء أداة معينة؟ أرجو منك أن تكون واضحاً ومفصلاً قدر الإمكان حتى أتمكن من مساعدتك بفعالية.\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-14 12:07:06"
+  },
+  {
+    "id": "9ccedd86202745f889bbdb75cbd5ab29",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "ما هي مهمتك بالتحديد؟ هل تريد تحليل ملف، البحث عن معلومات، أم بناء أداة؟ اذكر التفاصيل بوضوح تام الآن. 😏"
+    ],
+    "timestamp": "2026-06-14 12:07:21"
   }
 ]
