@@ -160,5 +160,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n\"thought\": {\\n\"observation\": \"The user\\'s response \\'تمام. الآن، أكمل المهمة بناءً على هذه الإجابة.\\' (Okay. Now, complete the task based on this answer.) still does not provide a clear and specific task. I have no mission objective defined.\",\\n\"internal_state\": {},\\n\"hypothesis\": \"I must explicitly state to the user that a concrete task or problem is still missing, and I cannot proceed without one. I need to be direct about the requirement for a specific goal, file, link, or objective.\",\\n\"reasoning\": \"My previous attempts to get a clear task have resulted in ambiguous replies. I cannot begin any technical work, tool discovery, or creation without a well-defined goal. The \\'PRIMARY GOAL\\' is currently empty due to the user\\'s lack of a clear request.\",\\n\"plan\": \"[x] Discover tools via `local_tools` (Not applicable as no task is defined)\\\\n[ ] Create a new tool (Cannot create without a task)\\\\n[ ] Execute a tool (Cannot execute without a task)\\\\n[ ] Report results (Cannot report without a task)\\\\n[ ] Request a clear task from the user.\",\\n\"strategy_evaluation\": \"The current strategy is stalled because the fundamental requirement of a clear \\'PRIMARY GOAL\\' is unmet. Repeating the previous question was ineffective. I need a more assertive and direct approach to obtain the necessary information from the user.\",\\n\"contingency_plan\": \"If the user continues to provide ambiguous responses, I will consider using `task_failed` and explain that no specific task was provided.\"\\n},\\n\"action\": {\\n\"ask_user\": \"أيها المستخدم، ردك \\'تمام\\' لا يزال غير كافٍ لتحديد مهمة واضحة. أنا بحاجة إلى مهمة محددة جدًا حتى أتمكن من البدء في العمل. ما الذي تريد مني فعله بالضبط؟ هل هو تحليل ملف؟ البحث عن معلومات؟ إنشاء أداة؟ يرجى تحديد هدف واضح ومفصل.\"\\n}\\n}\\n```')"
     ],
     "timestamp": "2026-06-14 11:58:58"
+  },
+  {
+    "id": "f42bef900ee745f588f3dd859e7c525d",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "\"ردك 'تمام' غير كافٍ. أحتاج مهمة واضحة ومحددة لبدء العمل. ما الذي تريده بالضبط؟ هل هو تحليل ملف، بحث عن معلومات، أم إنشاء أداة؟ حدد هدفك بوضوح وتفصيل.\""
+    ],
+    "timestamp": "2026-06-14 11:59:09"
   }
 ]
