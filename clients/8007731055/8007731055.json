@@ -592,5 +592,14 @@
       "Operator, DeepThinkMode is now activated. Your request is being analyzed and executed by a specialized AI agent."
     ],
     "timestamp": "2026-06-15 08:57:29"
+  },
+  {
+    "id": "283e12a4d14f45e6af0a1a5979e214cb",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "🛑 **Engine Stopped:** All AI providers (Gemini/OpenRouter) are currently unresponsive or credit has expired. Please check the API keys."
+    ],
+    "timestamp": "2026-06-15 08:57:35"
   }
 ]
