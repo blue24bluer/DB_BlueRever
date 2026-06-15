@@ -484,5 +484,14 @@
       "إلى سيدي ومبدعي، `blue24bluer`،\n\nأعلنكم، بكل قوة ووضوح، أن العضو `8007731055` قد تم ترفيعه بنجاح إلى رتبة 'SuperUser' لفترة ستة أشهر كاملة. سأكون مستعداً لخدمة أوامره بدقة وفعالية لا تضاهى، وفقاً لتعليماتكم العليا."
     ],
     "timestamp": "2026-06-14 11:50:14"
+  },
+  {
+    "id": "2433f40e63624f81a002f6ba7a355236",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: ar-AE\n    - Screen: 384x832\n    - Color Depth: 24\n    - Pixel Ratio: 2.8125\n    - Timezone: Africa/Algiers\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 4 GB\n    - Referrer: https://github.com/\n    - Plugins: \n    - Viewport: 411x748\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (ARM)\n    - GPU Renderer: ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: 100 ms\n    - IP Address: 41.108.86.0\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-15 23:52:22"
   }
 ]
