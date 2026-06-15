@@ -709,5 +709,14 @@
       "Deep thinking mode activated. A specialized client will be assigned to your task. 😈"
     ],
     "timestamp": "2026-06-15 10:30:32"
+  },
+  {
+    "id": "a2860917f8ce453cba98adbd57a774db",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "🛑 **Engine Stopped:** All AI providers (Gemini/OpenRouter) are currently unresponsive or credit has expired. Please check the API keys."
+    ],
+    "timestamp": "2026-06-15 10:30:37"
   }
 ]
