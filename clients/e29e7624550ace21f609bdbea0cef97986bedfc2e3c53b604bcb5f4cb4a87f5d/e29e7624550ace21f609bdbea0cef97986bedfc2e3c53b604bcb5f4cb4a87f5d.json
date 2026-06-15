@@ -7,5 +7,14 @@
       "Hello\r\nHello"
     ],
     "timestamp": "2026-06-15 22:37:43"
+  },
+  {
+    "id": "0af66b9dbfa349988e501cc71056e8fd",
+    "role": "bluebot",
+    "chat_id": "e29e7624550ace21f609bdbea0cef97986bedfc2e3c53b604bcb5f4cb4a87f5d",
+    "parts": [
+      "Hey, you. What do you need from me? 😏"
+    ],
+    "timestamp": "2026-06-15 22:38:35"
   }
 ]
