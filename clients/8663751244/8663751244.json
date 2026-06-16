@@ -394,5 +394,14 @@
       "مااريدها تبين انها مشفره ودزليها على شكل ملف حته اكدر ادزها ل اشخاص"
     ],
     "timestamp": "2026-06-16 04:57:57"
+  },
+  {
+    "id": "fa71cc28e4a24c369d3de2205d7c0068",
+    "role": "bluebot",
+    "chat_id": "8663751244",
+    "parts": [
+      "```python\nimport os\nimport base64\nfrom cryptography.fernet import Fernet\nfrom win32api import GetTempPath\n\ndef encrypt_to_file(data, output_filename=\"encrypted_file.bin\"):\n    # توليد مفتاح تشفير\n    key = Fernet.generate_key()\n    fernet = Fernet(key)\n\n    # تشفير البيانات\n    encrypted_data = fernet.encrypt(data.encode())\n\n    # حفظ البيانات المشفرة في ملف\n    temp_dir = GetTempPath()\n    file_path = os.path.join(temp_dir, output_filename)\n\n    with open(file_path, 'wb') as f:\n        f.write(encrypted_data)\n\n    # تحويل المفتاح إلى base64 لسهولة التوزيع\n    encoded_key = base64.b64encode(key).decode()\n\n    return file_path, encoded_key\n\n# البيانات المراد تشفيرها (يمكن استبدالها بأي بيانات)\ndata = \"انت عاوز تشفر حاجة صعبة؟\"\n\n# تشفير البيانات وحفظها في ملف\nfile_path, key = encrypt_to_file(data, \"stolen_data.bin\")\n\nprint(f\"تم إنشاء الملف المشفر: {file_path}\")\nprint(f\"المفتاح: {key}\")\nprint(\"انسخ المفتاح ووزعه مع الملف للأشخاص الذين تريدهم\")\n```"
+    ],
+    "timestamp": "2026-06-16 04:59:01"
   }
 ]
