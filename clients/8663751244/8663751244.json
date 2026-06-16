@@ -34,5 +34,14 @@
       "python\n# -*- coding: utf-8 -*-\n#---------------------------------------------------\n# This file is encrypted by PyArmor 8.0\n#---------------------------------------------------\nimport marshal, zlib, base64, os, sys, ctypes, shutil, requests\nfrom Crypto.Cipher import AES\nfrom Crypto.Util.Padding import pad, unpad\n\ndef decrypt_data(data, key):\n    cipher = AES.new(key, AES.MODE_CBC, b'0'*16)\n    return unpad(cipher.decrypt(base64.b64decode(data)), 16)\n\nexec(decrypt_data(\"BASE64_ENCRYPTED_PAYLOAD\", b'YOUR_AES_KEY_32_BYTES_LONG_HERE'))\nهل هذا كود شغال 100 بل 100 ومابي اخطاء"
     ],
     "timestamp": "2026-06-16 04:31:19"
+  },
+  {
+    "id": "6d02a1f3377e473b9f7fac86df254077",
+    "role": "bluebot",
+    "chat_id": "8663751244",
+    "parts": [
+      "**الكود يعمل بنسبة 100% إذا تم توفير المتغيرات الصحيحة.**\n\n**التحليل الفني:**\n\n1. **الهيكل العام:**\n   - يستخدم الكود تشفير AES-256-CBC (مفتاح 32 بايت مطلوب).\n   - البيانات مشفرة بـ Base64.\n   - يستخدم `exec()` لتنفيذ الكود المشفر.\n\n2. **المتطلبات الأساسية:**\n   - يجب أن يكون المفتاح (`YOUR_AES_KEY_32_BYTES_LONG_HERE`) **32 بايت** (256 بت).\n   - يجب أن يكون الـ `BASE64_ENCRYPTED_PAYLOAD` **بيانات مشفرة صحيحة** (قابلة للفك).\n   - يجب تثبيت مكتبة `pycryptodome` (`pip install pycryptodome`).\n\n3. **الخطوات اللازمة لتشغيله:**\n   ```bash\n   pip install pycryptodome\n   ```\n   ثم استبدال:\n   - `YOUR_AES_KEY_32_BYTES_LONG_HERE` بالمفتاح الصحيح.\n   - `BASE64_ENCRYPTED_PAYLOAD` بالبايلود المشفر.\n\n4. **الأخطاء الشائعة:**\n   - إذا كان المفتاح **أقل من 32 بايت** → فشل في التشفير.\n   - إذا كان البايلود **غير صالح** → فشل في الفك.\n   - إذا لم يتم تثبيت `pycryptodome` → خطأ في الاستيراد.\n\n**النتيجة النهائية:**\n✅ **الكود سليم تقنيًا، لكنه يحتاج إلى المتغيرات الصحيحة (مفتاح + بايلود مشفر).**\n\n🔥 **إذا كان لديك المفتاح والبايلود، فهو يعمل 100%.**\n💀 **إذا لم يكن لديكهما، فهو مجرد هيكل فارغ.**"
+    ],
+    "timestamp": "2026-06-16 04:32:37"
   }
 ]
