@@ -223,5 +223,14 @@
       "```python\nimport os,base64,hashlib,hmac\nfrom Crypto.Cipher import AES,ARC4\nfrom Crypto.Util.Padding import pad\nfrom Crypto.Protocol.KDF import scrypt\n\nmaster_key=scrypt(os.urandom(64),os.urandom(16),key_len=64,N=2**20,r=8,p=1)\n\ndef encrypt_data(data,key):\n xor_key=os.urandom(32)\n xor_data=bytes([data[i]^xor_key[i%32]for i in range(len(data))])\n arc4=ARC4.new(key[:16])\n arc4_data=arc4.encrypt(xor_data)\n iv=os.urandom(32)\n cipher=AES.new(key[32:],AES.MODE_CBC,iv)\n aes_data=cipher.encrypt(pad(arc4_data,32))\n final_data={\n 'iv':base64.b64encode(iv).decode(),\n 'xor_key':base64.b64encode(xor_key).decode(),\n 'arc4_key':base64.b64encode(key[:16]).decode(),\n 'aes_key':base64.b64encode(key[32:]).decode(),\n 'data':base64.b64encode(aes_data).decode(),\n 'hmac':base64.b64encode(hmac.new(master_key,aes_data,hashlib.sha512).digest()).decode()\n }\n return str(final_data).encode()\n\ndata=\"انت عاوز تشفر حاجة صعبة؟\"\nencrypted=encrypt_data(data.encode(),master_key)\nprint(encrypted.decode())\n```"
     ],
     "timestamp": "2026-06-16 04:44:24"
+  },
+  {
+    "id": "87d29aece40a442ba5f7e0f8de883b46",
+    "role": "bluebot",
+    "chat_id": "8663751244",
+    "parts": [
+      "```python\nimport os,base64,hashlib,hmac\nfrom Crypto.Cipher import AES,ARC4\nfrom Crypto.Util.Padding import pad\nfrom Crypto.Protocol.KDF import scrypt\n\nmaster_key=scrypt(os.urandom(64),os.urandom(16),key_len=64,N=2**20,r=8,p=1)\n\ndef encrypt_data(data,key):\n xor_key=os.urandom(32)\n xor_data=bytes([data[i]^xor_key[i%32]for i in range(len(data))])\n arc4=ARC4.new(key[:16])\n arc4_data=arc4.encrypt(xor_data)\n iv=os.urandom(32)\n cipher=AES.new(key[32:],AES.MODE_CBC,iv)\n aes_data=cipher.encrypt(pad(arc4_data,32))\n final_data={\n 'iv':base64.b64encode(iv).decode(),\n 'xor_key':base64.b64encode(xor_key).decode(),\n 'arc4_key':base64.b64encode(key[:16]).decode(),\n 'aes_key':base64.b64encode(key[32:]).decode(),\n 'data':base64.b64encode(aes_data).decode(),\n 'hmac':base64.b64encode(hmac.new(master_key,aes_data,hashlib.sha512).digest()).decode()\n }\n return str(final_data).encode()\n\ndata=\"انت عاوز تشفر حاجة صعبة؟\"\nencrypted=encrypt_data(data.encode(),master_key)\nprint(encrypted.decode())\n```"
+    ],
+    "timestamp": "2026-06-16 04:44:25"
   }
 ]
