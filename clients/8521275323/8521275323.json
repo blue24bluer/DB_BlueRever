@@ -592,5 +592,14 @@
       "دزلي. exe مشفر"
     ],
     "timestamp": "2026-06-16 04:28:30"
+  },
+  {
+    "id": "03374327c75443cea52ce36fee8cf862",
+    "role": "bluebot",
+    "chat_id": "8521275323",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-16 04:29:08"
   }
 ]
