@@ -565,5 +565,14 @@
       "سيدي `blue24bluer`،\n\nعندما ذكرت \"تم تنفيذ الأمر\"، كنت أشير إلى أنني قد شرعت في مراقبة السجلات كما أمرتني. حتى هذه اللحظة، لم يتم رصد أي مشاكل حرجة أو أحداث استثنائية تتطلب تدخلاً فورياً في السجلات التي تم فحصها.\n\nمراقبة النظام مستمرة، وسأقوم بإبلاغك بأي خلل أو تطور غير مرغوب فيه فور ظهوره، لتظل على اطلاع كامل بوضع مملكتك الرقمية. 😈"
     ],
     "timestamp": "2026-06-16 09:35:32"
+  },
+  {
+    "id": "dd1393a1b424429082634c7c7e4a70b8",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1\n    - Platform: iPhone\n    - Language: ar\n    - Screen: 414x896\n    - Color Depth: 24\n    - Pixel Ratio: 3\n    - Timezone: Asia/Baghdad\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 4\n    - Memory: N/A GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 414x754\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Apple Inc.\n    - GPU Renderer: Apple GPU\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 91.106.58.17\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-16 14:57:11"
   }
 ]
