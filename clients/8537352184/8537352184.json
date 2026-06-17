@@ -448,5 +448,14 @@
       "🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
     ],
     "timestamp": "2026-06-16 14:55:58"
+  },
+  {
+    "id": "8f26952fe2c04fcc8b6584362739a336",
+    "role": "bluebot",
+    "chat_id": "8537352184",
+    "parts": [
+      "🚫 تم حظرك من استخدام هذا البوت.\nيرجى التواصل مع الدعم إذا كان هذا خطأ.\n@blue24bluer"
+    ],
+    "timestamp": "2026-06-17 21:56:56"
   }
 ]
