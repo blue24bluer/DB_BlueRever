@@ -376,5 +376,14 @@
       "سوال هل انتا افشل بوت فالعالم"
     ],
     "timestamp": "2026-06-17 05:31:49"
+  },
+  {
+    "id": "171577f3e9c5411389619cb94fdc43c4",
+    "role": "bluebot",
+    "chat_id": "7993275726",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-17 05:31:56"
   }
 ]
