@@ -232,5 +232,14 @@
       "تحب تسولف كثير انت ماتختصر!"
     ],
     "timestamp": "2026-06-17 16:59:55"
+  },
+  {
+    "id": "726148fec6364365b1b6fbbb66ebc634",
+    "role": "bluebot",
+    "chat_id": "5629980826",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-17 17:00:19"
   }
 ]
