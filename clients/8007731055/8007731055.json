@@ -961,5 +961,14 @@
       "✅ Your ban has been lifted by the administrator."
     ],
     "timestamp": "2026-06-18 14:17:00"
+  },
+  {
+    "id": "eb129a5da94d470a866b887ed4afb00f",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "Your account has been converted to a regular user."
+    ],
+    "timestamp": "2026-06-18 14:17:32"
   }
 ]
