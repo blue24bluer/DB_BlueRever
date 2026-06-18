@@ -673,5 +673,14 @@
       "/clear history 5629980826"
     ],
     "timestamp": "2026-06-18 12:10:03"
+  },
+  {
+    "id": "f8343b22a25248db918873d3aeccf22d",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `5629980826` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-06-18 12:10:04"
   }
 ]
