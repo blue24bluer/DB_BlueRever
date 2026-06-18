@@ -763,5 +763,23 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"No primary goal was provided in the user prompt. The system is initialized with BlueBot protocol but lacks a specific mission directive.\",\\n    \"internal_state\": {},\\n    \"hypothesis\": \"The mission state is undefined. A primary goal must be established before proceeding with any actions.\",\\n    \"reasoning\": \"Without a clear user request or primary goal, no strategic plan can be formulated. The system cannot execute any meaningful actions.\",\\n    \"plan\": \"[ ] Await user input for primary goal\\\\n[ ] Analyze user request for execution context\\\\n[ ] Formulate strategic plan based on goal\",\\n    \"strategy_evaluation\": \"No strategy can be evaluated without a defined objective.\",\\n    \"contingency_plan\": \"If no goal is provided within a reasonable timeframe, initiate `ask_user` to request clarification.\"\\n  },\\n  \"action\": {\\n    \"ask_user\": \"Please provide the PRIMARY GOAL for this mission. What specific objective should BlueBot execute?\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-18 14:09:27"
+  },
+  {
+    "id": "1ba6f5f7ecba4993ba969a7c02d90827",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "🔄 Starting a second simultaneous task..."
+    ],
+    "timestamp": "2026-06-18 14:09:27"
+  },
+  {
+    "id": "32f9d58de21941c49eeeea2c3f7d4b91",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "What is your primary goal in this process? What exactly do you want me to do?"
+    ],
+    "timestamp": "2026-06-18 14:09:37"
   }
 ]
