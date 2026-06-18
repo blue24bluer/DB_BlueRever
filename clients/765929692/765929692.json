@@ -313,5 +313,14 @@
       "انت قذر فعلا واقصد هوتسبوت المايكروتك"
     ],
     "timestamp": "2026-06-18 16:15:00"
+  },
+  {
+    "id": "803a295f9cad4ae19a11779878d58d56",
+    "role": "bluebot",
+    "chat_id": "765929692",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-18 16:15:22"
   }
 ]
