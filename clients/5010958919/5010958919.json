@@ -943,5 +943,14 @@
       "⚡ **نظام التنفيذ:** يتم الآن تنفيذ الأمر بشكل سطحي في الخلفية..."
     ],
     "timestamp": "2026-06-18 15:44:05"
+  },
+  {
+    "id": "f48453eb6baa45c391d420bf75e72107",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Android 10; Mobile; rv:151.0) Gecko/151.0 Firefox/151.0\n    - Platform: Linux armv81\n    - Language: ar-MA\n    - Screen: 378x777\n    - Color Depth: 24\n    - Pixel Ratio: 2.857142857142857\n    - Timezone: Asia/Aden\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: N/A GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 406x700\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Qualcomm\n    - GPU Renderer: Adreno (TM) 650, or similar\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 104.28.209.91\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-18 16:02:24"
   }
 ]
