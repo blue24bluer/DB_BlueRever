@@ -1033,5 +1033,14 @@
       "عير"
     ],
     "timestamp": "2026-06-18 21:43:26"
+  },
+  {
+    "id": "eab9487d2bf84c4d9c7ed248440181ce",
+    "role": "bluebot",
+    "chat_id": "7052326694",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-18 21:43:41"
   }
 ]
