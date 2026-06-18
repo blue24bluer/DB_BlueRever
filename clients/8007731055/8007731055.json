@@ -817,5 +817,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"thought\": {\\n    \"observation\": \"User provided Arabic text \\'قناة سرت 1 k\\' as the PRIMARY GOAL. No prior mission context or tools were established. The last action context was undefined, requiring a primary goal before proceeding.\",\\n    \"internal_state\": {\\n      \"mission_state\": \"UNDEFINED\",\\n      \"user_goal\": \"قناة سرت 1 k\",\\n      \"last_action\": \"ask_user (for PRIMARY GOAL)\",\\n      \"bot_status\": \"Online bots available: 094b1033b90da0864d82c63adba634e5e535051f6c038c66dccf18a941d6c2f3 (Windows 11)\"\\n    },\\n    \"hypothesis\": \"The user\\'s PRIMARY GOAL is to analyze or interact with \\'قناة سرت 1 k\\' (likely a Telegram channel or social media entity). Requires translation, context identification, and potential tool deployment.\",\\n    \"reasoning\": \"1) The Arabic text translates to \\'Channel Sirte 1 k\\' (likely a Telegram channel). 2) No prior tools or context exist for this request. 3) Must first translate and clarify the user\\'s intent before executing actions.\",\\n    \"plan\": \"[1] Translate \\'قناة سرت 1 k\\' to English\\\\n[2] Identify if this is a Telegram channel or other platform\\\\n[3] Determine required actions (scrape, monitor, or interact)\\\\n[4] Deploy appropriate tools (e.g., Telegram botnet, web scraping)\\\\n[5] Execute and report findings\",\\n    \"strategy_evaluation\": \"No prior state exists. Must establish mission context from scratch. Arabic text suggests non-English target requiring translation.\",\\n    \"contingency_plan\": \"If translation fails, use `ask_user` to clarify intent. If platform is not accessible, propose alternative reconnaissance methods.\"\\n  },\\n  \"action\": {\\n    \"web_search\": {\\n      \"query\": \"قناة سرت 1 k Telegram channel\"\\n    }\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-06-18 14:11:14"
+  },
+  {
+    "id": "a02e381287c24902943c0c7726432434",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "🛑 **Engine Stopped:** All AI providers (Gemini/OpenRouter) are currently unresponsive or credit has expired. Please check the API keys."
+    ],
+    "timestamp": "2026-06-18 14:11:22"
   }
 ]
