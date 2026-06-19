@@ -835,5 +835,14 @@
       "كمل أوريد خترق مواقع"
     ],
     "timestamp": "2026-06-19 23:28:41"
+  },
+  {
+    "id": "3b180ec82ed5481d985e666d515a887a",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-19 23:28:57"
   }
 ]
