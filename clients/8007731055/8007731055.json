@@ -790,5 +790,14 @@
       "┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ curl http://w.w.w.pc1.ma/_notes/lire.html.mno\n﻿<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<info>\n        <infoitem key=\"MMGuideColor\" value=\"#00FF00\" />\n        <infoitem key=\"MMGuideVisible\" value=\"true\" />\n        <infoitem key=\"MMGuideLocked\" value=\"false\" />\n        <infoitem key=\"MMSnapToGuide\" value=\"true\" />\n        <infoitem key=\"MMGuidesSnapToElements\" value=\"true\" />\n        <infoitem key=\"MMDistanceColor\" value=\"#0000FF\" />\n        <infoitem key=\"MMGuideCount\" value=\"1\" />\n        <infoitem key=\"MMGuide0\" value=\"horizontal: user 5 px\" />\n</info>\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ wget -qO- http://w.w.w.pc1.ma/_notes/lire.html.mno\n^C\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ dirb http://w.w.w.pc1.ma/ -D 2 -w /path/to/smaller/wordlist.txt                                                                                                                                           -----------------\nDIRB v2.22\nBy The Dark Raver\n-----------------\n\ndirb: invalid option -- D\n\n(!) FATAL: Incorrect parameter\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯\n\nشوف"
     ],
     "timestamp": "2026-06-19 23:25:47"
+  },
+  {
+    "id": "996b4ee5190d45c482e527b5fbd1aa39",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\nPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxpbmZvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZUNvbG9yIiB2YWx1ZT0iIzAwRkYwMCIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGVWaXNpYmxlIiB2YWx1ZT0idHJ1ZSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGVMb2NrZWQiIHZhbHVlPSJmYWxzZSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NU25hcFRvR3VpZGUiIHZhbHVlPSJ0cnVlIiAvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZXNTbmFwVG9FbGVtZW50cyIgdmFsdWU9InRydWUiIC8+Cgk8aW5mb2l0ZW0ga2V5PSJNTURpc3RhbmNlQ29sb3IiIHZhbHVlPSIjMDAwMEZGIiAvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZUNvdW50IiB2YWx1ZT0iMSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGUwIiB2YWx1ZT0iaG9yaXpvbnRhbDogdXNlciA1IHB4IiAvPgo8L2luZm8+Cg=="
+    ],
+    "timestamp": "2026-06-19 23:26:13"
   }
 ]
