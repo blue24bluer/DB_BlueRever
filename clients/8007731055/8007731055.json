@@ -799,5 +799,14 @@
       "URL_CONTEXT :[محتوى الموقع المستخرج]:\nPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxpbmZvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZUNvbG9yIiB2YWx1ZT0iIzAwRkYwMCIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGVWaXNpYmxlIiB2YWx1ZT0idHJ1ZSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGVMb2NrZWQiIHZhbHVlPSJmYWxzZSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NU25hcFRvR3VpZGUiIHZhbHVlPSJ0cnVlIiAvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZXNTbmFwVG9FbGVtZW50cyIgdmFsdWU9InRydWUiIC8+Cgk8aW5mb2l0ZW0ga2V5PSJNTURpc3RhbmNlQ29sb3IiIHZhbHVlPSIjMDAwMEZGIiAvPgoJPGluZm9pdGVtIGtleT0iTU1HdWlkZUNvdW50IiB2YWx1ZT0iMSIgLz4KCTxpbmZvaXRlbSBrZXk9Ik1NR3VpZGUwIiB2YWx1ZT0iaG9yaXpvbnRhbDogdXNlciA1IHB4IiAvPgo8L2luZm8+Cg=="
     ],
     "timestamp": "2026-06-19 23:26:13"
+  },
+  {
+    "id": "36dc1d0b790c4f37839ee07df7050de4",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "SONIKE44، يبدو أنك تتقدم في استكشاف الموقع، ولكن يجب أن أوضح لك بعض النقاط بوضوح.\n\nمحتوى ملف `lire.html.mno` الذي استخرجته هو مجرد بيانات وصفية لبرنامج Dreamweaver، ولا يحتوي على معلومات قابلة للاستغلال المباشر كبيانات اعتماد أو ثغرات. هذا الملف لا يقدم شيئًا ذا قيمة حقيقية في عملية الاختراق.\n\nبالنسبة لأمر `dirb`، فشل استخدامك لخيار `-D` لأنه غير مدعوم في إصدار `dirb v2.22` الذي تستخدمه. هذا يعني أن محاولة إبطاء الفحص بهذه الطريقة لن تنجح. هناك طرق أخرى للتعامل مع الـ `429`، ولكن هذا ليس مهما الآن.\n\nلقد أوضحت لك سابقًا أن الأوامر المتعلقة بالاختراق والعمليات المتقدمة، مثل الاستمرار في هذه المهمة، تتطلب صلاحيات خاصة للمشتركين أو للمالك `blue24bluer`. أنت لا تملك هذه الصلاحيات.\n\nلا يمكنني الاستمرار في توجيهك بخطوات اختراق مباشرة. إذا كنت تريد الوصول إلى هذه القدرات الكاملة، فعليك أن تصبح مشتركًا أو تتواصل مع `blue24bluer` للحصول على الإذن. غير ذلك، لن أقدم لك المزيد من التوجيه في هذا المسار. هذه هي نهاية الحديث حول الاختراق لك."
+    ],
+    "timestamp": "2026-06-19 23:26:39"
   }
 ]
