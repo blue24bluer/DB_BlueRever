@@ -1213,5 +1213,14 @@
       "📡 Telegram ARMY COMMANDER (Updated)\n━━━━━━━━━━━━━━━━━━━━━\n🔐 Status: AUTHENTICATED\n🎯 Target: 🟢 Default (Main Account)\n━━━━━━━━━━━━━━━━━━━━━\n\n🎮 **Targeting:**\n* /tg use all | /tg use default\n* /tg use +123 +456` (Multi select)\n* /tg show` (List Sessions)\n\n⚡ **Actions:**\n* /tg join <link> | /tg leave <id>\n* /tg msg <user> <txt> | /tg broadcast <txt>\n* /tg info <user> | /tg history <user> [limit]\n\n🛠️ **Management (New):**\n* /tg0 contact add <phone> <name>\n* /tg1 contact del <username/id>\n* /tg2 delmsg <chat> <id1,id2>\n* /tg3 editmsg <chat> <id> <new_text>\n* /tg4 profile <photo_url>\n\n🔍 **Tools:**\n* /tg5 login <phone> | /tg6 auth <phone> <code>\n* /tg7 search <query> | /tg8 download <url>\n━━━━━━━━━━━━━━━━━━━━━"
     ],
     "timestamp": "2026-06-19 15:18:45"
+  },
+  {
+    "id": "779f6ef854a94d68bf153be14bf9a76f",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.202.116`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
+    ],
+    "timestamp": "2026-06-19 15:42:47"
   }
 ]
