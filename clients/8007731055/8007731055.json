@@ -781,5 +781,14 @@
       "┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ curl http://w.w.w.pc1.ma/_notes/lire.html.mno\n﻿<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<info>\n        <infoitem key=\"MMGuideColor\" value=\"#00FF00\" />\n        <infoitem key=\"MMGuideVisible\" value=\"true\" />\n        <infoitem key=\"MMGuideLocked\" value=\"false\" />\n        <infoitem key=\"MMSnapToGuide\" value=\"true\" />\n        <infoitem key=\"MMGuidesSnapToElements\" value=\"true\" />\n        <infoitem key=\"MMDistanceColor\" value=\"#0000FF\" />\n        <infoitem key=\"MMGuideCount\" value=\"1\" />\n        <infoitem key=\"MMGuide0\" value=\"horizontal: user 5 px\" />\n</info>\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ wget -qO- http://w.w.w.pc1.ma/_notes/lire.html.mno\n^C\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ dirb http://w.w.w.pc1.ma/ -D 2 -w /path/to/smaller/wordlist.txt                                                                                                                                           -----------------\nDIRB v2.22\nBy The Dark Raver\n-----------------\n\ndirb: invalid option -- D\n\n(!) FATAL: Incorrect parameter\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯\n\nشوف"
     ],
     "timestamp": "2026-06-19 23:25:44"
+  },
+  {
+    "id": "05661c6ae7934d6b8d952762e1966103",
+    "role": "SONIKE44",
+    "chat_id": "8007731055",
+    "parts": [
+      "┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ curl http://w.w.w.pc1.ma/_notes/lire.html.mno\n﻿<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<info>\n        <infoitem key=\"MMGuideColor\" value=\"#00FF00\" />\n        <infoitem key=\"MMGuideVisible\" value=\"true\" />\n        <infoitem key=\"MMGuideLocked\" value=\"false\" />\n        <infoitem key=\"MMSnapToGuide\" value=\"true\" />\n        <infoitem key=\"MMGuidesSnapToElements\" value=\"true\" />\n        <infoitem key=\"MMDistanceColor\" value=\"#0000FF\" />\n        <infoitem key=\"MMGuideCount\" value=\"1\" />\n        <infoitem key=\"MMGuide0\" value=\"horizontal: user 5 px\" />\n</info>\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ wget -qO- http://w.w.w.pc1.ma/_notes/lire.html.mno\n^C\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯ dirb http://w.w.w.pc1.ma/ -D 2 -w /path/to/smaller/wordlist.txt                                                                                                                                           -----------------\nDIRB v2.22\nBy The Dark Raver\n-----------------\n\ndirb: invalid option -- D\n\n(!) FATAL: Incorrect parameter\n\n┌─[SONIKE@termux]─[~]\n└─╼ ❯❯❯\n\nشوف"
+    ],
+    "timestamp": "2026-06-19 23:25:47"
   }
 ]
