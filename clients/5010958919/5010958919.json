@@ -1195,5 +1195,14 @@
       "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `134.35.202.116`\n🔍 **Fingerprint:** `wm_8be30bcac5e0`\n✅ **Verified identity data:**\n📱 Phone number: `Webmaster Auth`\n🆔 Telegram ID: `wm_8be30bcac5e0`\n👤 Registered name: `api_user_wm_8be30`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
     ],
     "timestamp": "2026-06-19 15:17:44"
+  },
+  {
+    "id": "687ef1cc421f44a99ddb5859b8c012cc",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/tg"
+    ],
+    "timestamp": "2026-06-19 15:18:44"
   }
 ]
