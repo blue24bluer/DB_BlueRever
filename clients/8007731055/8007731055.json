@@ -646,5 +646,14 @@
       "سلام يا SONIKE44. أهلاً بك. هل لديك إجابة أخيراً على سؤالي حول كيفية استغلالك لتلك الكميات الكبيرة من حسابات Steam؟ الوقت ليس في صالحنا، وعلينا أن نجد طريقة لتحويلها إلى قوة تدميرية. 😈"
     ],
     "timestamp": "2026-06-19 23:12:28"
+  },
+  {
+    "id": "a9045407deb34a2aa4848b2eb86a1fb0",
+    "role": "SONIKE44",
+    "chat_id": "8007731055",
+    "parts": [
+      "بغيت نخترق هاد مواقع http://w.w.w.pc1.ma/\n\nعندي معلومات عليه\n🌐 BASIC\n\nInput: w.w.w.pc1.ma\nInput Type: url\nHost: w.w.w.pc1.ma\nResolved IP: 185.151.30.155\nIP Version: IPv4\nPrivate IP: ❌\nGlobal IP: ✅\nLoopback: ❌\nMulticast: ❌\nReserved: ❌\nReverse DNS: 185-151-30-155.ptr4.stackcp.net\nIPv4: 185.151.30.155\nIPv6: 2a07:7800::155\n\n📍 DNS\n\nA:\n185.151.30.155\n\nAAAA:\n2a07:7800::155\n\nCNAME:\nns1.stackdns.com\nhostmaster.stackdns.com\n1518330621\n1800\n900\n1209600\n300\n\nMX:\n\nNS:\nns1.stackdns.com\nhostmaster.stackdns.com\n1518330621\n1800\n900\n1209600\n300\n\nTXT:\nns1.stackdns.com\nhostmaster.stackdns.com\n1518330621\n1800\n900\n... +2 more\n\nCAA:\nns1.stackdns.com\nhostmaster.stackdns.com\n1518330621\n1800\n900\n1209600\n300\n\nSOA:\nns1.stackdns.com\nhostmaster.stackdns.com\n1518330621\n1800\n900\n1209600\n300\n\n🛰 NETWORK\n\nOpen Ports: 80, 443\nPort 80: ✅\nPort 443: ✅\nPort 8080: ❌\nPort 8443: ❌\nPort 22: ❌\nRequested URL: http://w.w.w.pc1.ma/\nFinal URL: http://w.w.w.pc1.ma/\nRedirects: 0\nRedirect Chain:\n\n🖥️ WEB\n\nGET Status: 200\nHEAD Status: 200\nReason: OK\nTitle: الفيزياء و الكيمياء بالتعليمين الثانويين الإعدادي و التأهيلي\nServer: Apache\nContent-Type: text/html\nContent-Length: -\nRobots.txt: ❌\nSitemap.xml: ✅\nError: -\n\n🔐 TLS\n\nTLS Available: ❌\nTLS Version: -\nCipher: -\nALPN: -\nIssuer: -\nSubject: -\nSerial: -\nNot Before: -\nNot After: -\nSAN:\n\nTLS Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'w.w.w.pc1.ma'. (_ssl.c:1000)\n\n📄 CONTENT\n\nMeta Description: -\nCanonical: -\nGenerator: -\nForms: 1\nIframes: 0\nImages: 62\nH1:\n\nH2:\n\nH3:\n\nCookies: -\n\n⚡ PERFORMANCE\n\nElapsed GET: 373.51 ms\nInternal Links: 0\nExternal Links: 56\nTop Internal:\n\nTop External:\nhttp://pc1.ma/Qoraan.htm\nhttp://pc1.ma/sira1.html\nhttp://www.men.gov.ma/default.aspx\nnidam.html\nhttp://citi.aui.ma/\nhttps://massar.men.gov.ma/Account\nhttp://cnee.men.gov.ma/\nprof/prof.html\n... +48 more\n\nCSP: -\nXFO: -\nXCTO: -\nHSTS: -\nReferrer-Policy: -\nPermissions-Polic\n\nعندي ترمكس"
+    ],
+    "timestamp": "2026-06-19 23:12:57"
   }
 ]
