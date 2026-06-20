@@ -2104,5 +2104,14 @@
       "🟢 **User (SONIKE44)**\n🗓️ `2026-06-19 23:28:41`\n\nI want to continue hacking websites"
     ],
     "timestamp": "2026-06-20 00:57:05"
+  },
+  {
+    "id": "c134d1b0e0ea4c5d974ac220ae9559a1",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-06-19 23:28:57`\n\n[ERR_SYS] : You have been blocked."
+    ],
+    "timestamp": "2026-06-20 00:57:06"
   }
 ]
