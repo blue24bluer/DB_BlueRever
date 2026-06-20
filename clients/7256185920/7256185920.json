@@ -25,5 +25,23 @@
       "عربي"
     ],
     "timestamp": "2026-06-20 22:20:22"
+  },
+  {
+    "id": "4889f345569343c986f3a42e155a5918",
+    "role": "Xd_Moxx",
+    "chat_id": "7256185920",
+    "parts": [
+      "عربي"
+    ],
+    "timestamp": "2026-06-20 22:20:25"
+  },
+  {
+    "id": "df3cb2f31cd54d5dac9db9a820df5796",
+    "role": "system",
+    "chat_id": "7256185920",
+    "parts": [
+      "Sent sticker ID: CAACAgQAAyEFAAS7TfvPAAEBTGVpZiMOoyiLJSruVgABpw67Kba_L8QAAtYYAAKUrQhSv7rGJnd5MTs4BA based on text match."
+    ],
+    "timestamp": "2026-06-20 22:20:35"
   }
 ]
