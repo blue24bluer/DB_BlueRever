@@ -70,5 +70,23 @@
       "صانع البوت 😂"
     ],
     "timestamp": "2026-06-20 22:20:53"
+  },
+  {
+    "id": "914c537f353c42aaa688bf88d4102732",
+    "role": "Xd_Moxx",
+    "chat_id": "7256185920",
+    "parts": [
+      "صانع البوت 😂"
+    ],
+    "timestamp": "2026-06-20 22:20:56"
+  },
+  {
+    "id": "0df1ee5dd50544d8818cb1e1bfa5b172",
+    "role": "system_context",
+    "chat_id": "7256185920",
+    "parts": [
+      "[Sent Sticker] Concept: The sticker displays three frames, each featuring a man who resembles actor Leonardo DiCaprio, wearing a white polo shirt. In the first frame, he smiles broadly with his eyes squinted. The second frame shows him with a confident smirk, pointing directly towards the viewer. The third frame captures him smiling and looking to his left. All frames suggest an affluent outdoor setting, possibly a yacht or waterfront, with blurred backgrounds. The overall tone is one of leisure, confidence, and amusement."
+    ],
+    "timestamp": "2026-06-20 22:21:16"
   }
 ]
