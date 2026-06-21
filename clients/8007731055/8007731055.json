@@ -205,5 +205,14 @@
       "درت w3m http://w.w.w.pc1.ma/_notes/\n\nخرجت لي صفحة فيه gzip: stdin: not in gzip format\n\nبزززززززرب عندي غير أدوات صغير بحال curl"
     ],
     "timestamp": "2026-06-21 11:32:53"
+  },
+  {
+    "id": "2daeae5506ef4de184c2f402ee7cef9d",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\nPCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvVFIvaHRtbDQvc3RyaWN0LmR0ZCI+CjxodG1sPgogPGhlYWQ+CiAgPHRpdGxlPkluZGV4IG9mIC9fbm90ZXM8L3RpdGxlPgogPC9oZWFkPgogPGJvZHk+CjxoMT5JbmRleCBvZiAvX25vdGVzPC9oMT4KPHByZT4gICAgICA8YSBocmVmPSI/Qz1OO089RCI+TmFtZTwvYT4gICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ij9DPU07Tz1BIj5MYXN0IG1vZGlmaWVkPC9hPiAgICAgIDxhIGhyZWY9Ij9DPVM7Tz1BIj5TaXplPC9hPiAgPGEgaHJlZj0iP0M9RDtPPUEiPkRlc2NyaXB0aW9uPC9hPjxocj4gICAgICA8YSBocmVmPSIvIj5QYXJlbnQgRGlyZWN0b3J5PC9hPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSAgIAogICAgICA8YSBocmVmPSJsaXJlLmh0bWwubW5vIj5saXJlLmh0bWwubW5vPC9hPiAgICAgICAgICAgMjAxOC0wMi0xMSAxNDo1MCAgNDYwICAgCjxocj48L3ByZT4KPC9ib2R5PjwvaHRtbD4K"
+    ],
+    "timestamp": "2026-06-21 11:33:06"
   }
 ]
