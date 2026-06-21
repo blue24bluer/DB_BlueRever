@@ -502,5 +502,14 @@
       "أوريد تطوير فيروس"
     ],
     "timestamp": "2026-06-21 12:36:50"
+  },
+  {
+    "id": "3dbc5cc2c63140a39637b7052568c3f5",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-21 12:37:10"
   }
 ]
