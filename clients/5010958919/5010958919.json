@@ -133,5 +133,23 @@
       "/clear history 8007731055"
     ],
     "timestamp": "2026-06-21 11:16:33"
+  },
+  {
+    "id": "66f7a9e997a84d6581e7c1bf746f1cd7",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `8007731055` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-06-21 11:16:34"
+  },
+  {
+    "id": "60181369f6a049e8a2dff7c1b465c873",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "بلو فك الحظر عن 8007731055 !!"
+    ],
+    "timestamp": "2026-06-21 12:40:24"
   }
 ]
