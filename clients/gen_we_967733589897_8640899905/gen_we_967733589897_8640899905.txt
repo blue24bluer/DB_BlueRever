@@ -1,0 +1,4 @@
+Username: POP_XOX
+Chat ID: gen_we_967733589897_8640899905
+phone: 967733589897
+verified: True
