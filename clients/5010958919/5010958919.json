@@ -196,5 +196,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\n    - Platform: Win32\n    - Language: fr\n    - Screen: 1536x864\n    - Color Depth: 32\n    - Pixel Ratio: 1.25\n    - Timezone: Africa/Tunis\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 12\n    - Memory: 16 GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 1528x732\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x0000A7A1) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: 4g\n    - Network Downlink: 1.5 Mbps\n    - Network RTT: 50 ms\n    - IP Address: 41.224.5.189\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-22 14:44:07"
+  },
+  {
+    "id": "dc5e7c81300e435a912572c754886431",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\n    - Platform: Win32\n    - Language: en-GB\n    - Screen: 1920x1080\n    - Color Depth: 32\n    - Pixel Ratio: 1\n    - Timezone: Asia/Riyadh\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 12\n    - Memory: 16 GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 1920x945\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (NVIDIA)\n    - GPU Renderer: ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Ti (0x00002486) Direct3D11 vs_5_0 ps_5_0, D3D11)\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: 100 ms\n    - IP Address: 82.167.217.85\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-22 16:13:06"
   }
 ]
