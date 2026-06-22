@@ -178,5 +178,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0\n    - Platform: Win32\n    - Language: en-US\n    - Screen: 2049x1152\n    - Color Depth: 24\n    - Pixel Ratio: 0.6666666666666666\n    - Timezone: America/Los_Angeles\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 4\n    - Memory: N/A GB\n    - Referrer: N/A\n    - Plugins: PDF Viewer, Chrome PDF Viewer, Chromium PDF Viewer, Microsoft Edge PDF Viewer, WebKit built-in PDF\n    - Viewport: 2049x911\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Intel)\n    - GPU Renderer: ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0), or similar\n    - Network Type: N/A\n    - Network Downlink: N/A Mbps\n    - Network RTT: N/A ms\n    - IP Address: 175.110.56.216\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-21 12:45:58"
+  },
+  {
+    "id": "c22f9e24c1c945b6b858457bdacc4981",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.174`\n🔍 **البصمة:** `59d7d5606e391b4c334ea3b06aa2f5d57ce1a902488abebae4ccc609d6cae980`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-06-22 13:21:20"
   }
 ]
