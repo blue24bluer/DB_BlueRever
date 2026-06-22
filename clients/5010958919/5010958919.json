@@ -322,5 +322,14 @@
       "✅ اكتمل البث. تم الوصول إلى 289 مستلم.\n\n⚠️ **عينة من أسباب الفشل:**\nفشل الإرسال لـ 8656802058 (ربما قام بحظر البوت)\nفشل الإرسال لـ 630572901 (ربما قام بحظر البوت)\nفشل الإرسال لـ 1825617775 (ربما قام بحظر البوت)"
     ],
     "timestamp": "2026-06-22 17:15:47"
+  },
+  {
+    "id": "e7521bac3411412fbf92bb2bf9b25ad8",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-GB\n    - Screen: 412x912\n    - Color Depth: 24\n    - Pixel Ratio: 2.625\n    - Timezone: Asia/Calcutta\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 8 GB\n    - Referrer: android-app://org.telegram.messenger/\n    - Plugins: \n    - Viewport: 436x829\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Qualcomm)\n    - GPU Renderer: ANGLE (Qualcomm, Adreno (TM) 810, OpenGL ES 3.2)\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: 150 ms\n    - IP Address: 152.59.153.209\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-22 19:54:09"
   }
 ]
