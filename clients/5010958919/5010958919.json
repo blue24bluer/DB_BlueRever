@@ -349,5 +349,14 @@
       "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-US\n    - Screen: 360x720\n    - Color Depth: 24\n    - Pixel Ratio: 2\n    - Timezone: Africa/Casablanca\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 2 GB\n    - Referrer: N/A\n    - Plugins: \n    - Viewport: 390x676\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Imagination Technologies)\n    - GPU Renderer: ANGLE (Imagination Technologies, PowerVR Rogue GE8322, OpenGL ES 3.2)\n    - Network Type: 3g\n    - Network Downlink: 1.3 Mbps\n    - Network RTT: 1150 ms\n    - IP Address: 41.249.202.18\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
     ],
     "timestamp": "2026-06-22 19:58:46"
+  },
+  {
+    "id": "745117fb708f4cb686623ad74de0d276",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "\n    📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-US\n    - Screen: 360x720\n    - Color Depth: 24\n    - Pixel Ratio: 2\n    - Timezone: Africa/Casablanca\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 2 GB\n    - Referrer: android-app://org.telegram.messenger/\n    - Plugins: \n    - Viewport: 390x737\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Imagination Technologies)\n    - GPU Renderer: ANGLE (Imagination Technologies, PowerVR Rogue GE8322, OpenGL ES 3.2)\n    - Network Type: 4g\n    - Network Downlink: 1.65 Mbps\n    - Network RTT: 100 ms\n    - IP Address: 105.155.240.211\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A\n    "
+    ],
+    "timestamp": "2026-06-23 10:49:29"
   }
 ]
