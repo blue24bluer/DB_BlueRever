@@ -34,5 +34,14 @@
       "تاساتم"
     ],
     "timestamp": "2026-06-24 12:05:59"
+  },
+  {
+    "id": "65c38af3ab8845749e59f2af3ff177c6",
+    "role": "bluebot",
+    "chat_id": "6894273054",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-24 12:08:28"
   }
 ]
