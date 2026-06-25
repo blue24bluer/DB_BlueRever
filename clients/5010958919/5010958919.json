@@ -403,5 +403,14 @@
       "📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36\n    - Platform: Linux armv81\n    - Language: en-GB\n    - Screen: 412x912\n    - Color Depth: 24\n    - Pixel Ratio: 2.625\n    - Timezone: Asia/Calcutta\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 8\n    - Memory: 8 GB\n    - Referrer: android-app://org.telegram.messenger/\n    - Plugins: \n    - Viewport: 436x829\n    - Mobile: Yes\n    - Incognito: No\n    - GPU Vendor: Google Inc. (Qualcomm)\n    - GPU Renderer: ANGLE (Qualcomm, Adreno (TM) 810, OpenGL ES 3.2)\n    - Network Type: 4g\n    - Network Downlink: 1.5 Mbps\n    - Network RTT: 150 ms\n    - IP Address: 152.59.153.167\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A"
     ],
     "timestamp": "2026-06-25 09:17:40"
+  },
+  {
+    "id": "6f2f447dfcb84be49a5663de6cf1421f",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "📱 New Visitor Info:\n    - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\n    - Platform: Windows\n    - Language: en-US\n    - Screen: 2000x2000\n    - Color Depth: 24\n    - Pixel Ratio: 1\n    - Timezone: America/Los_Angeles\n    - Online Status: Online\n    - Cookies Enabled: True\n    - Hardware Concurrency: 4\n    - Memory: 32 GB\n    - Referrer: https://www.facebook.com/\n    - Plugins: \n    - Viewport: 1050x1893\n    - Mobile: No\n    - Incognito: No\n    - GPU Vendor: N/A\n    - GPU Renderer: N/A\n    - Network Type: 4g\n    - Network Downlink: 10 Mbps\n    - Network RTT: 100 ms\n    - IP Address: 69.63.184.29\n    - Country: N/A\n    - Region: N/A\n    - City: N/A\n    - Latitude: N/A\n    - Longitude: N/A\n    - ISP: N/A"
+    ],
+    "timestamp": "2026-06-25 14:23:12"
   }
 ]
