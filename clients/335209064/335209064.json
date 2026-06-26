@@ -16,5 +16,14 @@
       "https://t.me/c/4301295902/1106"
     ],
     "timestamp": "2026-06-26 13:11:00"
+  },
+  {
+    "id": "10b5168441ee4ae1be774c239f281202",
+    "role": "bluebot",
+    "chat_id": "335209064",
+    "parts": [
+      "Hey `Unknown` (ID: 335209064), the command These actions are not available to regular users.\n\nIf you believe you have the right to these permissions, contact the owner directly `blue24bluer`. Do not attempt to replicate this without proper authority."
+    ],
+    "timestamp": "2026-06-26 13:11:23"
   }
 ]
