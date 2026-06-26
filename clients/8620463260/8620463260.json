@@ -268,5 +268,14 @@
       "Failed to save video from Telegram."
     ],
     "timestamp": "2026-06-26 04:27:18"
+  },
+  {
+    "id": "c2c8018a2ee54a86925cc0b4ae3959e9",
+    "role": "bluebot",
+    "chat_id": "8620463260",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://c2bluevenom.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
+    ],
+    "timestamp": "2026-06-26 16:17:36"
   }
 ]
