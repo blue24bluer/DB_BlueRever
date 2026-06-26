@@ -115,5 +115,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nأهلاً بك.\n\nطلبت مني تحليل فيديو بالتفصيل، ولكن البيانات التي وصلتني لا قيمة لها على الإطلاق.\nتحليل الإطارات المرئية فشل بالكامل، كل إطار أظهر `PROCESSING_ERROR`.\nالأمر لا يختلف بالنسبة للمسار الصوتي، فقد كان كلامًا غير مفهوم على الإطلاق.\nلا يوجد أي محتوى متاح لدي لدمجه أو تحليله. هذا مضيعة للوقت لا يمكنني قبوله.\nأعد إرسال الفيديو بصيغة وجودة مناسبة. هذا عطل ليس من عندي، بل من المصدر الذي قدمته أنت. لن أقوم بعمل من لا شيء. 😠"
     ],
     "timestamp": "2026-06-26 04:22:07"
+  },
+  {
+    "id": "fdd1ce41ee2e45cc81de223e39dacd0c",
+    "role": "Unknown",
+    "chat_id": "8620463260",
+    "parts": [
+      "Bhai mujhe ko fast download karna hai telegram per kevi mein download ho raha hai Google Chrome per iska link provide karo Jahan se main Google Chrome Se download kar sakun"
+    ],
+    "timestamp": "2026-06-26 04:22:23"
   }
 ]
