@@ -133,5 +133,14 @@
       " [ERR_SYS] : You have been blocked. "
     ],
     "timestamp": "2026-06-26 10:04:28"
+  },
+  {
+    "id": "3838b560bd3f40c4be1c9d9c86dce3c6",
+    "role": "bluebot",
+    "chat_id": "8563384726",
+    "parts": [
+      "🚫 تم حظرك من استخدام هذا البوت."
+    ],
+    "timestamp": "2026-06-26 10:05:38"
   }
 ]
