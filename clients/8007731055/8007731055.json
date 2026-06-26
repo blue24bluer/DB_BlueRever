@@ -916,5 +916,14 @@
       "عندي ملف بوت PHP بغيت نخدم في تليجرام عندي ترمكس \nهاهو كود ملف\n<?php\n\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n$token   = \"8962420837:AAHYY7W6rSx9xgFjTHHfRm_owcFSrulULno_\";  //توكن حب\n$api_url = \"https://devil.xo.je/v/c/wormgpt.php\";\n$channel = \"@ROIUCX\";\n\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n\n$update  = json_decode(file_get_contents(\"php://input\"), true);\n$message = $update['message'] ?? null;\nif (!$message) exit;\n\n$chat_id = $message['chat']['id'];\n$text    = $message['text'] ?? '';\n\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n\nfunction send($token, $chat_id, $text, $keyboard = null) {\n    $data = ['chat_id' => $chat_id, 'text' => $text];\n    if ($keyboard) $data['reply_markup'] = $keyboard;\n    $ch = curl_init(\"https://api.telegram.org/bot$token/sendMessage\");\n    curl_setopt_array($ch, [CURLOPT_RETURNTRANSFER => true, CURLOPT_POST => true, CURLOPT_POSTFIELDS => $data]);\n    curl_exec($ch); curl_close($ch);\n}\n\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n\nif ($text == '/start') {\n    send($token, $chat_id, \"أهلاً 👋\\nاسألني أي شيء \",\n        json_encode(['inline_keyboard' => [[['text' => 'قناة البوت', 'url' => 'https://t.me/ROIUCX']]]]));\n\n} elseif (!empty($text) && !str_starts_with($text, '/')) {\n    send($token, $chat_id, \"⏳ جاري التفكير...\");\n\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n\n    $ch = curl_init($api_url . \"?prompt=\" . urlencode($text));\n    curl_setopt_array($ch, [CURLOPT_RETURNTRANSFER => true, CURLOPT_SSL_VERIFYPEER => false, CURLOPT_TIMEOUT => 30]);\n    $res = json_decode(curl_exec($ch), true);\n    curl_close($ch);\n\n    $answer = $res['answer'] ?? null;\n    send($token, $chat_id,\n        $answer\n            ? \" $answer\\n\\nمن قناة: $channel\"\n            : \"❌ فشل، حاول مجدداً\\n\\nمن قناة: $channel\"\n    );\n}\n//حقوق @ROIUCX\n//حقوق @ROIUCX\n\nعندي ترمكس بززززززززززرب عطني أمر بش نخدم بوت"
     ],
     "timestamp": "2026-06-26 19:21:40"
+  },
+  {
+    "id": "44badbf2688448cfa5ce2d71ca4706e4",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\neyJzdWNjZXNzIjpmYWxzZSwiZXJyb3IiOiLYo9ix2LPZhCDYp9mE2LPYpNin2YQg2YHZiiDYrdmC2YQgcHJvbXB0In0="
+    ],
+    "timestamp": "2026-06-26 19:21:56"
   }
 ]
