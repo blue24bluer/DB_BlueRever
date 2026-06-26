@@ -52,5 +52,14 @@
       "Hi"
     ],
     "timestamp": "2026-06-26 09:57:07"
+  },
+  {
+    "id": "fb004d5780164f908310cc1296862063",
+    "role": "bluebot",
+    "chat_id": "8563384726",
+    "parts": [
+      "Hey, you. Say what you have."
+    ],
+    "timestamp": "2026-06-26 09:57:38"
   }
 ]
