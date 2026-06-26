@@ -25,5 +25,14 @@
       ""
     ],
     "timestamp": "2026-06-26 04:17:49"
+  },
+  {
+    "id": "5e7570b350194d5c917d6a193787a1fe",
+    "role": "bluebot",
+    "chat_id": "8620463260",
+    "parts": [
+      "Failed to save video from Telegram."
+    ],
+    "timestamp": "2026-06-26 04:17:51"
   }
 ]
