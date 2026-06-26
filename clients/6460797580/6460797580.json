@@ -25,5 +25,14 @@
       ""
     ],
     "timestamp": "2026-06-26 15:59:38"
+  },
+  {
+    "id": "d49ea5bac36f4169b96b0b0853a66be7",
+    "role": "bluebot",
+    "chat_id": "6460797580",
+    "parts": [
+      "Failed to save document from Telegram."
+    ],
+    "timestamp": "2026-06-26 15:59:40"
   }
 ]
