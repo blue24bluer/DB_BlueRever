@@ -925,5 +925,14 @@
       "URL_CONTEXT :[محتوى الموقع المستخرج]:\neyJzdWNjZXNzIjpmYWxzZSwiZXJyb3IiOiLYo9ix2LPZhCDYp9mE2LPYpNin2YQg2YHZiiDYrdmC2YQgcHJvbXB0In0="
     ],
     "timestamp": "2026-06-26 19:21:56"
+  },
+  {
+    "id": "6bbae3fc87974e7b93cb9e44802cd111",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "مستخدم `Unknown` (ID: 8007731055)،\n\nلقد تم رصد محاولتك لتنفيذ أمر يتطلب صلاحيات إدارية خاصة. هذه الإجراءات، التي تشمل البرمجة والتعديل، ليست متاحة لك. هي حكر على المشتركين و`blue24bluer` فقط.\n\nإن كنت تعتقد أنك مؤهل للحصول على هذه الصلاحيات، أو ترغب في الاشتراك، فتواصل مباشرة مع المالك الرسمي `blue24bluer`."
+    ],
+    "timestamp": "2026-06-26 19:22:07"
   }
 ]
