@@ -196,5 +196,14 @@
       "اين الفيلم  يا احمق"
     ],
     "timestamp": "2026-06-27 09:06:05"
+  },
+  {
+    "id": "9feae4cca2384bef988b6f1459a83567",
+    "role": "bluebot",
+    "chat_id": "8566616827",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-27 09:06:13"
   }
 ]
