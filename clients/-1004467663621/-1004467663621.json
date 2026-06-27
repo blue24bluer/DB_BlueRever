@@ -61,5 +61,14 @@
       "⁣Hello"
     ],
     "timestamp": "2026-06-27 04:14:49"
+  },
+  {
+    "id": "659a0cb769eb47eb91d1494073bc177b",
+    "role": "bluebot",
+    "chat_id": "-1004467663621",
+    "parts": [
+      "Hi! Welcome 🤖"
+    ],
+    "timestamp": "2026-06-27 04:14:51"
   }
 ]
