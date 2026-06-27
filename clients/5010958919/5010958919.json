@@ -16,5 +16,14 @@
       "⚠️ فشل تحليل الملصق `CAACAgQAAyEFAAMBCksjBQADTGpASUEmKvWkaaE1XU0P9H8V_UYAA_oaAAKsGUFQ4Uouv4VL4QE8BA`. السبب: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-06-27 22:05:58"
+  },
+  {
+    "id": "89a734de8e484ff2afa4c3dbfb09f286",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🚨 **تنبيه أمني (حظر تلقائي):**\nالمستخدم زيوني كريس (`1032536475`) تم حظره بسبب تكرار الرسالة 6 مرات في الخاص."
+    ],
+    "timestamp": "2026-06-27 22:33:43"
   }
 ]
