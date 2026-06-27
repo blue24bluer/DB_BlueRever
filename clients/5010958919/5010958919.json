@@ -7,5 +7,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.56.187`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0...`"
     ],
     "timestamp": "2026-06-27 18:10:13"
+  },
+  {
+    "id": "f844ae626e6d42498a700cbf2c6c4c02",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ فشل تحليل الملصق `CAACAgQAAyEFAAMBCksjBQADTGpASUEmKvWkaaE1XU0P9H8V_UYAA_oaAAKsGUFQ4Uouv4VL4QE8BA`. السبب: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-06-27 22:05:58"
   }
 ]
