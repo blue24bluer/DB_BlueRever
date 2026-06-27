@@ -61,5 +61,14 @@
       "🚫 **تم حظرك نهائياً من استخدام البوت بسبب تكرار الرسائل.**"
     ],
     "timestamp": "2026-06-27 22:33:42"
+  },
+  {
+    "id": "3b6ef3cbb3f34eb4aa680685c1fdc81f",
+    "role": "bluebot",
+    "chat_id": "1032536475",
+    "parts": [
+      "🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
+    ],
+    "timestamp": "2026-06-27 22:34:18"
   }
 ]
