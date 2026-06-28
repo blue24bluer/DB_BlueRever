@@ -61,5 +61,32 @@
       "/start"
     ],
     "timestamp": "2026-06-28 18:33:05"
+  },
+  {
+    "id": "4d6ee7050ac8463d98f53055292a86f7",
+    "role": "y_pw5",
+    "chat_id": "6214140145",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-28 18:33:06"
+  },
+  {
+    "id": "c79936995e204a6bbfdd0c158e0f7564",
+    "role": "y_pw5",
+    "chat_id": "6214140145",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-28 18:33:06"
+  },
+  {
+    "id": "db99d07a01354920a83bfff1cf9f7c3a",
+    "role": "y_pw5",
+    "chat_id": "6214140145",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-28 18:33:06"
   }
 ]
