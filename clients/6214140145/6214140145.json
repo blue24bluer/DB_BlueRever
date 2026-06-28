@@ -34,5 +34,23 @@
       "/start"
     ],
     "timestamp": "2026-06-28 18:33:03"
+  },
+  {
+    "id": "5a8f8712c46748de8bff5fe53294daff",
+    "role": "y_pw5",
+    "chat_id": "6214140145",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-28 18:33:03"
+  },
+  {
+    "id": "2a30c3d107054df78ee85d66cd60f1dc",
+    "role": "y_pw5",
+    "chat_id": "6214140145",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-06-28 18:33:05"
   }
 ]
