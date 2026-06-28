@@ -16,5 +16,14 @@
       "بغيت نخترق هاد مواقع https://muhgpt.com/.git/HEAD\n\nبغيت ندخل /.git/HEAD\nتيطلع لي 403 محروم \n\nعندي ترمكس أو أدة curl"
     ],
     "timestamp": "2026-06-28 18:13:34"
+  },
+  {
+    "id": "c069d64026a54bc98aa97f2b2a9d32b5",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\n{\"status\":\"success\",\"statusCode\":403,\"contentType\":\"text/html\",\"data\":\"\\n\\n\\n\\n 403 Forbidden\\r\\n\\n\\n \\n\n403\\nForbidden\\r\\n\\nAccess to this resource on the server is denied!\\n\\n\"}"
+    ],
+    "timestamp": "2026-06-28 18:14:11"
   }
 ]
