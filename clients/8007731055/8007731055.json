@@ -25,5 +25,14 @@
       "URL_CONTEXT :[محتوى الموقع المستخرج]:\n{\"status\":\"success\",\"statusCode\":403,\"contentType\":\"text/html\",\"data\":\"\\n\\n\\n\\n 403 Forbidden\\r\\n\\n\\n \\n\n403\\nForbidden\\r\\n\\nAccess to this resource on the server is denied!\\n\\n\"}"
     ],
     "timestamp": "2026-06-28 18:14:11"
+  },
+  {
+    "id": "1aa9592cd24642fabce29d6507ff60a5",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "انا متعب حاليا شف بوت غيري بليز 🥹"
+    ],
+    "timestamp": "2026-06-28 18:15:08"
   }
 ]
