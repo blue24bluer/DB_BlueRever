@@ -1,110 +1,11 @@
 [
   {
-    "id": "53a00e6074294468bc9710bcd4b6c08f",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:32:43"
-  },
-  {
-    "id": "82c2285c92624ec69110694be1575059",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:32:52"
-  },
-  {
-    "id": "ee91db0e2ff141d38e1ca0eae2ebd44f",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:00"
-  },
-  {
-    "id": "c970a374980340daa1b96e301f69dca6",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:03"
-  },
-  {
-    "id": "5a8f8712c46748de8bff5fe53294daff",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:03"
-  },
-  {
-    "id": "2a30c3d107054df78ee85d66cd60f1dc",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:05"
-  },
-  {
-    "id": "ef00676364fb4e009b3496cef8ba475a",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:05"
-  },
-  {
-    "id": "4d6ee7050ac8463d98f53055292a86f7",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:06"
-  },
-  {
-    "id": "c79936995e204a6bbfdd0c158e0f7564",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:06"
-  },
-  {
-    "id": "db99d07a01354920a83bfff1cf9f7c3a",
-    "role": "y_pw5",
-    "chat_id": "6214140145",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 18:33:06"
-  },
-  {
-    "id": "b0e6bc79fb0b4bbc9301bfa1c1adeba6",
+    "id": "c3fd2ad2ac0b499c96c12f9e2b9a9770",
     "role": "bluebot",
     "chat_id": "6214140145",
     "parts": [
       "I'm tired right now, please see someone else's boots 🥹"
     ],
-    "timestamp": "2026-06-28 18:33:12"
-  },
-  {
-    "id": "5def9fe48dc343189831ada4325ba4c7",
-    "role": "bluebot",
-    "chat_id": "6214140145",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-06-28 18:33:23"
+    "timestamp": "2026-06-28 18:33:30"
   }
 ]
