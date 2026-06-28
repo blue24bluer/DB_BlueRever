@@ -1,47 +1,11 @@
 [
   {
-    "id": "cfa3a33b16cd4986a0f1d0170355287a",
-    "role": "Unknown",
-    "chat_id": "8204775453",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-06-28 19:17:38"
-  },
-  {
-    "id": "c5b29e9cadd346f7af97302fbbe191b3",
+    "id": "83ea4d6aa73245dc8a27734408b9cccc",
     "role": "Unknown",
     "chat_id": "8204775453",
     "parts": [
       "https://x.com/yolanda_adam/status/2070504335109165278?s=20"
     ],
-    "timestamp": "2026-06-28 19:17:47"
-  },
-  {
-    "id": "4782becb55354340890cc70272769adf",
-    "role": "Unknown",
-    "chat_id": "8204775453",
-    "parts": [
-      "https://x.com/yolanda_adam/status/2070504335109165278?s=20"
-    ],
-    "timestamp": "2026-06-28 19:17:51"
-  },
-  {
-    "id": "55c921f8514a4dea9f8650705b9546fa",
-    "role": "bluebot",
-    "chat_id": "8204775453",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-06-28 19:18:06"
-  },
-  {
-    "id": "66e6a9ef6ff6443fb497679772548702",
-    "role": "bluebot",
-    "chat_id": "8204775453",
-    "parts": [
-      "URL_CONTEXT :[محتوى الموقع المستخرج]:\n{\"status\":\"success\",\"statusCode\":200,\"contentType\":\"text/html; charset=UTF-8\",\"data\":\"Post / XPostLog inSign upPostAge-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn moreNew to X?Sign up now to get your own personalized timeline!Sign up with GoogleSign up with AppleCreate accountBy signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.Relevant peopleTrending nowTerms·Privacy·Cookies·Accessibility·Ads Info·More© 2026 X Corp.Don't miss what's happeningPeople on X are the first to know.Log inSign up\"}"
-    ],
-    "timestamp": "2026-06-28 19:18:19"
+    "timestamp": "2026-06-28 19:18:30"
   }
 ]
