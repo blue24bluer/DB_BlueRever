@@ -97,5 +97,14 @@
       "انت فاشل"
     ],
     "timestamp": "2026-06-29 15:44:46"
+  },
+  {
+    "id": "cdac4855422848b7b8b073ca1692a5c0",
+    "role": "bluebot",
+    "chat_id": "5359152045",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-29 15:44:54"
   }
 ]
