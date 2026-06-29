@@ -124,5 +124,23 @@
       ".35\n🤖 `c0a7491cdd84a9ca0937070bf334bb9ddae4f1a8a5e0bde34fa777a20cde513d` | OS: Windows | IP: 197.57.195.38\n🤖 `1a757680659e286598db3195994c3b1d921056bca2563cc99aee2b2c1ebf4cba` | OS: Linux | IP: 94.47.1.208\n🤖 `074beba90a4e886a4194e92266309b83931fe7f9addc1babd0096a9295acae40` | OS: Windows | IP: 102.45.32.51\n🤖 `0b7cd1ac3aa26d7c8abf3124b3271c33d96e4b3806196894e1b12ec5f4216374` | OS: Linux | IP: 57.129.64.236\n🤖 `f9b5c833e5910635abb293f9b50472d3925c4f0060716be01d7e598310a23620` | OS: Windows | IP: 41.34.114.70\n🤖 `2014590cc9ef1262594dc86cdd7138f2050324e4f7c747b119c3bf3598227326` | OS: Windows | IP: 41.234.161.252\n🤖 `c43f9af6c1e7a652e9ab99e3baa4cf9a26975e28745587c5a6e7cb1e32bb6a9e` | OS: Linux | IP: 57.129.64.236\n🤖 `9ed05a4c3e6a02f087421d444b0867c82fce765674bd60e69ff06351fde5a2e3` | OS: Windows | IP: 197.57.251.183\n🤖 `0e7391b00a56aa8febc72ef51736bfd8685303bb83dcc859668867a79f39511d` | OS: Windows | IP: 197.57.46.163\n🤖 `88c14411e89745d531ffd367da59f23d79eb4d048fce77e1e4de8cde2878376e` | OS: Windows | IP: 41.34.223.107\n🤖 `4fa48de1d7502df763bd09ceab0a0840c6fbb0a9351b895059dae47f55d9a408` | OS: Windows | IP: 41.34.223.107\n🤖 `2c09381190667c1591f8002dd498eeefc28a449ed4ff23418bd74179bdd8aa0e` | OS: Windows | IP: 197.57.68.101\n🤖 `b3c205fda91911c9ed6801d029239c35a52d6e9e6b4853d0d222b21ea5e72473` | OS: Windows | IP: 197.57.78.9\n🤖 `e7dfb4822eb8d463f0cd4e73f7d34e543b7a3f4ad2d09b2ced0f7696ba717a60` | OS: Windows | IP: 41.239.186.233\n🤖 `d89bf2a0f8cc720c3c8dc0677f9a8a2b3b70b801f133c32fdaa4592226ae00d7` | OS: Windows | IP: 197.57.87.27\n🤖 `4340247678a3b918f16865031bfad73dcb88fdccf2358e0946c42979876f5b47` | OS: Windows | IP: 197.57.169.208\n🤖 `5a44426bff4f7d964bda25a0b6dd97de0b863fa18af6a18ee6fac7f002f707a8` | OS: Windows | IP: 197.57.174.204\n🤖 `9c3657f2bd157a796041ea7dffa9c49aaebfa04e378fb1a287bf3a78951a0f9c` | OS: Linux | IP: 178.22.34.65\n🤖 `485292629d1dd3444b743a1dbdc28986fa3de17ad68b54cfb4c2d8631ddff4d6` | OS: Windows | IP: 102.45.33.150\n🤖 `3cf07c249bea2c7332ff0699c718540fad23c22aa72094491a27cea8fb12f109` | OS: Linux | IP: 104.28.154.230\n🤖 `57102006060edfcc4674ca4ecc85c54242b0c852630c528f8cace7c2c366919d` | OS: Windows | IP: 197.57.119.172\n🤖 `9652c4b93a66f1292ab732bb867cdf7f87a7cbaceca61160e93da0eafdf76505` | OS: Windows | IP: 197.57.26.118\n🤖 `e38d46baf50a0caba333ef5f0bf12e19635c8b760b878bc778484e80419bbb91` | OS: Linux | IP: 178.22.32.41\n🤖 `ec1ebc1d6c42ad1f4b0f21a95cf517062648864b7b09930211cace0b19a4a3a3` | OS: Linux | IP: 178.22.32.41\n🤖 `aec3fe1907eed5ae4db4c3daad794e2a87eb6542152a9051846e03518c7a4246` | OS: Windows | IP: 41.234.120.226\n🤖 `6ecb8c85b7f75080acec5db957d407d3858a1bcc0d3ce74a73f930e56fdba1dd` | OS: Windows | IP: 197.57.189.211\n🤖 `876fbcdab29896716d83dcb276753566f061c392cc53b706836f5d7813983791` | OS: Windows | IP: 41.232.176.98\n🤖 `094b1033b90da0864d82c63adba634e5e535051f6c038c66dccf18a941d6c2f3` | OS: Windows | IP: 175.110.56.216\n🤖 `5b2852fff856096f` | OS: Windows | IP: 145.224.125.230\n🤖 `32f5235d7d4988c62bc75b0e296a779d06a56bea53e7533372247973ee2160ac` | OS: Windows | IP: 102.45.32.4\n🤖 `5615bc4d0433181a45607350c144fb2554ba9ee4c4d910e338a607ad2cd0d16f` | OS: Android | IP: 151.255.38.57\n🤖 `9fa668e521ae3f2f810bdbe4b2e3dcc92f0b48ed790a51affde8eb4cfd6a9526` | OS: Windows | IP: 41.233.152.135"
     ],
     "timestamp": "2026-06-29 15:39:13"
+  },
+  {
+    "id": "435140bc9fd244d1b8b07d3ac4dee06c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "تم تنفيذ الأمر."
+    ],
+    "timestamp": "2026-06-29 15:39:14"
+  },
+  {
+    "id": "d2b4fdf8002f45349e35c668e298ff05",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚡ **نظام التنفيذ:** يتم الآن تنفيذ الأمر بشكل سطحي في الخلفية..."
+    ],
+    "timestamp": "2026-06-29 15:39:53"
   }
 ]
