@@ -1,4 +1,5 @@
-Username: Webmaster
+Username: api_user_wm_8be30
 Chat ID: wm_8be30bcac5e0
 verified: True
 welcome_viewed: True
+profile_pic: https://raw.githubusercontent.com/blue24bluer/DB_BlueRever/main/clients/wm_8be30bcac5e0/wm_8be30bcac5e0_profile.jpg
