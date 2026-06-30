@@ -583,5 +583,14 @@
       "✨ تم ترقية `8007731055` إلى SuperUser لمدة `7d`."
     ],
     "timestamp": "2026-06-30 03:32:32"
+  },
+  {
+    "id": "9e1a814ed0fa48788d8e92ed4fd658cb",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `145.224.125.248`\n🔍 **البصمة:** `wm_29ffecf26229`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_29ffecf26229`\n👤 الاسم المسجل: `api_user_wm_29ffe`\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-06-30 06:19:08"
   }
 ]
