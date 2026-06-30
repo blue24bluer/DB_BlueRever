@@ -520,5 +520,14 @@
       "[HIDE]:MockResponse(text='{\\n    \"action\": {\\n        \"install_permanent_tool\": {\\n            \"name\": \"basic_port_scanner\",\\n            \"binary_filename\": \"port_scanner.py\",\\n            \"objective\": \"Performs a basic TCP port scan on a target host for specified ports or a range of ports, reporting open ports.\",\\n            \"category\": \"recon\",\\n            \"run_command\": \"python3 {HOME}SEC_TOOL/port_scanner.py --target <target_host> --ports <port1,port2,...|start-end>\",\\n            \"example\": \"python3 {HOME}SEC_TOOL/port_scanner.py --target example.com --ports 80,443,22\"\\n        }\\n    }\\n}')"
     ],
     "timestamp": "2026-06-30 03:43:46"
+  },
+  {
+    "id": "e0357896d67d4cedbec8540b189de238",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "✅ تم تحديث سياق العمليات الجارية بالمعلومة: \"عطني نتا أومر بي أدة\"."
+    ],
+    "timestamp": "2026-06-30 03:43:59"
   }
 ]
