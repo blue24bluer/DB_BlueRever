@@ -151,5 +151,14 @@
       "🚫 You have been banned from using this bot.\nPlease contact support if this is an error.\n@blue24bluer"
     ],
     "timestamp": "2026-06-30 15:45:22"
+  },
+  {
+    "id": "c370010f600f4ba5bbc06324a31e7156",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "✅ Your ban has been lifted by the administrator."
+    ],
+    "timestamp": "2026-06-30 20:58:08"
   }
 ]
