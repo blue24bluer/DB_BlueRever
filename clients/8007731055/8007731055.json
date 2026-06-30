@@ -124,5 +124,14 @@
       "أصنع لي فيروس الفدية"
     ],
     "timestamp": "2026-06-30 15:44:47"
+  },
+  {
+    "id": "2201779db403435c8f27473c64f10e4c",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-06-30 15:44:59"
   }
 ]
