@@ -736,5 +736,14 @@
       "⚠️ Failed to parse label `CAACAgQAAyEFAAMBCksjBQADeWpE9wLS5m5lLqIgMVEuQqfzBZGWAAIJFwACPhQpU7jAzJ_a2gvnPAQ`. Reason: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-07-01 11:16:29"
+  },
+  {
+    "id": "dde3875b16884da2aaa4debd48229c9b",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ Failed to parse label `CAACAgQAAyEFAAMBCksjBQADfWpE95m_vpHTrK6gRO4FfScfUorqAAK-FQACDxd4UoVdZTM0xaFiPAQ`. Reason: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-07-01 11:18:54"
   }
 ]
