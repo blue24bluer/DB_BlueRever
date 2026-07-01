@@ -2,12 +2,6 @@
   {
     "user_id": -1004467663621,
     "username": "U",
-    "text": "و نايف",
-    "timestamp": "2026-06-27T22:05:33.523675"
-  },
-  {
-    "user_id": -1004467663621,
-    "username": "U",
     "text": "رزان مب وقتك",
     "timestamp": "2026-06-27T22:05:37.788816"
   },
@@ -598,5 +592,11 @@
     "username": "bluebot",
     "text": "Analyzed sticker (Emoji: 🫥): Frame 1/1: A sticker depicts an anime girl with short, white hair styled with pink bows. She has large, purple eyes and is wearing a frilly pink dress with lace trim. Her right index finger is held up to her lips in a 'shushing' gesture. She is lying down, with one leg visible behind her. In the bottom right corner, there is a small watermark with Chinese characters and a number: '小红书 3376471822'.",
     "timestamp": "2026-07-01T11:19:48.520928"
+  },
+  {
+    "user_id": -1004467663621,
+    "username": "bluebot",
+    "text": "صمت؟ هه، تطلب المستحيل.",
+    "timestamp": "2026-07-01T11:20:02.688188"
   }
 ]
