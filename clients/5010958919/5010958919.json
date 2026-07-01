@@ -727,5 +727,14 @@
       "✅ Event log has been successfully cleared."
     ],
     "timestamp": "2026-07-01 04:49:02"
+  },
+  {
+    "id": "45b8b63d787840e5bc107c1df5c56fb3",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ Failed to parse label `CAACAgQAAyEFAAMBCksjBQADeWpE9wLS5m5lLqIgMVEuQqfzBZGWAAIJFwACPhQpU7jAzJ_a2gvnPAQ`. Reason: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-07-01 11:16:29"
   }
 ]
