@@ -70,5 +70,14 @@
       "https://nataeji.moe.gov.ye/ادي لي ثغرات حقيقيه لهذا الموقع"
     ],
     "timestamp": "2026-07-02 21:16:22"
+  },
+  {
+    "id": "3bffa13bf5834e7697df11a58ff45006",
+    "role": "bluebot",
+    "chat_id": "6859519924",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل سحب محتويات الموقع."
+    ],
+    "timestamp": "2026-07-02 21:17:12"
   }
 ]
