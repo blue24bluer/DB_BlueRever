@@ -664,5 +664,14 @@
       "URL_CONTEXT :[محتوى الموقع المستخرج]:\newogICJlcnJvciI6IHsKICAgICJtZXNzYWdlIjogIlVucmVjb2duaXplZCByZXF1ZXN0IFVSTCAoR0VUOiAvdjEvdG9rZW5zKS4gUGxlYXNlIHNlZSBodHRwczovL3N0cmlwZS5jb20vZG9jcyBvciB3ZSBjYW4gaGVscCBhdCBodHRwczovL3N1cHBvcnQuc3RyaXBlLmNvbS8uIiwKICAgICJ0eXBlIjogImludmFsaWRfcmVxdWVzdF9lcnJvciIKICB9Cn0K"
     ],
     "timestamp": "2026-07-03 21:41:12"
+  },
+  {
+    "id": "6fd3485372e942f0869a732700e3a4fd",
+    "role": "bluebot",
+    "chat_id": "7845093938",
+    "parts": [
+      "`w_1_ez` (ID: 7845093938), You have been detected attempting to execute a command that exceeds your available permissions. You should know well that commands that require administrative powers or a special subscription are only executed for the benefit of the administrator or subscribers. You currently do not have these permissions.\n\nIf you believe you deserve these powers, or would like to obtain them, contact `blue24bluer` directly to purchase a subscription. Do not repeatedly attempt to bypass these restrictions without obtaining the necessary permissions."
+    ],
+    "timestamp": "2026-07-03 21:41:44"
   }
 ]
