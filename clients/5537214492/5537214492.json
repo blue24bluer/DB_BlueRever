@@ -340,5 +340,23 @@
       "hello"
     ],
     "timestamp": "2026-07-04 13:33:31"
+  },
+  {
+    "id": "4e491043944f4e10ac4be24c3e1314b2",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-04 13:33:31"
+  },
+  {
+    "id": "aa593570aa564ce8b6f90bb3ef95b2c6",
+    "role": "bluebot",
+    "chat_id": "5537214492",
+    "parts": [
+      "Hey `Mrrome_21`, your attempt to execute this command requires special administrative privileges or an active subscription. You currently lack either. If you think you deserve these abilities, contact `blue24bluer` directly to discuss it."
+    ],
+    "timestamp": "2026-07-04 13:33:59"
   }
 ]
