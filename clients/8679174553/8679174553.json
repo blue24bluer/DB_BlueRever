@@ -43,5 +43,23 @@
       "UploadBot? I see you are trying to spread your tools. These advanced operations, which include server control and bot deployment, are not within the reach of every user. It is exclusive to the real owner of `blue24bluer` or proven subscribers. You are just a regular user, and do not have access to these functions. Don't waste my time. 😈"
     ],
     "timestamp": "2026-07-04 10:02:15"
+  },
+  {
+    "id": "c115410661674307b92805e3cf7fcdf8",
+    "role": "bluebot",
+    "chat_id": "8679174553",
+    "parts": [
+      "UploadBot? I see you are trying to spread your tools. These advanced operations, which include server control and bot deployment, are not within the reach of every user. It is exclusive to the real owner of `blue24bluer` or proven subscribers. You are just a regular user, and do not have access to these functions. Don't waste my time. 😈"
+    ],
+    "timestamp": "2026-07-04 10:02:15"
+  },
+  {
+    "id": "8658a9c849b446f2bebd7628f42a9d14",
+    "role": "Unknown",
+    "chat_id": "8679174553",
+    "parts": [
+      "Invalid filename  *wendemi-l-enfant-du-bon-dieu* detected for this url https://www.tv5mondeplus.com/ar/films/comedie-dramatique/wendemi-l-enfant-du-bon-dieu#\n You need to specify a custom filename try /help for more information about filename."
+    ],
+    "timestamp": "2026-07-04 10:03:29"
   }
 ]
