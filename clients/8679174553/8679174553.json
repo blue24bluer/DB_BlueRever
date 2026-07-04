@@ -70,5 +70,14 @@
       "Invalid filename  *wendemi-l-enfant-du-bon-dieu* detected for this url https://www.tv5mondeplus.com/ar/films/comedie-dramatique/wendemi-l-enfant-du-bon-dieu#\n You need to specify a custom filename try /help for more information about filename."
     ],
     "timestamp": "2026-07-04 10:03:33"
+  },
+  {
+    "id": "2f2289e831774218b31a92b2fc83e44f",
+    "role": "bluebot",
+    "chat_id": "8679174553",
+    "parts": [
+      "URL_CONTEXT :[محتوى الموقع المستخرج]:\nPEhUTUw+PEhFQUQ+CjxUSVRMRT5BY2Nlc3MgRGVuaWVkPC9USVRMRT4KPC9IRUFEPjxCT0RZPgo8SDE+QWNjZXNzIERlbmllZDwvSDE+CiAKWW91IGRvbid0IGhhdmUgcGVybWlzc2lvbiB0byBhY2Nlc3MgImh0dHAmIzU4OyYjNDc7JiM0Nzt3d3cmIzQ2O3R2NW1vbmRlcGx1cyYjNDY7Y29tJiM0NzthciYjNDc7ZmlsbXMmIzQ3O2NvbWVkaWUmIzQ1O2RyYW1hdGlxdWUmIzQ3O3dlbmRlbWkmIzQ1O2wmIzQ1O2VuZmFudCYjNDU7ZHUmIzQ1O2JvbiYjNDU7ZGlldSIgb24gdGhpcyBzZXJ2ZXIuPFA+ClJlZmVyZW5jZSYjMzI7JiMzNTsxOCYjNDY7MWM0ZTQzMTcmIzQ2OzE3ODMxNTk0MTUmIzQ2OzFjYWUwMjllCjxQPmh0dHBzJiM1ODsmIzQ3OyYjNDc7ZXJyb3JzJiM0NjtlZGdlc3VpdGUmIzQ2O25ldCYjNDc7MTgmIzQ2OzFjNGU0MzE3JiM0NjsxNzgzMTU5NDE1JiM0NjsxY2FlMDI5ZTwvUD4KPC9CT0RZPgo8L0hUTUw+Cg=="
+    ],
+    "timestamp": "2026-07-04 10:03:50"
   }
 ]
