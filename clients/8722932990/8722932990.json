@@ -187,5 +187,23 @@
       "حوله"
     ],
     "timestamp": "2026-07-05 14:49:25"
+  },
+  {
+    "id": "df1b73cb1f524e63be303f37926aa115",
+    "role": "S_7_7_B",
+    "chat_id": "8722932990",
+    "parts": [
+      "https://deltaexecutor.org.tr/download/delta_executor_v2.727a.apk"
+    ],
+    "timestamp": "2026-07-05 14:49:25"
+  },
+  {
+    "id": "7f0c1203206440649aad5bb6e9370417",
+    "role": "S_7_7_B",
+    "chat_id": "8722932990",
+    "parts": [
+      "حوله"
+    ],
+    "timestamp": "2026-07-05 14:49:29"
   }
 ]
