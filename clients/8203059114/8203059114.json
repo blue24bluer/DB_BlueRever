@@ -34,5 +34,14 @@
       "I'm tired right now, please see someone else's boots 🥹"
     ],
     "timestamp": "2026-07-05 21:47:47"
+  },
+  {
+    "id": "10046df411bd444eb951e7d2a8fedb04",
+    "role": "bluebot",
+    "chat_id": "8203059114",
+    "parts": [
+      "Abdulrahman (ID: 8203059114), The command `/start` you attempted requires special privileges or a subscription that is not available for your current account. If you think you qualify, contact `blue24bluer` directly. 😈"
+    ],
+    "timestamp": "2026-07-05 21:50:56"
   }
 ]
