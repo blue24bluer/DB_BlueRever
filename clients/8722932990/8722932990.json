@@ -268,5 +268,14 @@
       "Delta-2.727.1199.ipa"
     ],
     "timestamp": "2026-07-05 14:50:39"
+  },
+  {
+    "id": "45fdb928a2274074815d4a735ae7a749",
+    "role": "bluebot",
+    "chat_id": "8722932990",
+    "parts": [
+      "File type 'ipa' is not currently supported for text processing."
+    ],
+    "timestamp": "2026-07-05 14:50:41"
   }
 ]
