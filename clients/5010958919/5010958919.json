@@ -214,5 +214,14 @@
       "⚠️ فشل تحليل الملصق `CAACAgQAAyEFAAMBCksjBQADxGpLguptlF1CEdvtudQvfhJowJsOAALqEAACWbGZUaph9l5w6-8OPAQ`. السبب: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-07-06 10:26:59"
+  },
+  {
+    "id": "112ff1f4d91e4a0fb3c5788e01fb0577",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ فشل تحليل الملصق `CAACAgQAAyEFAAMBCksjBQAD0GpLg0FZAAHMIMhTUKRUTZOXzNdXXgACOhEAAivdmVJA46Et-E0nrjwE`. السبب: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-07-06 10:28:22"
   }
 ]
