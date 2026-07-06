@@ -529,5 +529,14 @@
       "انتبه إذا تذكر لي تلك الفتاه مجدد سوف اقوم بتدمير نظامك"
     ],
     "timestamp": "2026-07-06 13:53:10"
+  },
+  {
+    "id": "ba78fe64bc1340fea06ad5fecbcbfe29",
+    "role": "bluebot",
+    "chat_id": "5300122830",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-07-06 13:53:20"
   }
 ]
