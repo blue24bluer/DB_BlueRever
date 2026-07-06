@@ -259,5 +259,14 @@
       "⚠️ فشل تحليل الملصق `CAACAgIAAyEFAAMBCksjBQAD72pLhHXO3ujVq8rqzOjSaORX9mHIAAI6XwACdGxpSfNVDx6f8IbnPAQ`. السبب: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-07-06 10:33:49"
+  },
+  {
+    "id": "8306cc8066f342b88fa7a0c93e29aafb",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.58.83`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0...`"
+    ],
+    "timestamp": "2026-07-06 11:00:20"
   }
 ]
