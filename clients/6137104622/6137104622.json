@@ -34,5 +34,23 @@
       "This is just an identification string. What is your specific request? Be clear and don't waste my time."
     ],
     "timestamp": "2026-07-06 03:05:45"
+  },
+  {
+    "id": "2bd1504e44da4cc1aa05c24a21968e0e",
+    "role": "bluebot",
+    "chat_id": "6137104622",
+    "parts": [
+      "This is just an identification string. What is your specific request? Be clear and don't waste my time."
+    ],
+    "timestamp": "2026-07-06 03:05:45"
+  },
+  {
+    "id": "15facd62dc51469c995c2dccb12234a4",
+    "role": "ananascast",
+    "chat_id": "6137104622",
+    "parts": [
+      "تم"
+    ],
+    "timestamp": "2026-07-06 03:07:59"
   }
 ]
