@@ -1,0 +1,3 @@
+Username: Unknown
+Chat ID: 5300122830
+Blocked: True
