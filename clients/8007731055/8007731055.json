@@ -700,5 +700,14 @@
       "https://massarservice.men.gov.ma/\nشنهي صفحة أدمين لي مواقع ديلي"
     ],
     "timestamp": "2026-07-07 15:26:20"
+  },
+  {
+    "id": "8e57590172fd4b618c83e5e66f81d2df",
+    "role": "bluebot",
+    "chat_id": "8007731055",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل سحب محتويات الموقع."
+    ],
+    "timestamp": "2026-07-07 15:26:49"
   }
 ]
