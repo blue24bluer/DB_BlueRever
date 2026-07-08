@@ -475,5 +475,14 @@
       "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.58.106`\n🔍 **Fingerprint:** `wm_8be30bcac5e0`\n✅ **Verified identity data:**\n📱 Phone number: `Webmaster Auth`\n🆔 Telegram ID: `wm_8be30bcac5e0`\n👤 Registered name: `api_user_wm_8be30`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0...`"
     ],
     "timestamp": "2026-07-08 18:26:43"
+  },
+  {
+    "id": "131885f325da4d828e287115a1f0581c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "[ERR_TG]: local variable 'time' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 27779, in process_telegram_message_async\n    OWNER_LAST_ACTIVE_TIME = time.time()\nUnboundLocalError: local variable 'time' referenced before assignment\n"
+    ],
+    "timestamp": "2026-07-08 19:16:29"
   }
 ]
