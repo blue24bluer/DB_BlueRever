@@ -457,5 +457,14 @@
       "[ERR_TG]: local variable 'datetime' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 28152, in process_telegram_message_async\n    current_time = datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\nUnboundLocalError: local variable 'datetime' referenced before assignment"
     ],
     "timestamp": "2026-07-08 18:24:02"
+  },
+  {
+    "id": "c2dfb5fae3cd4456b70a772f12dbcaae",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "The server is currently under maintenance, please wait or contact admin @blue24bluer"
+    ],
+    "timestamp": "2026-07-08 18:24:04"
   }
 ]
