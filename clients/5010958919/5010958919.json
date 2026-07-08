@@ -421,5 +421,14 @@
       "⚠️ فشل تحليل الملصق `CAACAgIAAyEFAAMBCksjBQACAa5qTjoJk6QH9_2-3gMjLdA_X3BhYwACpXQAAlbkCEt7hiil9TM_fjwE`. السبب: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-07-08 11:52:46"
+  },
+  {
+    "id": "a87da808f11d4078b1ae8d46c045782c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "[ERR_TG]: local variable 'datetime' referenced before assignment\nFull Traceback:\nTraceback (most recent call last):\n  File \"/home/bluewebtest/BlueRever.py\", line 28152, in process_telegram_message_async\n    current_time = datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\nUnboundLocalError: local variable 'datetime' referenced before assignment\n"
+    ],
+    "timestamp": "2026-07-08 13:08:03"
   }
 ]
