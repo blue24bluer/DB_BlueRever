@@ -358,5 +358,14 @@
       "⚠️ فشل تحليل الملصق `CAACAgIAAyEFAAMBCksjBQACATlqTjTCBFqoDZowGrRRmZcORj5d_gACD3UAAgaa8Uhd1gJISaptPDwE`. السبب: `PROCESSING_ERROR`."
     ],
     "timestamp": "2026-07-08 11:30:21"
+  },
+  {
+    "id": "4714769bef3f44a8856781338ae46039",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ **API Key Rotation Alert** ⚠️\n🚫 Key Index `0` failed/rotated.\n🔄 Switched to Key Index `1`."
+    ],
+    "timestamp": "2026-07-08 11:31:21"
   }
 ]
