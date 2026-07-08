@@ -466,5 +466,14 @@
       "The server is currently under maintenance, please wait or contact admin @blue24bluer"
     ],
     "timestamp": "2026-07-08 18:24:04"
+  },
+  {
+    "id": "83dd03dbaa7242b880f3cd333abf2ab5",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **Security alert: Attempt to access the control panel**\n━━━━━━━━━━━━━━━━━━\n🚦 **Status:** ✅ SUCCESS\n📌 **Type:** `Owner Login`\n👤 **User ID:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.58.106`\n🔍 **Fingerprint:** `wm_8be30bcac5e0`\n✅ **Verified identity data:**\n📱 Phone number: `Webmaster Auth`\n🆔 Telegram ID: `wm_8be30bcac5e0`\n👤 Registered name: `api_user_wm_8be30`\n📱 **Browser:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0...`"
+    ],
+    "timestamp": "2026-07-08 18:26:43"
   }
 ]
