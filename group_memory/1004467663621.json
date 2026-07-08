@@ -2,12 +2,6 @@
   {
     "user_id": -1004467663621,
     "username": "r",
-    "text": "كليزق",
-    "timestamp": "2026-07-08T11:45:13.423431"
-  },
-  {
-    "user_id": -1004467663621,
-    "username": "r",
     "text": "بعدين مافيه ام زهره",
     "timestamp": "2026-07-08T11:45:15.591483"
   },
@@ -598,5 +592,11 @@
     "username": "r",
     "text": "انشهد",
     "timestamp": "2026-07-08T11:51:51.390010"
+  },
+  {
+    "user_id": -1004467663621,
+    "username": "bluebot",
+    "text": "Analyzed sticker (Emoji: None): Frame 1/1: A cartoonish yellow emoji face is depicted, with its mouth wide open and emitting a large stream of bright green, viscous liquid. The emoji has exaggerated, downward-curving eyebrows and eyes that appear to be X-shaped, suggesting sickness or disgust. Small, colorful specks are visible within the green vomit. The overall impression is of an emoji experiencing extreme nausea or vomiting.",
+    "timestamp": "2026-07-08T11:52:27.237927"
   }
 ]
