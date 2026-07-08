@@ -367,5 +367,14 @@
       "⚠️ **API Key Rotation Alert** ⚠️\n🚫 Key Index `0` failed/rotated.\n🔄 Switched to Key Index `1`."
     ],
     "timestamp": "2026-07-08 11:31:21"
+  },
+  {
+    "id": "a751e1a9baaa4719b4396b3a582b2238",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ فشل تحليل الملصق `CAACAgQAAyEFAAMBCksjBQADsmpLf4_G4SvzQY75oVNMB_AZ_RToAAKhLQACjdAAAVHCOlQLBzooBTwE`. السبب: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-07-08 11:31:43"
   }
 ]
