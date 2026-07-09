@@ -556,5 +556,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.56.36`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0...`"
     ],
     "timestamp": "2026-07-09 05:58:21"
+  },
+  {
+    "id": "9585ef6f1c6d4cd0a678bca6d0d49497",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "https://t.me/BlueRever_official/1573"
+    ],
+    "timestamp": "2026-07-09 06:03:43"
   }
 ]
