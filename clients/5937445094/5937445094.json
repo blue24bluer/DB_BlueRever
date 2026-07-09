@@ -1060,5 +1060,14 @@
       "Can u give ma answer"
     ],
     "timestamp": "2026-07-09 18:50:36"
+  },
+  {
+    "id": "c4fa7479734e4e109167189eba214245",
+    "role": "Unknown",
+    "chat_id": "5937445094",
+    "parts": [
+      "Are u a bot or a human ??"
+    ],
+    "timestamp": "2026-07-09 18:50:52"
   }
 ]
