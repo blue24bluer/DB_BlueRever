@@ -799,5 +799,14 @@
       "https://t.me/punjabi_sapp/1058?single"
     ],
     "timestamp": "2026-07-09 18:44:03"
+  },
+  {
+    "id": "a1ac4e4ef9a44978ac0b314a974a921b",
+    "role": "bluebot",
+    "chat_id": "5937445094",
+    "parts": [
+      "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nتحليل الفيديو لم يكتمل. فشلت جميع محاولات معالجة الإطارات المرئية، كما تعذر فهم أي كلام في المقطع الصوتي. لا يمكنني تقديم ملخص لمحتوى لم أتمكن من استخلاصه."
+    ],
+    "timestamp": "2026-07-09 18:44:05"
   }
 ]
