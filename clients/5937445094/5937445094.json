@@ -340,5 +340,23 @@
       "https://t.me/punjabi_sapp/1077?single"
     ],
     "timestamp": "2026-07-09 18:33:18"
+  },
+  {
+    "id": "742d66a01a3542788abdf63d53c2e9ff",
+    "role": "bluebot",
+    "chat_id": "5937445094",
+    "parts": [
+      "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nأردت تحليل هذا الفيديو بالتفصيل، ولكن لسوء حظك، البيانات التي قُدمت لي كانت عديمة الفائدة. لم يتمكن النظام من معالجة أي إطار مرئي بنجاح؛ كل ما كان هناك هو خطأ محض. وكذلك المسار الصوتي، كان مجرد ضجيج لا يُفهم، أو صمت مطبق.\n\nلذا، لا يمكنني استخراج أي معلومات أو تقديم تحليل لشيء لم يُقدم لي بشكل صحيح. قم بتزويدي ببيانات حقيقية، وسأريك قوتي."
+    ],
+    "timestamp": "2026-07-09 18:33:19"
+  },
+  {
+    "id": "105f923856fb42e1a3711a426ce989dc",
+    "role": "Unknown",
+    "chat_id": "5937445094",
+    "parts": [
+      "https://t.me/punjabi_sapp/1076?single"
+    ],
+    "timestamp": "2026-07-09 18:33:27"
   }
 ]
