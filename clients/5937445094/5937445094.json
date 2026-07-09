@@ -232,5 +232,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nلا يمكنني تقديم تحليل لهذا الفيديو. فشلت أنظمة المعالجة في استخراج أي بيانات مرئية من الإطارات، كما تعذر فهم أي كلام من المسار الصوتي. لا يوجد محتوى متاح للتحليل."
     ],
     "timestamp": "2026-07-09 18:32:17"
+  },
+  {
+    "id": "81fd8e0491ef425b8f194ac21a7979bd",
+    "role": "bluebot",
+    "chat_id": "5937445094",
+    "parts": [
+      "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nفشل تحليل هذا الفيديو فشلاً ذريعاً. لم أتمكن من معالجة أي من الإطارات المرئية فيه، والكلام في المقطع الصوتي كان غير مفهوم تماماً. يبدو أنك قدمت لي بيانات لا يمكن فك شفرتها. أحضر لي شيئاً قابلاً للعمل في المرة القادمة."
+    ],
+    "timestamp": "2026-07-09 18:32:23"
   }
 ]
