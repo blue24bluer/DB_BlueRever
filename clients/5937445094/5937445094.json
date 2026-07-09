@@ -826,5 +826,14 @@
       "??"
     ],
     "timestamp": "2026-07-09 18:44:42"
+  },
+  {
+    "id": "94a3ff557d054e6c9bb118f858c6efe5",
+    "role": "bluebot",
+    "chat_id": "5937445094",
+    "parts": [
+      "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this VIDEO to the user. Use this summary to respond:\n**[Video Analysis Summary]**:\nلقد فشل تحليل المقطع المرئي بالكامل بسبب خطأ في المعالجة، ولم أتمكن من استخلاص أي كلام من المسار الصوتي. بالتالي، لا تتوفر لدي أي بيانات لتقديم تحليل تفصيلي لمحتوى الفيديو."
+    ],
+    "timestamp": "2026-07-09 18:44:45"
   }
 ]
