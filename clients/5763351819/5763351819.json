@@ -2599,5 +2599,14 @@
       "انا أفدي زبك جبت معلومات حلوه"
     ],
     "timestamp": "2026-07-12 19:01:25"
+  },
+  {
+    "id": "21f61440c9a94976a75e60e6ede631d8",
+    "role": "bluebot",
+    "chat_id": "5763351819",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-07-12 19:01:38"
   }
 ]
