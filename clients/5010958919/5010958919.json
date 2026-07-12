@@ -772,5 +772,14 @@
       "✅ `5300122830` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
     ],
     "timestamp": "2026-07-12 19:28:37"
+  },
+  {
+    "id": "7ba60b865855462abd6fbb4ef615085d",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ Failed to parse label `CAACAgQAAxkBAAEGgf5qVALJlQQy23yTckd-qM9PuEki8AACsA8AAgjcSVGDWNblVS0ELjwE`. Reason: `PROCESSING_ERROR`."
+    ],
+    "timestamp": "2026-07-12 21:10:37"
   }
 ]
