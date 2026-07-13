@@ -385,5 +385,14 @@
       "🎨 جاري تحضير اللوحة الفنية..."
     ],
     "timestamp": "2026-07-13 20:03:11"
+  },
+  {
+    "id": "a2e17136e8794e9c86db7bdfbc157239",
+    "role": "bluebot",
+    "chat_id": "5763351819",
+    "parts": [
+      "[SYSTEM: Generated Image] Visual Content: A photorealistic image of an Amyl Nitrite ampoule. Close-up, macro shot, isolated on a clean white background. The small glass ampoule contains a clear, colorless to pale yellow liquid. Well-lit, sharp focus, professional studio photography. High detail."
+    ],
+    "timestamp": "2026-07-13 20:03:23"
   }
 ]
