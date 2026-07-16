@@ -1069,5 +1069,14 @@
       "✅ **تحديث الأنظمة اكتمل!**\nلقد قمت بحقن قاعدة منطقية جديدة في مرحلة `end`.\n\n📄 **الشيفرة المصدرية:**\n```python\ntarget_user_id = \"8926166490\"\n\nif is_admin(user_id):\n    audit_log(f\"Admin {user_id} reinforced administrative status for user {target_user_id}.\", level=\"SEC\")\n    send_text(chat_id, f\"✅ Noted: User {target_user_id} is recognized for their administrative capacity. The system will ensure proper consideration.\")\n    save_to_memory(f\"user_status_{target_user_id}\", {\"role\": \"admin_recognized\", \"set_by\": user_id, \"timestamp\": timestamp})\nelse:\n    print_log(f\"Unauthorized attempt by {user_id} to modify user status for {target_user_id}\", level=\"WARNING\")\n    restrict_user(user_id, 24, \"Unauthorized attempt to assign administrative consideration.\")\n    send_text(chat_id, \"❌ Access Denied. Only administrators can confirm or modify user roles.\")\n```"
     ],
     "timestamp": "2026-07-15 20:10:03"
+  },
+  {
+    "id": "53b824ec322d480288b9f00f519a0b54",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `87.251.25.23`\n🔍 **البصمة:** `4c4795007fe2dba943c4d6c3960c5641c088f8a63d447c8efa5490f2d088bb03`\n⚠️ **هوية غير معروفة (زائر غير موثق)**\n📱 **المتصفح:** `Mozilla/5.0 (Linux; Android 12; moto g stylus 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.61 Mobile Safari/537.36...`"
+    ],
+    "timestamp": "2026-07-16 03:45:32"
   }
 ]
