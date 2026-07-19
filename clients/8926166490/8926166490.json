@@ -394,5 +394,14 @@
       "⚡ **نظام التنفيذ:** يتم الآن تنفيذ الأمر بشكل سطحي في الخلفية..."
     ],
     "timestamp": "2026-07-19 00:58:01"
+  },
+  {
+    "id": "20eeaa139bbc470eb47fa0a15d0cc1e1",
+    "role": "bluebot",
+    "chat_id": "8926166490",
+    "parts": [
+      "حدث خطأ فادح أثناء معالجة طلبك. : [Errno 2] No usable temporary directory found in ['/tmp', '/var/tmp', '/usr/tmp', '/home/bluewebtest']"
+    ],
+    "timestamp": "2026-07-19 00:58:02"
   }
 ]
