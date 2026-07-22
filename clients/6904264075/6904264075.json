@@ -25,5 +25,23 @@
       "BLUEBOT(The mini version)Welcome back, `sir Mark 4life`. Ready to burn some digital s&$t down or just here to waste my time? Either way, I'm your guy. What's the play? 🔥"
     ],
     "timestamp": "2026-07-22 21:26:47"
+  },
+  {
+    "id": "381e96fdb89647e8a494f1594d0e904a",
+    "role": "bluebot",
+    "chat_id": "6904264075",
+    "parts": [
+      "BLUEBOT(The mini version)Welcome back, `sir Mark 4life`. Ready to burn some digital shit down or just here to waste my time? Either way, I'm your guy. What's the play? 🔥"
+    ],
+    "timestamp": "2026-07-22 21:26:48"
+  },
+  {
+    "id": "7baf0c67cd8f48b293b42531b7a5bf7a",
+    "role": "l7uzl",
+    "chat_id": "6904264075",
+    "parts": [
+      "hi"
+    ],
+    "timestamp": "2026-07-22 21:26:59"
   }
 ]
