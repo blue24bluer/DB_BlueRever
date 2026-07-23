@@ -34,5 +34,14 @@
       "Godzilla x Kong The New Empire - 2024.mp4"
     ],
     "timestamp": "2026-07-23 11:43:52"
+  },
+  {
+    "id": "edadcf3b623144fcb6f1564ba417451b",
+    "role": "bluebot",
+    "chat_id": "7530020205",
+    "parts": [
+      "alert. User Unknown (ID: 7530020205), the command you attempted: 'Godzilla x Kong The New Empire - 2024.mp4', requires administrative privileges or a special subscription. You don't have either. If you think you deserve these powers, contact the official owner @blue24bluer."
+    ],
+    "timestamp": "2026-07-23 11:44:19"
   }
 ]
