@@ -43,5 +43,23 @@
       "/start"
     ],
     "timestamp": "2026-07-24 23:37:07"
+  },
+  {
+    "id": "7734bdb051164596b9c60730a9446520",
+    "role": "AS_kvx",
+    "chat_id": "7330140263",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-24 23:37:07"
+  },
+  {
+    "id": "626b3820a45a4263aced00eeadff715b",
+    "role": "AS_kvx",
+    "chat_id": "7330140263",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-24 23:37:07"
   }
 ]
