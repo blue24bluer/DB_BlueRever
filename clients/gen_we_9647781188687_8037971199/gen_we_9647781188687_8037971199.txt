@@ -1,0 +1,4 @@
+Username: aaaaaanee
+Chat ID: gen_we_9647781188687_8037971199
+phone: 9647781188687
+verified: True
