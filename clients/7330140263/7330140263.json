@@ -25,5 +25,23 @@
       "/start"
     ],
     "timestamp": "2026-07-24 23:37:06"
+  },
+  {
+    "id": "08919a8afeef426b88c327706813c255",
+    "role": "AS_kvx",
+    "chat_id": "7330140263",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-24 23:37:06"
+  },
+  {
+    "id": "02af1a067526481a9f3a7f0bf375933d",
+    "role": "AS_kvx",
+    "chat_id": "7330140263",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-24 23:37:07"
   }
 ]
