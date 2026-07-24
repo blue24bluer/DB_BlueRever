@@ -142,5 +142,14 @@
       "يقواد"
     ],
     "timestamp": "2026-07-24 05:13:57"
+  },
+  {
+    "id": "a3c5016f78344f03ac38e41cc7e5dc6a",
+    "role": "bluebot",
+    "chat_id": "8012811401",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-07-24 05:14:07"
   }
 ]
