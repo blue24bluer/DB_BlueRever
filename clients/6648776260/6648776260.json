@@ -1933,5 +1933,14 @@
       "انا عاهرتك"
     ],
     "timestamp": "2026-07-26 02:58:28"
+  },
+  {
+    "id": "325beaf221ad4a5a977ba992a341587e",
+    "role": "bluebot",
+    "chat_id": "6648776260",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-07-26 02:58:36"
   }
 ]
