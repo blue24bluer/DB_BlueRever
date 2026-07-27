@@ -268,5 +268,14 @@
       "You are useless"
     ],
     "timestamp": "2026-07-27 05:21:37"
+  },
+  {
+    "id": "8275d8919c67473989659f0cb9b240fa",
+    "role": "bluebot",
+    "chat_id": "8499768343",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-07-27 05:21:50"
   }
 ]
