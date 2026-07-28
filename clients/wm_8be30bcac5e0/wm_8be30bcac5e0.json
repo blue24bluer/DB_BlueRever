@@ -16,5 +16,14 @@
       "```hello\r\n```"
     ],
     "timestamp": "2026-07-28 05:12:21"
+  },
+  {
+    "id": "34894780ebc94ce488bc151648357edf",
+    "role": "bluebot",
+    "chat_id": "wm_8be30bcac5e0",
+    "parts": [
+      "أهلاً بك يا `web_user_wm_8be30`! كيف يمكنني مساعدتك اليوم؟ 😊"
+    ],
+    "timestamp": "2026-07-28 05:13:33"
   }
 ]
