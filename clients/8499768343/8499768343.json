@@ -286,5 +286,14 @@
       "🚫 You have been banned from using this bot."
     ],
     "timestamp": "2026-07-27 05:22:07"
+  },
+  {
+    "id": "883b385a9d514fb68ddea81709e9cda1",
+    "role": "bluebot",
+    "chat_id": "8499768343",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
+    ],
+    "timestamp": "2026-07-28 16:12:56"
   }
 ]
