@@ -220,5 +220,11 @@
     "username": "bluebot",
     "text": "⚠️ يجب طرد BlueRever Main لكن البوت لا يملك صلاحية الحظر (Ban Users).",
     "timestamp": "2026-07-24T08:09:20.844273"
+  },
+  {
+    "user_id": -1001615733999,
+    "username": "BlueRever (Main)",
+    "text": "☣️ BlueVenom — C2 & Payload Generator\nBlueVenom هو إطار عمل متقدم للأمن السيبراني والـRed Teaming، يجمع بين C2 (Command & Control) وPayload Generation في منصة واحدة.\nيدعم المشروع بناء حمولات متعددة المنصات مثل:\n🪟 Windows\n🐧 Linux / Termux\n🤖 Android\nويضم لوحة تحكم C2 لإدارة الأجهزة المتصلة، استقبال النتائج، إرسال الأوامر، ومتابعة الأحداث بشكل مباشر.\nكما يتضمن المشروع:\n• 🌐 قنوات اتصال متعددة مثل TCP وHTTP/HTTPS وUDP\n• 🔗 إمكانية التواصل بين الأجهزة عبر BlueNet\n• 🧠 تكامل مع الذكاء الاصطناعي لتحليل CVE والـExploits\n• 🛡 تقنيات Obfuscation وEvasion\n• ⚙️ Cross-Compilation بين Windows وLinux\n• 📱 أدوات متخصصة لبناء واختبار حمولات Android\nباختصار، BlueVenom يحاول جمع دورة عمل الـRed Teaming من بناء الـPayload إلى الاتصال والإدارة داخل إطار واحد.\n\n🔗 GitHub:\nhttps://github.com/blue24bluer/bluevenom\nDeveloped by @blue24bluer",
+    "timestamp": "2026-07-29T13:22:57.980540"
   }
 ]
