@@ -1492,5 +1492,23 @@
       "/start"
     ],
     "timestamp": "2026-07-29 11:08:29"
+  },
+  {
+    "id": "278ea28bcb3446658fd4dd0f4b7de739",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "?"
+    ],
+    "timestamp": "2026-07-29 11:08:29"
+  },
+  {
+    "id": "437462a881264ae3b9e0b498b5e9428c",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-29 11:08:30"
   }
 ]
