@@ -1465,5 +1465,32 @@
       "Hello how do to subdomain so as I can hide my link domain I bought from spaceship"
     ],
     "timestamp": "2026-07-29 11:08:28"
+  },
+  {
+    "id": "4e5556af2065480d8a9243e40ec275a6",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-29 11:08:29"
+  },
+  {
+    "id": "9ac4c99746fb4b968ef5fa9f57d60d3f",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "Hello"
+    ],
+    "timestamp": "2026-07-29 11:08:29"
+  },
+  {
+    "id": "8a224a1faefd42c0b06267ebad39df21",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-07-29 11:08:29"
   }
 ]
