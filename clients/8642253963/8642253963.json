@@ -34,5 +34,23 @@
       "Listen carefully, `Aashishanmol_` (ID: 8642253963). The command you tried to execute, '/start', requires special privileges that you do not have. Access to these functions is only available to subscribers or those with direct authorization. If you believe you qualify, contact the sole proprietor, `blue24bluer`, to rectify your situation. Don't try to exceed your limits again. 💢"
     ],
     "timestamp": "2026-07-31 11:27:20"
+  },
+  {
+    "id": "fc8b54dbe996422790fad81ddb5191f6",
+    "role": "Unknown",
+    "chat_id": "8642253963",
+    "parts": [
+      "English"
+    ],
+    "timestamp": "2026-07-31 11:27:21"
+  },
+  {
+    "id": "452d63251e7f48c99c34af0edb102a4d",
+    "role": "bluebot",
+    "chat_id": "8642253963",
+    "parts": [
+      "Understood, `Aashishanmol_`. Your preference for English communication is now the established protocol. All further interactions will proceed in this language. Now, cease this triviality and state your next objective. 😈"
+    ],
+    "timestamp": "2026-07-31 11:27:40"
   }
 ]
