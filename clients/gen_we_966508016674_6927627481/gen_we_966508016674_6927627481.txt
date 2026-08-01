@@ -1,0 +1,4 @@
+Username: Unknown
+Chat ID: gen_we_966508016674_6927627481
+phone: 966508016674
+verified: True
