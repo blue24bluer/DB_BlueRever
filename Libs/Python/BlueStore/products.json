@@ -105,7 +105,7 @@
   {
     "img": "https://dso8.raed.net:455/files/ChatGPT-Image-23-%D9%8A%D9%88%D9%84%D9%8A%D9%88-2025%D8%8C-02-27-02-%D9%85.png",
     "dec": "BlueBot",
-    "price": 30.0,
+    "price": 40.0,
     "badge": "Dark Ai-Agent with tools!",
     "category": "Tools",
     "about": "Bluebot is an artificial intelligence model capable of executing commands, scanning systems, and controlling a group of smaller bots. It can smoothly and accurately control targets without requiring user intervention. It can build, run, and distribute viruses to targets already connected to the C2Panel (\"BlueVenom\").\r\n\r\nSource Code: $40\r\nSource code price (FULL MOUDELS): $120\r\nMonthly subscription price: $5\r\nAnnual subscription price: $10",
