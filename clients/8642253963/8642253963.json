@@ -160,5 +160,14 @@
       "📹 22 July 2026 →\n👤 #100_SUBSCRIBE_KAR_DO_DOSTO →\n\n@allsavers_bot: 📹 360p"
     ],
     "timestamp": "2026-08-02 05:28:38"
+  },
+  {
+    "id": "2327fe72eb1644cd82388683fb8c5515",
+    "role": "bluebot",
+    "chat_id": "8642253963",
+    "parts": [
+      "Failed to save video from Telegram."
+    ],
+    "timestamp": "2026-08-02 05:28:39"
   }
 ]
