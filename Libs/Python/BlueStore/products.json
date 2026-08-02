@@ -240,9 +240,11 @@
   {
     "img": "https://repository-images.githubusercontent.com/940345031/bffd11bc-8f39-44ac-bd6a-ffcb35e76b09",
     "dec": "Raton Rat",
-    "price": 20.0,
+    "price": 3.0,
     "badge": "",
-    "category": "Tools"
+    "category": "Tools",
+    "about": "",
+    "link": ""
   },
   {
     "img": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6edb60356e76ab7c/64f17dfa71df629e5482ac85/android_rafapress_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
