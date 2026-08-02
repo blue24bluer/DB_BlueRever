@@ -80,7 +80,7 @@
   {
     "img": "https://www.cobaltstrike.com/app/uploads/2023/01/cobaltstrike_ssh2.png",
     "dec": "Cobalt Strike",
-    "price": 12.0,
+    "price": 5.0,
     "badge": "",
     "category": "Tools",
     "about": "✅ What Cobalt Strike Is\r\n\r\nCobalt Strike is a commercial adversary-simulation and red-team platform used to test security controls and simulate real-world attacker behaviors.\r\nIt supports post-exploitation actions, command execution, lateral movement, and team-based operations.\r\n",
