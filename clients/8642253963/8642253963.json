@@ -241,5 +241,23 @@
       "Hi"
     ],
     "timestamp": "2026-08-02 05:34:19"
+  },
+  {
+    "id": "cd1d34942cbf4e949949d5c0d8387699",
+    "role": "Unknown",
+    "chat_id": "8642253963",
+    "parts": [
+      "📥 Downloaded via @Allsaverbotbot_bot"
+    ],
+    "timestamp": "2026-08-02 05:34:19"
+  },
+  {
+    "id": "b07f71ae09f84c42a987ee7697459c64",
+    "role": "bluebot",
+    "chat_id": "8642253963",
+    "parts": [
+      "Failed to save video from Telegram."
+    ],
+    "timestamp": "2026-08-02 05:34:20"
   }
 ]
