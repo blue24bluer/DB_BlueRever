@@ -272,9 +272,11 @@
   {
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi5pQMIS_2sj01gw_DyVM2rorhFDXpxuXyvgy4s_bq-ry6hllr4rr0ZaLPziTDQVgZhI&usqp=CAU",
     "dec": "Eagle Rat src",
-    "price": 300.0,
+    "price": 15.0,
     "badge": "safe with source code!!",
-    "category": "Tools"
+    "category": "Tools",
+    "about": "",
+    "link": ""
   },
   {
     "img": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/09/photodune-8965163-computer-files-s.jpg",
