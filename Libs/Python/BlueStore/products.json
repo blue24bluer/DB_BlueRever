@@ -233,9 +233,11 @@
   {
     "img": "https://cdn.dribbble.com/userupload/13955769/file/original-31260e939b7738205b72bcd08ebce773.png?resize=400x0",
     "dec": "Fighter Rat",
-    "price": 20,
+    "price": 3.0,
     "badge": "",
-    "category": "Tools"
+    "category": "Tools",
+    "about": "",
+    "link": ""
   },
   {
     "img": "https://repository-images.githubusercontent.com/940345031/bffd11bc-8f39-44ac-bd6a-ffcb35e76b09",
