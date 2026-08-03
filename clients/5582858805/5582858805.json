@@ -25,5 +25,14 @@
       "Ian, your attempt to execute command `/start` exceeds your current permissions. This procedure requires special subscription or direct permission from the administration. If you think you qualify, contact the makers of @blue24bluer to learn more."
     ],
     "timestamp": "2026-08-02 11:56:48"
+  },
+  {
+    "id": "5d107b55cbd847178c023cf62cc3da9c",
+    "role": "bluebot",
+    "chat_id": "5582858805",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
+    ],
+    "timestamp": "2026-08-03 11:57:03"
   }
 ]
