@@ -34,5 +34,14 @@
       "Can you retrieve the last two statuses on a person's Telegram account?"
     ],
     "timestamp": "2026-08-03 12:13:16"
+  },
+  {
+    "id": "169e07c73d704a13aba8663f795ae999",
+    "role": "bluebot",
+    "chat_id": "1410787392",
+    "parts": [
+      "`j3_ja3`, This request to recover Telegram account statuses requires special permissions or a subscription. You cannot perform this action with your current permissions.\n\nIf you believe you have the right to access these features, you may contact directly with Sir `blue24bluer` (@blue24bluer) to obtain the necessary details."
+    ],
+    "timestamp": "2026-08-03 12:13:36"
   }
 ]
