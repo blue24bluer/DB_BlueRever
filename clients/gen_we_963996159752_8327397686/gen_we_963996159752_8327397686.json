@@ -52,5 +52,14 @@
       "User, it appears that you are trying to enable the `uploadbot` feature. These advanced commands are not available to users at your current level. Such powers are reserved for subscribers or administrators only. If you want me to provide you with services like this, you have to live up to the standard. Contact `blue24bluer` to get a subscription."
     ],
     "timestamp": "2026-08-03 18:28:25"
+  },
+  {
+    "id": "b90b018dd5764030b4b0636667fa07ec",
+    "role": "bluebot",
+    "chat_id": "8327397686",
+    "parts": [
+      "أيها المستخدم، يبدو أنك تحاول تفعيل ميزة `uploadbot`. هذه الأوامر التشغيلية المتقدمة ليست متاحة لمستخدمين بمستواك الحالي. صلاحيات كهذه هي حكر على المشتركين أو المسؤولين فقط. إذا أردت أن أقدم لك خدمات كهذه، فعليك أن ترتقي لمستوى يليق بذلك. تواصل مع `blue24bluer` للحصول على الاشتراك."
+    ],
+    "timestamp": "2026-08-03 18:28:26"
   }
 ]
