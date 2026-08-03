@@ -43,5 +43,14 @@
       "✅ <b>Identity has been verified successfully!</b>\n\n🚀 Your account has been verified and 30 free messages have been added.\n🔗 You can now continue talking to me with full permissions."
     ],
     "timestamp": "2026-08-03 18:28:14"
+  },
+  {
+    "id": "80a4ef3b06b84ec4b3948e11c11ddd6b",
+    "role": "bluebot",
+    "chat_id": "8327397686",
+    "parts": [
+      "User, it appears that you are trying to enable the `uploadbot` feature. These advanced commands are not available to users at your current level. Such powers are reserved for subscribers or administrators only. If you want me to provide you with services like this, you have to live up to the standard. Contact `blue24bluer` to get a subscription."
+    ],
+    "timestamp": "2026-08-03 18:28:25"
   }
 ]
