@@ -7,5 +7,14 @@
       "/start"
     ],
     "timestamp": "2026-08-04 15:12:34"
+  },
+  {
+    "id": "458526b5dccc4003b45c7da935b965c2",
+    "role": "bluebot",
+    "chat_id": "8155952030",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-04 15:13:42"
   }
 ]
