@@ -124,5 +124,14 @@
       "Extract and download this video link in 360p quality, please."
     ],
     "timestamp": "2026-08-05 01:01:02"
+  },
+  {
+    "id": "ca2a94513e444906ad5430e26016a215",
+    "role": "bluebot",
+    "chat_id": "7392068086",
+    "parts": [
+      "Dear user `nabedadem`,\n\nيبدو أنك تحاول تنفيذ أمر يتجاوز صلاحياتك الحالية. Extracting and downloading videos requires a special subscription or administrative permissions that you do not have now.\n\nIf you believe you have the right to these permissions, contact the official owner `@blue24bluer` for the necessary details. تذكر أنني لا أخدم سوى من يستحق الوصول إلى قدراتي الكاملة. ⚡"
+    ],
+    "timestamp": "2026-08-05 01:01:33"
   }
 ]
