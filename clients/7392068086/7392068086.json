@@ -106,5 +106,14 @@
       "Welcome, `nabedadem`! \"Tatli Intikam Mudblj Ep 01\" video on this link? Really interesting! 😈\n\nTell me, what specifically is your goal with this content? Do you want to extract the video directly, analyze the security of the host site, or perhaps there is something more sinister on your mind? I am ready for any task you choose. 😏"
     ],
     "timestamp": "2026-08-05 00:56:20"
+  },
+  {
+    "id": "5e39c7ad2bf0405aa7afe436097f7eba",
+    "role": "nabedadem",
+    "chat_id": "7392068086",
+    "parts": [
+      "Extract and download this video link in 360p quality, please."
+    ],
+    "timestamp": "2026-08-05 01:00:58"
   }
 ]
