@@ -1,29 +1,11 @@
 [
   {
-    "id": "598d823c940d437aaa7c522387fe949e",
-    "role": "Unknown",
+    "id": "cc6c9b7e64234185b2faf8b603f9cbd9",
+    "role": "bluebot",
     "chat_id": "7837180634",
     "parts": [
-      "/start"
+      "Hey, you. This Telegram link came to me clearly. What exactly do you want me to do with this link? Is it content analysis, data mining, or are you planning something more sinister? Be direct, time is precious. 😈"
     ],
-    "timestamp": "2026-08-06 09:37:36"
-  },
-  {
-    "id": "e57af64a2be24a939dc9794eabed9be9",
-    "role": "Unknown",
-    "chat_id": "7837180634",
-    "parts": [
-      "https://t.me/Doku_02/189?single"
-    ],
-    "timestamp": "2026-08-06 09:37:40"
-  },
-  {
-    "id": "ffe0f25695c049b4bc3ee09fe77b1a40",
-    "role": "Unknown",
-    "chat_id": "7837180634",
-    "parts": [
-      "https://t.me/Doku_02/189?single"
-    ],
-    "timestamp": "2026-08-06 09:37:44"
+    "timestamp": "2026-08-06 09:39:10"
   }
 ]
