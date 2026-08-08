@@ -34,5 +34,14 @@
       "https://vkvideo.ru/video791768803_456265771"
     ],
     "timestamp": "2026-08-08 21:23:36"
+  },
+  {
+    "id": "89d4ea7b6807423689bb397892e6a0e4",
+    "role": "bluebot",
+    "chat_id": "1132366015",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل سحب محتويات الموقع."
+    ],
+    "timestamp": "2026-08-08 21:23:48"
   }
 ]
