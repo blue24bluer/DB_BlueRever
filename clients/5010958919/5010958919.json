@@ -862,5 +862,14 @@
       "/clear history 5609004432"
     ],
     "timestamp": "2026-08-08 12:52:33"
+  },
+  {
+    "id": "67ec68687b344b7d81bf543e9c08e3bf",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "✅ `5609004432` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
+    ],
+    "timestamp": "2026-08-08 12:52:34"
   }
 ]
