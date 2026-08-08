@@ -1915,5 +1915,23 @@
       "Hello"
     ],
     "timestamp": "2026-08-08 13:56:27"
+  },
+  {
+    "id": "d23e9c17d72a4858a59baf7e7bbccb82",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-08-08 13:56:27"
+  },
+  {
+    "id": "49c103c0ff76414d9ae35ff547a23f60",
+    "role": "Mrrome_21",
+    "chat_id": "5537214492",
+    "parts": [
+      "Hello"
+    ],
+    "timestamp": "2026-08-08 13:56:31"
   }
 ]
