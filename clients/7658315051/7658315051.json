@@ -304,5 +304,14 @@
       "أنتا عبيط"
     ],
     "timestamp": "2026-08-11 18:07:09"
+  },
+  {
+    "id": "73e36b0a8b424d6f85bb89a368580da6",
+    "role": "bluebot",
+    "chat_id": "7658315051",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-08-11 18:07:15"
   }
 ]
