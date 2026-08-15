@@ -25,5 +25,14 @@
       "Hello."
     ],
     "timestamp": "2026-08-15 10:09:18"
+  },
+  {
+    "id": "7f38d6f21970424e9c2ec7d5c4274f79",
+    "role": "bluebot",
+    "chat_id": "7130976984",
+    "parts": [
+      "Hello."
+    ],
+    "timestamp": "2026-08-15 10:09:19"
   }
 ]
