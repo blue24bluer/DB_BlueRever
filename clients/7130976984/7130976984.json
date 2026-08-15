@@ -133,5 +133,14 @@
       ""
     ],
     "timestamp": "2026-08-15 10:13:17"
+  },
+  {
+    "id": "be6c9e4242d64af08f32825c3af0baf9",
+    "role": "bluebot",
+    "chat_id": "7130976984",
+    "parts": [
+      "Failed to save image from Telegram."
+    ],
+    "timestamp": "2026-08-15 10:13:18"
   }
 ]
