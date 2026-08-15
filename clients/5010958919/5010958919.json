@@ -2302,5 +2302,14 @@
       "🛒 **طلب جديد (مجاني)**\n- بصمة الطلب: `BLUE-46A77F67-4DFE`\n- بريد العميل: `admin_test@bluestore.local`\n\n☁️ **(تحميل تلقائي - GitHub):**\n- evilginx-pro"
     ],
     "timestamp": "2026-08-15 12:11:54"
+  },
+  {
+    "id": "f452372ea70f49a88900856c31b7b52c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `89.189.64.44`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0...`"
+    ],
+    "timestamp": "2026-08-15 14:15:27"
   }
 ]
