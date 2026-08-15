@@ -7,5 +7,14 @@
       ""
     ],
     "timestamp": "2026-08-15 23:40:13"
+  },
+  {
+    "id": "9793981ae6ab499ab78e00441ecf60ba",
+    "role": "bluebot",
+    "chat_id": "8699170438",
+    "parts": [
+      "File type 'mp4' is not currently supported for text processing."
+    ],
+    "timestamp": "2026-08-15 23:40:15"
   }
 ]
