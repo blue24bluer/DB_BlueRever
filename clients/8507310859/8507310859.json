@@ -385,5 +385,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nفتاة ذات شعر طويل داكن، ترتدي قميصًا داكنًا بأكمام طويلة وتنورة داكنة، تجلس على العشب في حديقة. ترفع يدها اليمنى لتظلل عينيها من الشمس، وترتدي خاتمًا كبيرًا على إصبعها. تضع يدها اليسرى على صدرها. يظهر في الخلفية أشجار خضراء وسماء صافية."
     ],
     "timestamp": "2026-08-18 18:55:18"
+  },
+  {
+    "id": "ae38b3adfa8a4d38ace0b74783ed8dff",
+    "role": "Unknown",
+    "chat_id": "8507310859",
+    "parts": [
+      "https://t.me/n588n/67556?single"
+    ],
+    "timestamp": "2026-08-18 18:55:36"
   }
 ]
