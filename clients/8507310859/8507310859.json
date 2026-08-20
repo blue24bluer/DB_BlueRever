@@ -268,5 +268,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nصورة فوتوغرافية لامرأة شابة ذات شعر أسود قصير تقف على الشاطئ وتحمل باقة من الورود البيضاء. ترتدي المرأة فستانًا أبيض سادة بحمالات. خلفها، يوجد بحر هادئ وسماء بيضاء. تبتسم المرأة ابتسامة لطيفة وتنظر إلى الكاميرا."
     ],
     "timestamp": "2026-08-20 05:43:19"
+  },
+  {
+    "id": "0423bb0f576f4431b388e5bec7742f8f",
+    "role": "Unknown",
+    "chat_id": "8507310859",
+    "parts": [
+      "https://t.me/n588n/67977?single"
+    ],
+    "timestamp": "2026-08-20 05:43:40"
   }
 ]
