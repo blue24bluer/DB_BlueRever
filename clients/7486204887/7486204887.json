@@ -106,5 +106,14 @@
       "⁠[https://youtu.be/xAtISVc_WyU](https://youtu.be/xAtISVc_WyU)⁠"
     ],
     "timestamp": "2026-08-21 00:00:20"
+  },
+  {
+    "id": "3c05e97b0dd34dd4a0b47ef4db9c388b",
+    "role": "bluebot",
+    "chat_id": "7486204887",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل سحب محتويات الموقع."
+    ],
+    "timestamp": "2026-08-21 00:00:33"
   }
 ]
