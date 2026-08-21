@@ -1078,5 +1078,14 @@
       "https://t.me/n588n/68394?single"
     ],
     "timestamp": "2026-08-21 15:38:10"
+  },
+  {
+    "id": "1dd0d8bd20014631bac4458ebe7135af",
+    "role": "bluebot",
+    "chat_id": "8507310859",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM_ERROR]: فشل استخراج محتوى رابط تيليجرام."
+    ],
+    "timestamp": "2026-08-21 15:38:26"
   }
 ]
