@@ -1132,5 +1132,14 @@
       "URL_CONTEXT :[SYSTEM_ERROR]: فشل استخراج محتوى رابط تيليجرام."
     ],
     "timestamp": "2026-08-21 15:39:17"
+  },
+  {
+    "id": "43643afc1b1d42c096038ffcf3d18f59",
+    "role": "bluebot",
+    "chat_id": "8507310859",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-08-21 15:39:19"
   }
 ]
