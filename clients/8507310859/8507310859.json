@@ -871,5 +871,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nتظهر الصورة بورتريه قريب لفتاة ذات شعر طويل داكن. شعرها مبعثر بفعل الرياح، وتحدق مباشرة في الكاميرا بنظرة هادئة. ترتدي قميصًا أبيض بسيطًا. الخلفية عبارة عن حديقة خضراء مورقة مع ضوء الشمس يتخلل الأشجار."
     ],
     "timestamp": "2026-08-21 05:28:22"
+  },
+  {
+    "id": "29809525e42d4cfaa930334575ee1d75",
+    "role": "Unknown",
+    "chat_id": "8507310859",
+    "parts": [
+      "https://t.me/n588n/68385?single"
+    ],
+    "timestamp": "2026-08-21 05:28:31"
   }
 ]
