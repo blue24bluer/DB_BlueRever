@@ -34,5 +34,14 @@
       "https://temp.sh/QVwth/hypercar2.mp4"
     ],
     "timestamp": "2026-08-22 11:41:51"
+  },
+  {
+    "id": "1fa84a23a5b0491e805e742b89118928",
+    "role": "bluebot",
+    "chat_id": "5035675905",
+    "parts": [
+      "URL_CONTEXT :[SYSTEM]: فشل تحميل ومعالجة الملف المباشر."
+    ],
+    "timestamp": "2026-08-22 11:41:59"
   }
 ]
