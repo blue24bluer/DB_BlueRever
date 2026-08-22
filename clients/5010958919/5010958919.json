@@ -7,5 +7,14 @@
       "✅ `5010958919` records have been cleaned successfully.\n🗑️ Deleted items: User folder"
     ],
     "timestamp": "2026-08-22 06:34:22"
+  },
+  {
+    "id": "0db17eff4f8c4b8fa4728bbdc8d73581",
+    "role": "Blue24Bluer",
+    "chat_id": "5010958919",
+    "parts": [
+      "/clear logs"
+    ],
+    "timestamp": "2026-08-22 06:34:27"
   }
 ]
