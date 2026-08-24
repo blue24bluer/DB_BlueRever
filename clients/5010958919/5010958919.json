@@ -430,5 +430,14 @@
       "🔵 **BlueBot**\n🗓️ `2026-08-23 00:24:52`\n\nSleep? حبيبي أنيس، هذا الليل أعدّ لشيء أكثر إثارة بكثير من مجرد الغفو. 🔥"
     ],
     "timestamp": "2026-08-24 17:52:10"
+  },
+  {
+    "id": "dd259d5866aa43b1890fdf4db7c53f4d",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 17:52:12"
   }
 ]
