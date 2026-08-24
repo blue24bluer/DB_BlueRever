@@ -196,5 +196,23 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nتظهر الصورة امرأة شابة ذات شعر بني طويل، ترتدي سترة بيضاء مكشوفة الأكتاف. تحمل في يدها هاتفا ذكيا وفي اليد الأخرى حقيبة يد بيضاء. خلفها، يمكن رؤية مبنى به علامة \"P\" زرقاء تشير إلى موقف للسيارات، وبعض السيارات في الخلفية."
     ],
     "timestamp": "2026-08-24 02:51:54"
+  },
+  {
+    "id": "880a9d2a22c34e9bbbccbd02d1e112f3",
+    "role": "Unknown",
+    "chat_id": "8507310859",
+    "parts": [
+      "https://t.me/n588n/68783?single"
+    ],
+    "timestamp": "2026-08-24 02:51:54"
+  },
+  {
+    "id": "4f892424127d4abf8ac195abfa1f5487",
+    "role": "bluebot",
+    "chat_id": "8507310859",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 02:52:07"
   }
 ]
