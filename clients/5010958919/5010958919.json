@@ -115,5 +115,14 @@
       "🟢 **User (Unknown)**\n🗓️ `2026-08-23 00:10:57`\n\nHello!"
     ],
     "timestamp": "2026-08-24 17:51:28"
+  },
+  {
+    "id": "e0663e0cac0148d1848f9f80e6b0ad94",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 17:51:29"
   }
 ]
