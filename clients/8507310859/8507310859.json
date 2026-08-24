@@ -115,5 +115,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nفتاة آسيوية ذات شعر طويل داكن تبتسم للكاميرا. ترتدي سترة محبوكة بيضاء اللون مع ياقة فرو. يبدو أنها في الداخل، ربما في مكان مظلم أو بار، حيث توجد أضواء خافتة وزجاجات في الخلفية. الإضاءة تسلط الضوء على وجه الفتاة."
     ],
     "timestamp": "2026-08-24 02:50:39"
+  },
+  {
+    "id": "a0698e45bbda43e7b6763b2c0997db9c",
+    "role": "bluebot",
+    "chat_id": "8507310859",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 02:50:58"
   }
 ]
