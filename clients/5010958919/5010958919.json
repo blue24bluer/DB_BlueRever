@@ -394,5 +394,23 @@
       "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     ],
     "timestamp": "2026-08-24 17:52:05"
+  },
+  {
+    "id": "6090bb80cdb242eaa2e534503e2d33b5",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 17:52:06"
+  },
+  {
+    "id": "8b983afce02f4c1c8c45a3557fea0f18",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 17:52:07"
   }
 ]
