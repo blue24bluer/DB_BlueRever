@@ -808,5 +808,14 @@
       "🔵 **BlueBot**\n🗓️ `2026-08-24 14:36:35`\n\n[ERR_SYS] : You have been blocked."
     ],
     "timestamp": "2026-08-24 17:52:59"
+  },
+  {
+    "id": "2a478a44231742d0a6f10715916dc22c",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 17:53:01"
   }
 ]
