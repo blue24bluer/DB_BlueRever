@@ -700,5 +700,14 @@
       "ايييي"
     ],
     "timestamp": "2026-08-24 14:35:49"
+  },
+  {
+    "id": "1bffab4c9fd749fe997f712c2418df98",
+    "role": "bluebot",
+    "chat_id": "6648776260",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-08-24 14:36:35"
   }
 ]
