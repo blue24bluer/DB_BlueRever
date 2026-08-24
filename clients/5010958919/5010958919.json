@@ -799,5 +799,14 @@
       "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     ],
     "timestamp": "2026-08-24 17:52:58"
+  },
+  {
+    "id": "5c105fecc9a341babc8401ca8b4ef665",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🔵 **BlueBot**\n🗓️ `2026-08-24 14:36:35`\n\n[ERR_SYS] : You have been blocked."
+    ],
+    "timestamp": "2026-08-24 17:52:59"
   }
 ]
