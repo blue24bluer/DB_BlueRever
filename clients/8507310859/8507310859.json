@@ -502,5 +502,14 @@
       "URL_CONTEXT :\n[SYSTEM_NOTICE]: I (the system) have already sent this IMAGE to the user. Describe it based on this analysis:\nصورة مقربة لفتاة ذات شعر بني طويل وعيون داكنة، ترتدي قميصًا سماويًا فاتحًا، وتضع يدها على أذنها. تظهر في الخلفية مساحة خضراء عشبية وبعض النباتات، بالإضافة إلى هيكل زجاجي مع أثاث في الخلفية."
     ],
     "timestamp": "2026-08-24 02:57:24"
+  },
+  {
+    "id": "7ef66959a2c7427d8cf8bb0cd5e5fccc",
+    "role": "bluebot",
+    "chat_id": "8507310859",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-24 02:57:46"
   }
 ]
