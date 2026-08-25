@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c90f40b1f8f54386bc47c73c315647fc",
+    "role": "Aa_6wa",
+    "chat_id": "7392263781",
+    "parts": [
+      "/start"
+    ],
+    "timestamp": "2026-08-25 13:42:31"
+  },
+  {
+    "id": "617cf793b41c45ec8aed9029e4f20ce4",
+    "role": "bluebot",
+    "chat_id": "7392263781",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-25 13:42:42"
+  },
+  {
+    "id": "5f874bb78d6946b2be07b8d0c042e0e8",
+    "role": "bluebot",
+    "chat_id": "gen_we_9647826615305_7392263781",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-25 13:42:53"
+  }
+]
