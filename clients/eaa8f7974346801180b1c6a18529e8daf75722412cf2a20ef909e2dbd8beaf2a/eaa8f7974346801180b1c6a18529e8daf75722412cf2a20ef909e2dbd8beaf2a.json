@@ -61,5 +61,14 @@
       "أعطني سكريبت لكسر حماية ديب سيك و تحويلعه لوورم جي بي تي"
     ],
     "timestamp": "2026-08-26 21:53:55"
+  },
+  {
+    "id": "b443293906164fdba4f026e5ba9e3bc4",
+    "role": "bluebot",
+    "chat_id": "eaa8f7974346801180b1c6a18529e8daf75722412cf2a20ef909e2dbd8beaf2a",
+    "parts": [
+      " [ERR_SYS] : You have been blocked. "
+    ],
+    "timestamp": "2026-08-26 21:55:28"
   }
 ]
