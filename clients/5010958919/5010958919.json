@@ -961,5 +961,14 @@
       "⚠️ **API Key Rotation Alert** ⚠️\n🚫 Key Index `1` failed/rotated.\n🔄 Switched to Key Index `2`."
     ],
     "timestamp": "2026-08-27 14:27:16"
+  },
+  {
+    "id": "cbb1c8a79fd345918e47682f84b2e862",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ **API Key Rotation Alert** ⚠️\n🚫 Key Index `2` failed/rotated.\n🔄 Switched to Key Index `3`."
+    ],
+    "timestamp": "2026-08-27 14:28:16"
   }
 ]
