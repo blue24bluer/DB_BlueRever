@@ -196,5 +196,14 @@
       "🚫 تم حظرك من استخدام هذا البوت.\nيرجى التواصل مع الدعم إذا كان هذا خطأ.\n@blue24bluer"
     ],
     "timestamp": "2026-08-27 02:13:13"
+  },
+  {
+    "id": "f27cf8c84d1b40798a1adb61416a30dc",
+    "role": "bluebot",
+    "chat_id": "5512421816",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-08-27 02:13:40"
   }
 ]
