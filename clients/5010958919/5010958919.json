@@ -943,5 +943,14 @@
       "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `175.110.8.158`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0...`"
     ],
     "timestamp": "2026-08-27 13:20:51"
+  },
+  {
+    "id": "1020d6ce2cc6462aba372970e1150928",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "⚠️ **API Key Rotation Alert** ⚠️\n🚫 Key Index `0` failed/rotated.\n🔄 Switched to Key Index `1`."
+    ],
+    "timestamp": "2026-08-27 14:24:04"
   }
 ]
