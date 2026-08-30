@@ -232,5 +232,14 @@
       "[HIDE]:MockResponse(text='```json\\n{\\n  \"action\": {\\n    \"send_file\": \"iloveyou.mp3\"\\n  }\\n}\\n```')"
     ],
     "timestamp": "2026-08-30 16:06:08"
+  },
+  {
+    "id": "04097d8f41644f6398c34329aff4273d",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "[FILE_WEB_v2]:/web_public/res_1788105969_iloveyou.mp3:iloveyou.mp3"
+    ],
+    "timestamp": "2026-08-30 16:06:09"
   }
 ]
