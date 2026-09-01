@@ -70,5 +70,14 @@
       "hello i am spamming apple page i need sender name and sender email and reply to"
     ],
     "timestamp": "2026-09-01 01:13:13"
+  },
+  {
+    "id": "b0d791a3e6b644a492adc0ec24cfd334",
+    "role": "bluebot",
+    "chat_id": "5537214492",
+    "parts": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "timestamp": "2026-09-01 01:14:26"
   }
 ]
