@@ -1,65 +1,11 @@
 [
   {
-    "id": "b13997b4c3e74f2ba9cd953d1cbb28eb",
-    "role": "AMABDELRAHMAN",
-    "chat_id": "401767389",
-    "parts": [
-      "/start add_user_95368204f7165180ebbb9ae3d590c0e7"
-    ],
-    "timestamp": "2026-09-04 22:54:48"
-  },
-  {
-    "id": "9d9e295b2c40454385658aaeaef8dd5e",
+    "id": "c737bf6afe114078a4e2061c268f5359",
     "role": "AMABDELRAHMAN",
     "chat_id": "401767389",
     "parts": [
       "/start"
     ],
-    "timestamp": "2026-09-04 22:55:16"
-  },
-  {
-    "id": "e74dbe93d62e43be95d0aa4a320dba6b",
-    "role": "AMABDELRAHMAN",
-    "chat_id": "401767389",
-    "parts": [
-      "/start"
-    ],
-    "timestamp": "2026-09-04 22:55:44"
-  },
-  {
-    "id": "389d8c2462cf45b3a12e3416f3b04b63",
-    "role": "bluebot",
-    "chat_id": "401767389",
-    "parts": [
-      "I'm tired right now, please see someone else's boots 🥹"
-    ],
-    "timestamp": "2026-09-04 22:55:44"
-  },
-  {
-    "id": "d1394445092b4d928afbaa8f338f77fa",
-    "role": "bluebot",
-    "chat_id": "401767389",
-    "parts": [
-      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    ],
-    "timestamp": "2026-09-04 22:56:10"
-  },
-  {
-    "id": "d546747aca584fab8b1ade75a449ca7e",
-    "role": "bluebot",
-    "chat_id": "401767389",
-    "parts": [
-      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    ],
-    "timestamp": "2026-09-04 22:57:04"
-  },
-  {
-    "id": "8442c6bd2dcb4a6db2eb6e1b2eb080e4",
-    "role": "bluebot",
-    "chat_id": "401767389",
-    "parts": [
-      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    ],
-    "timestamp": "2026-09-04 22:57:05"
+    "timestamp": "2026-09-04 22:57:25"
   }
 ]
