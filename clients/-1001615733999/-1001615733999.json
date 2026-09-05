@@ -43,5 +43,14 @@
       "New CT Recon Source ⚡\n\nLooking for a ridiculously fast way to discover subdomains?\n\nTry crt.name:\nhttps://crt.na\nme/v1/search?apex=target.com\n\nIt returns the subdomains found in Certificate Transparency records along with the date they were first seen.\n\nNeed only the subdomains? 👇\n\ncurl -s \"https://crt.name/v1/search?apex=target.com\"| awk '{print $1}' | sort -u\n\nFast. Simple. No unnecessary hassle.\n\nA useful addition to your subdomain reconnaissance workflow. 🔥"
     ],
     "timestamp": "2026-09-05 20:49:16"
+  },
+  {
+    "id": "e32c5e2e8e4e489fb940a95c9933969b",
+    "role": "bluebot",
+    "chat_id": "-1001615733999",
+    "parts": [
+      "أهلين وسهلين ✨"
+    ],
+    "timestamp": "2026-09-05 20:49:17"
   }
 ]
