@@ -34,5 +34,14 @@
       "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
     ],
     "timestamp": "2026-08-24 12:44:30"
+  },
+  {
+    "id": "e96dc8ec74ec4bea8ab1c8e83b215a08",
+    "role": "",
+    "chat_id": "-1001615733999",
+    "parts": [
+      "New CT Recon Source ⚡\n\nLooking for a ridiculously fast way to discover subdomains?\n\nTry crt.name:\nhttps://crt.na\nme/v1/search?apex=target.com\n\nIt returns the subdomains found in Certificate Transparency records along with the date they were first seen.\n\nNeed only the subdomains? 👇\n\ncurl -s \"https://crt.name/v1/search?apex=target.com\"| awk '{print $1}' | sort -u\n\nFast. Simple. No unnecessary hassle.\n\nA useful addition to your subdomain reconnaissance workflow. 🔥"
+    ],
+    "timestamp": "2026-09-05 20:49:16"
   }
 ]
