@@ -16,5 +16,16 @@
       "📢 **إعلان ممول**\n\n✨ BlueSky - The Third Eye, the local intelligence network\n📝 BlueSky Master of OSINT\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1777928452_3620e)"
     ],
     "timestamp": "2026-09-05 14:05:17"
+  },
+  {
+    "id": "69c1a346e6234db5a4f53e9f3994d6e0",
+    "role": "bluebot",
+    "chat_id": "5512421816",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
+    ],
+    "timestamp": "2026-09-06 14:06:07",
+    "model_used": "System Hardcoded",
+    "ai_mode": "System Logic"
   }
 ]
