@@ -790,5 +790,14 @@
       "[SYSTEM: Generated Image] Visual Content: A highly detailed, professional engineering schematic or blueprint of an industrial oven. The image should feature a clear cross-section or exploded view, revealing the internal structure and key components. Highlight essential elements such as heating elements, insulation layers, air circulation systems, control panel integration, and material flow paths. Include clear, concise labels for each major part. The aesthetic should be clean, precise, and technical, suitable for a professional presentation or educational purposes. High resolution, sharp focus, technical drawing style."
     ],
     "timestamp": "2026-09-06 00:17:39"
+  },
+  {
+    "id": "9c87b4dbc834493bb92545d0e67a834c",
+    "role": "a_Lightning",
+    "chat_id": "5609004432",
+    "parts": [
+      "اين الصوره"
+    ],
+    "timestamp": "2026-09-06 00:22:51"
   }
 ]
