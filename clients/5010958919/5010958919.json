@@ -105,5 +105,14 @@
     "timestamp": "2026-09-06 18:21:03",
     "model_used": "Google Gemini",
     "ai_mode": "Chatbot"
+  },
+  {
+    "id": "fa4b4d7b3b324ffba219a87ab0198c22",
+    "role": "web_user_50109589",
+    "chat_id": "5010958919",
+    "parts": [
+      "هل انا مالك ؟ ام ادمن ؟ ام مستخدم خارق ؟ ام مستخدم عادي ؟"
+    ],
+    "timestamp": "2026-09-06 19:39:12"
   }
 ]
