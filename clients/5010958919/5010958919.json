@@ -54,5 +54,16 @@
     "timestamp": "2026-09-06 13:45:37",
     "model_used": "System Hardcoded",
     "ai_mode": "System Logic"
+  },
+  {
+    "id": "11af5b19f9d4452d865f378c2b5732d1",
+    "role": "bluebot",
+    "chat_id": "5010958919",
+    "parts": [
+      "🛡️ **تنبيه أمني: محاولة دخول للوحة التحكم**\n━━━━━━━━━━━━━━━━━━\n🚦 **الحالة:** ✅ SUCCESS\n📌 **النوع:** `Owner Login`\n👤 **المعرف المستخدم:** `blue24bluer@gmail.com`\n🌐 **IP:** `216.247.106.115`\n🔍 **البصمة:** `wm_8be30bcac5e0`\n✅ **بيانات الهوية الموثقة:**\n📱 رقم الهاتف: `Webmaster Auth`\n🆔 معرف تيليجرام: `wm_8be30bcac5e0`\n👤 الاسم المسجل: `api_user_wm_8be30`\n📱 **المتصفح:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0...`"
+    ],
+    "timestamp": "2026-09-06 13:55:00",
+    "model_used": "System Hardcoded",
+    "ai_mode": "System Logic"
   }
 ]
