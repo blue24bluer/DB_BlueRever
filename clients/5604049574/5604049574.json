@@ -16,5 +16,16 @@
       "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     ],
     "timestamp": "2026-09-06 12:42:27"
+  },
+  {
+    "id": "ddb1d77a6fd14f47b87e6347269a8417",
+    "role": "bluebot",
+    "chat_id": "5604049574",
+    "parts": [
+      "📢 **إعلان ممول**\n\n✨ BlueVenom\n📝 BlueVenom: Advanced Automation Framework\n\n🔗 [انقر هنا للمعاينة](https://bluerever.netlify.app/api/ads/go/5010958919/ad_1778156507_78cbd)"
+    ],
+    "timestamp": "2026-09-07 00:42:35",
+    "model_used": "System Hardcoded",
+    "ai_mode": "System Logic"
   }
 ]
